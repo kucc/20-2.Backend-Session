@@ -1,0 +1,7001 @@
+[{
+    "name": "Woolly-necked stork",
+    "color": "Green",
+    "age": 611.1,
+    "food": "African red-eyed bulbul",
+    "predator": "Malagasy ground boa"
+  },
+  {
+    "name": "Palm squirrel",
+    "color": "Green",
+    "age": 767.4,
+    "food": "Galapagos mockingbird",
+    "predator": "Barrows goldeneye"
+  },
+  {
+    "name": "Stanley bustard",
+    "color": "Yellow",
+    "age": 384.5,
+    "food": "Vulture, lappet-faced",
+    "predator": "Barbet, black-collared"
+  },
+  {
+    "name": "Eagle, long-crested hawk",
+    "color": "Crimson",
+    "age": 720.9,
+    "food": "Zorilla",
+    "predator": "Francolin, coqui"
+  },
+  {
+    "name": "Tortoise, radiated",
+    "color": "Pink",
+    "age": 987.5,
+    "food": "Gerenuk",
+    "predator": "Pine squirrel"
+  },
+  {
+    "name": "House sparrow",
+    "color": "Turquoise",
+    "age": 983.6,
+    "food": "Skink, african",
+    "predator": "House crow"
+  },
+  {
+    "name": "Dragon, ornate rock",
+    "color": "Blue",
+    "age": 281.1,
+    "food": "African red-eyed bulbul",
+    "predator": "Crane, sandhill"
+  },
+  {
+    "name": "Kangaroo, black-faced",
+    "color": "Mauv",
+    "age": 48.8,
+    "food": "Sage grouse",
+    "predator": "Weaver, lesser masked"
+  },
+  {
+    "name": "Mara",
+    "color": "Teal",
+    "age": 672.2,
+    "food": "Badger, honey",
+    "predator": "Fat-tailed dunnart"
+  },
+  {
+    "name": "Egyptian vulture",
+    "color": "Orange",
+    "age": 968.4,
+    "food": "Mongoose, eastern dwarf",
+    "predator": "Old world fruit bat"
+  },
+  {
+    "name": "Short-nosed bandicoot",
+    "color": "Khaki",
+    "age": 62.9,
+    "food": "Pied crow",
+    "predator": "Javan gold-spotted mongoose"
+  },
+  {
+    "name": "Pale-throated three-toed sloth",
+    "color": "Crimson",
+    "age": 314.7,
+    "food": "Woylie",
+    "predator": "Grizzly bear"
+  },
+  {
+    "name": "Stork, openbill",
+    "color": "Pink",
+    "age": 79.2,
+    "food": "Ground legaan",
+    "predator": "Baboon, yellow"
+  },
+  {
+    "name": "Glider, squirrel",
+    "color": "Crimson",
+    "age": 788.5,
+    "food": "Kalahari scrub robin",
+    "predator": "African clawless otter"
+  },
+  {
+    "name": "African polecat",
+    "color": "Pink",
+    "age": 116.3,
+    "food": "Hawk, ferruginous",
+    "predator": "Eagle, bald"
+  },
+  {
+    "name": "Bee-eater, white-fronted",
+    "color": "Teal",
+    "age": 557.9,
+    "food": "Monster, gila",
+    "predator": "Russian dragonfly"
+  },
+  {
+    "name": "Siskin, pine",
+    "color": "Orange",
+    "age": 852.1,
+    "food": "Adouri",
+    "predator": "Western patch-nosed snake"
+  },
+  {
+    "name": "Black-backed magpie",
+    "color": "Goldenrod",
+    "age": 534.8,
+    "food": "Tern, royal",
+    "predator": "Bulbul, black-eyed"
+  },
+  {
+    "name": "Savannah deer",
+    "color": "Indigo",
+    "age": 648.7,
+    "food": "Common seal",
+    "predator": "Monkey, vervet"
+  },
+  {
+    "name": "Wallaroo, common",
+    "color": "Red",
+    "age": 343.7,
+    "food": "Sloth, two-toed",
+    "predator": "Grenadier, purple"
+  },
+  {
+    "name": "Spotted wood sandpiper",
+    "color": "Green",
+    "age": 10.8,
+    "food": "Owl, great horned",
+    "predator": "Stork, yellow-billed"
+  },
+  {
+    "name": "Snake, western patch-nosed",
+    "color": "Mauv",
+    "age": 417.4,
+    "food": "Tortoise, radiated",
+    "predator": "Fork-tailed drongo"
+  },
+  {
+    "name": "Stork, yellow-billed",
+    "color": "Crimson",
+    "age": 762.4,
+    "food": "Lizard, blue-tongued",
+    "predator": "Lion, steller sea"
+  },
+  {
+    "name": "Sunbird, lesser double-collared",
+    "color": "Khaki",
+    "age": 256.5,
+    "food": "Carpet snake",
+    "predator": "Indian star tortoise"
+  },
+  {
+    "name": "Purple grenadier",
+    "color": "Crimson",
+    "age": 149.7,
+    "food": "Brown pelican",
+    "predator": "Shark, blue"
+  },
+  {
+    "name": "Common wombat",
+    "color": "Mauv",
+    "age": 871.3,
+    "food": "Viper, egyptian",
+    "predator": "Buffalo, wild water"
+  },
+  {
+    "name": "Deer, black-tailed",
+    "color": "Red",
+    "age": 914.4,
+    "food": "Gerenuk",
+    "predator": "Eastern diamondback rattlesnake"
+  },
+  {
+    "name": "Lappet-faced vulture",
+    "color": "Crimson",
+    "age": 11.9,
+    "food": "Toucan, red-billed",
+    "predator": "Vulture, oriental white-backed"
+  },
+  {
+    "name": "Hartebeest, red",
+    "color": "Teal",
+    "age": 289.7,
+    "food": "Mongoose, small indian",
+    "predator": "White-faced whistling duck"
+  },
+  {
+    "name": "Paca",
+    "color": "Purple",
+    "age": 945.4,
+    "food": "Colobus, white-mantled",
+    "predator": "Stone sheep"
+  },
+  {
+    "name": "Javan gold-spotted mongoose",
+    "color": "Purple",
+    "age": 757.3,
+    "food": "Mexican boa",
+    "predator": "Snowy egret"
+  },
+  {
+    "name": "Stork, saddle-billed",
+    "color": "Yellow",
+    "age": 322.4,
+    "food": "Bird, pied butcher",
+    "predator": "Galapagos mockingbird"
+  },
+  {
+    "name": "Flamingo, roseat",
+    "color": "Purple",
+    "age": 725.1,
+    "food": "Parakeet, rose-ringed",
+    "predator": "Pied butcher bird"
+  },
+  {
+    "name": "Tortoise, desert",
+    "color": "Khaki",
+    "age": 591.2,
+    "food": "Frilled lizard",
+    "predator": "Giraffe"
+  },
+  {
+    "name": "Starling, cape",
+    "color": "Indigo",
+    "age": 463.1,
+    "food": "Turtle, eastern box",
+    "predator": "Caiman, spectacled"
+  },
+  {
+    "name": "Springbok",
+    "color": "Pink",
+    "age": 798.7,
+    "food": "Phalarope, red-necked",
+    "predator": "Golden-mantled ground squirrel"
+  },
+  {
+    "name": "Chacma baboon",
+    "color": "Teal",
+    "age": 233.4,
+    "food": "Butterfly, tropical buckeye",
+    "predator": "Gazelle, grant's"
+  },
+  {
+    "name": "Monkey, rhesus",
+    "color": "Fuscia",
+    "age": 466.8,
+    "food": "Goat, mountain",
+    "predator": "Lion, galapagos sea"
+  },
+  {
+    "name": "Crested barbet",
+    "color": "Fuscia",
+    "age": 767.7,
+    "food": "Capuchin, black-capped",
+    "predator": "Miner's cat"
+  },
+  {
+    "name": "Porcupine, tree",
+    "color": "Goldenrod",
+    "age": 342.9,
+    "food": "Caracal",
+    "predator": "Heron, giant"
+  },
+  {
+    "name": "Long-tailed jaeger",
+    "color": "Khaki",
+    "age": 294.4,
+    "food": "Gull, kelp",
+    "predator": "Vulture, black"
+  },
+  {
+    "name": "Marmot, yellow-bellied",
+    "color": "Red",
+    "age": 717.4,
+    "food": "Savanna fox",
+    "predator": "Mudskipper"
+  },
+  {
+    "name": "Egyptian goose",
+    "color": "Violet",
+    "age": 67.7,
+    "food": "Monkey, bleeding heart",
+    "predator": "Capuchin, weeper"
+  },
+  {
+    "name": "Macaw, red and blue",
+    "color": "Aquamarine",
+    "age": 447.3,
+    "food": "Moccasin, water",
+    "predator": "Onager"
+  },
+  {
+    "name": "Crake, african black",
+    "color": "Pink",
+    "age": 352.2,
+    "food": "Great horned owl",
+    "predator": "Beisa oryx"
+  },
+  {
+    "name": "Possum, ring-tailed",
+    "color": "Purple",
+    "age": 695.6,
+    "food": "Kangaroo, black-faced",
+    "predator": "Crane, wattled"
+  },
+  {
+    "name": "Pocket gopher",
+    "color": "Pink",
+    "age": 535.6,
+    "food": "African polecat",
+    "predator": "Tinamou, elegant crested"
+  },
+  {
+    "name": "Paca",
+    "color": "Fuscia",
+    "age": 560.9,
+    "food": "Rhesus macaque",
+    "predator": "Cat, kaffir"
+  },
+  {
+    "name": "Opossum, american virginia",
+    "color": "Teal",
+    "age": 498.2,
+    "food": "Leadbeateri's ground hornbill",
+    "predator": "Eagle, long-crested hawk"
+  },
+  {
+    "name": "Galapagos mockingbird",
+    "color": "Maroon",
+    "age": 594.1,
+    "food": "Starling, red-shouldered glossy",
+    "predator": "Goose, canada"
+  },
+  {
+    "name": "Wallaby, river",
+    "color": "Teal",
+    "age": 844.8,
+    "food": "Killer whale",
+    "predator": "Penguin, little blue"
+  },
+  {
+    "name": "Kookaburra, laughing",
+    "color": "Aquamarine",
+    "age": 790.3,
+    "food": "White-headed vulture",
+    "predator": "Flamingo, chilean"
+  },
+  {
+    "name": "Native cat",
+    "color": "Violet",
+    "age": 56.5,
+    "food": "Galapagos hawk",
+    "predator": "Owl, white-browed"
+  },
+  {
+    "name": "Agouti",
+    "color": "Puce",
+    "age": 982.7,
+    "food": "Squirrel, indian giant",
+    "predator": "Darwin ground finch"
+  },
+  {
+    "name": "Cardinal, red-capped",
+    "color": "Teal",
+    "age": 109.7,
+    "food": "Southern lapwing",
+    "predator": "Squirrel, indian giant"
+  },
+  {
+    "name": "White-tailed deer",
+    "color": "Mauv",
+    "age": 177.3,
+    "food": "Burchell's gonolek",
+    "predator": "Yellow-billed hornbill"
+  },
+  {
+    "name": "Fox, cape",
+    "color": "Yellow",
+    "age": 191.6,
+    "food": "Albatross, waved",
+    "predator": "Sparrow, rufous-collared"
+  },
+  {
+    "name": "Uinta ground squirrel",
+    "color": "Teal",
+    "age": 761.1,
+    "food": "Galapagos dove",
+    "predator": "Springhare"
+  },
+  {
+    "name": "Wallaby, agile",
+    "color": "Mauv",
+    "age": 842.7,
+    "food": "Nilgai",
+    "predator": "Tenrec, tailless"
+  },
+  {
+    "name": "Silver-backed jackal",
+    "color": "Fuscia",
+    "age": 434.0,
+    "food": "Black-collared barbet",
+    "predator": "Eurasian badger"
+  },
+  {
+    "name": "Pintail, white-cheeked",
+    "color": "Purple",
+    "age": 154.7,
+    "food": "Smith's bush squirrel",
+    "predator": "Barbet, black-collared"
+  },
+  {
+    "name": "Shrike, crimson-breasted",
+    "color": "Fuscia",
+    "age": 995.3,
+    "food": "Jabiru stork",
+    "predator": "Puma"
+  },
+  {
+    "name": "Sandhill crane",
+    "color": "Violet",
+    "age": 978.2,
+    "food": "Mocking cliffchat",
+    "predator": "Monkey, rhesus"
+  },
+  {
+    "name": "Wombat, common",
+    "color": "Crimson",
+    "age": 555.8,
+    "food": "Sloth, two-toed tree",
+    "predator": "Coqui partridge"
+  },
+  {
+    "name": "Buffalo, asian water",
+    "color": "Purple",
+    "age": 734.7,
+    "food": "Great white pelican",
+    "predator": "Quoll, eastern"
+  },
+  {
+    "name": "Goanna lizard",
+    "color": "Crimson",
+    "age": 762.4,
+    "food": "Bird, secretary",
+    "predator": "Civet cat"
+  },
+  {
+    "name": "Yellow-throated sandgrouse",
+    "color": "Violet",
+    "age": 205.3,
+    "food": "Sheep, red",
+    "predator": "Frogmouth, tawny"
+  },
+  {
+    "name": "Cape fox",
+    "color": "Purple",
+    "age": 542.0,
+    "food": "Cat, civet",
+    "predator": "Komodo dragon"
+  },
+  {
+    "name": "African fish eagle",
+    "color": "Fuscia",
+    "age": 867.1,
+    "food": "Sloth bear",
+    "predator": "Bontebok"
+  },
+  {
+    "name": "Hyena, brown",
+    "color": "Mauv",
+    "age": 895.5,
+    "food": "Chickadee, black-capped",
+    "predator": "Tortoise, burmese brown mountain"
+  },
+  {
+    "name": "Kori bustard",
+    "color": "Teal",
+    "age": 440.5,
+    "food": "Magellanic penguin",
+    "predator": "Magpie, australian"
+  },
+  {
+    "name": "European stork",
+    "color": "Goldenrod",
+    "age": 467.8,
+    "food": "Western patch-nosed snake",
+    "predator": "Starling, red-shouldered glossy"
+  },
+  {
+    "name": "Black-cheeked waxbill",
+    "color": "Pink",
+    "age": 52.0,
+    "food": "Iguana, common green",
+    "predator": "Nutcracker, clark's"
+  },
+  {
+    "name": "Sungazer, yellow-brown",
+    "color": "Mauv",
+    "age": 133.2,
+    "food": "Deer, barasingha",
+    "predator": "Yellow-crowned night heron"
+  },
+  {
+    "name": "Squirrel, thirteen-lined",
+    "color": "Crimson",
+    "age": 154.6,
+    "food": "Ring-tailed possum",
+    "predator": "Raven, cape"
+  },
+  {
+    "name": "Monitor lizard",
+    "color": "Red",
+    "age": 120.0,
+    "food": "Russian dragonfly",
+    "predator": "Olive baboon"
+  },
+  {
+    "name": "Antechinus, brown",
+    "color": "Purple",
+    "age": 659.3,
+    "food": "Skua, long-tailed",
+    "predator": "Killer whale"
+  },
+  {
+    "name": "Hare, arctic",
+    "color": "Puce",
+    "age": 40.3,
+    "food": "Common turkey",
+    "predator": "Galapagos hawk"
+  },
+  {
+    "name": "Capuchin, weeper",
+    "color": "Aquamarine",
+    "age": 232.9,
+    "food": "Frilled lizard",
+    "predator": "Galapagos tortoise"
+  },
+  {
+    "name": "Small-spotted genet",
+    "color": "Orange",
+    "age": 93.2,
+    "food": "Starling, superb",
+    "predator": "Porcupine, tree"
+  },
+  {
+    "name": "Pigeon, wood",
+    "color": "Indigo",
+    "age": 578.6,
+    "food": "Black-footed ferret",
+    "predator": "Stanley bustard"
+  },
+  {
+    "name": "Boat-billed heron",
+    "color": "Fuscia",
+    "age": 887.0,
+    "food": "Common dolphin",
+    "predator": "Bee-eater"
+  },
+  {
+    "name": "Canada goose",
+    "color": "Turquoise",
+    "age": 222.1,
+    "food": "Puffin, horned",
+    "predator": "Giant armadillo"
+  },
+  {
+    "name": "Otter, cape clawless",
+    "color": "Puce",
+    "age": 341.6,
+    "food": "Eagle owl",
+    "predator": "Pallas's fish eagle"
+  },
+  {
+    "name": "Grey-footed squirrel",
+    "color": "Green",
+    "age": 28.9,
+    "food": "Snake",
+    "predator": "Sheep, red"
+  },
+  {
+    "name": "Springbuck",
+    "color": "Purple",
+    "age": 687.1,
+    "food": "Burrowing owl",
+    "predator": "Bat, little brown"
+  },
+  {
+    "name": "Square-lipped rhinoceros",
+    "color": "Orange",
+    "age": 429.0,
+    "food": "Bushpig",
+    "predator": "Painted stork"
+  },
+  {
+    "name": "Southern lapwing",
+    "color": "Yellow",
+    "age": 581.6,
+    "food": "Grey fox",
+    "predator": "Tarantula"
+  },
+  {
+    "name": "Mallard",
+    "color": "Yellow",
+    "age": 506.6,
+    "food": "Weaver, white-browed sparrow",
+    "predator": "Parrot, hawk-headed"
+  },
+  {
+    "name": "Otter, brazilian",
+    "color": "Goldenrod",
+    "age": 465.2,
+    "food": "Tern, white-winged",
+    "predator": "Goose, snow"
+  },
+  {
+    "name": "Oryx, beisa",
+    "color": "Orange",
+    "age": 421.1,
+    "food": "Thomson's gazelle",
+    "predator": "Goose, cape barren"
+  },
+  {
+    "name": "Fox, savanna",
+    "color": "Teal",
+    "age": 505.2,
+    "food": "Lory, rainbow",
+    "predator": "Coatimundi, ring-tailed"
+  },
+  {
+    "name": "Brindled gnu",
+    "color": "Goldenrod",
+    "age": 579.3,
+    "food": "Rhea, gray",
+    "predator": "Australian spiny anteater"
+  },
+  {
+    "name": "Eagle owl",
+    "color": "Khaki",
+    "age": 567.4,
+    "food": "Toucan, white-throated",
+    "predator": "Quail, gambel's"
+  },
+  {
+    "name": "Canadian river otter",
+    "color": "Orange",
+    "age": 427.8,
+    "food": "Comb duck",
+    "predator": "Seal, common"
+  },
+  {
+    "name": "Asian lion",
+    "color": "Maroon",
+    "age": 698.3,
+    "food": "Hare, arctic",
+    "predator": "Indian mynah"
+  },
+  {
+    "name": "Large cormorant",
+    "color": "Teal",
+    "age": 731.4,
+    "food": "Heron, yellow-crowned night",
+    "predator": "Woodrat"
+  },
+  {
+    "name": "European shelduck",
+    "color": "Pink",
+    "age": 601.9,
+    "food": "Long-tailed jaeger",
+    "predator": "Square-lipped rhinoceros"
+  },
+  {
+    "name": "Asian water dragon",
+    "color": "Violet",
+    "age": 944.0,
+    "food": "Common ringtail",
+    "predator": "Phalarope, northern"
+  },
+  {
+    "name": "Indian giant squirrel",
+    "color": "Khaki",
+    "age": 689.4,
+    "food": "Pintail, bahama",
+    "predator": "Galapagos sea lion"
+  },
+  {
+    "name": "Black-crowned night heron",
+    "color": "Violet",
+    "age": 890.4,
+    "food": "Lemur, ring-tailed",
+    "predator": "Buffalo, asian water"
+  },
+  {
+    "name": "Lion, steller's sea",
+    "color": "Mauv",
+    "age": 744.8,
+    "food": "Deer, spotted",
+    "predator": "Roe deer"
+  },
+  {
+    "name": "Fox, arctic",
+    "color": "Teal",
+    "age": 480.7,
+    "food": "Carpet python",
+    "predator": "Civet"
+  },
+  {
+    "name": "Defassa waterbuck",
+    "color": "Aquamarine",
+    "age": 853.3,
+    "food": "Eagle, bateleur",
+    "predator": "Macaque, rhesus"
+  },
+  {
+    "name": "Lilac-breasted roller",
+    "color": "Teal",
+    "age": 322.1,
+    "food": "Burrowing owl",
+    "predator": "Dolphin, bottle-nose"
+  },
+  {
+    "name": "Chipmunk, least",
+    "color": "Indigo",
+    "age": 834.0,
+    "food": "Tasmanian devil",
+    "predator": "Kingfisher, malachite"
+  },
+  {
+    "name": "American marten",
+    "color": "Goldenrod",
+    "age": 469.6,
+    "food": "Blue catfish",
+    "predator": "Duck, white-faced whistling"
+  },
+  {
+    "name": "American black bear",
+    "color": "Puce",
+    "age": 750.9,
+    "food": "Kangaroo, eastern grey",
+    "predator": "Curlew, black"
+  },
+  {
+    "name": "Stork, black-necked",
+    "color": "Teal",
+    "age": 298.6,
+    "food": "Bird, black-throated butcher",
+    "predator": "Blue peacock"
+  },
+  {
+    "name": "Turkey, common",
+    "color": "Yellow",
+    "age": 61.7,
+    "food": "Little grebe",
+    "predator": "Fox, savanna"
+  },
+  {
+    "name": "Northern phalarope",
+    "color": "Mauv",
+    "age": 575.9,
+    "food": "Swallow-tail gull",
+    "predator": "Starling, greater blue-eared"
+  },
+  {
+    "name": "Tern, arctic",
+    "color": "Violet",
+    "age": 769.7,
+    "food": "Small-clawed otter",
+    "predator": "Bustard, kori"
+  },
+  {
+    "name": "Helmeted guinea fowl",
+    "color": "Green",
+    "age": 29.5,
+    "food": "Greylag goose",
+    "predator": "Jaeger, long-tailed"
+  },
+  {
+    "name": "Brush-tailed bettong",
+    "color": "Orange",
+    "age": 538.1,
+    "food": "Roe deer",
+    "predator": "Worm snake"
+  },
+  {
+    "name": "Wallaby, euro",
+    "color": "Blue",
+    "age": 677.5,
+    "food": "Impala",
+    "predator": "Beaver, north american"
+  },
+  {
+    "name": "Gambel's quail",
+    "color": "Pink",
+    "age": 578.9,
+    "food": "Whale, southern right",
+    "predator": "Thirteen-lined squirrel"
+  },
+  {
+    "name": "Sandgrouse, yellow-throated",
+    "color": "Mauv",
+    "age": 91.8,
+    "food": "Ringtail",
+    "predator": "Siskin, pine"
+  },
+  {
+    "name": "Southern black-backed gull",
+    "color": "Goldenrod",
+    "age": 553.1,
+    "food": "Cobra, egyptian",
+    "predator": "Dragonfly, russian"
+  },
+  {
+    "name": "Dolphin, striped",
+    "color": "Puce",
+    "age": 362.1,
+    "food": "Macaque, rhesus",
+    "predator": "Red-tailed cockatoo"
+  },
+  {
+    "name": "Cereopsis goose",
+    "color": "Blue",
+    "age": 358.3,
+    "food": "Sunbird, lesser double-collared",
+    "predator": "Eurasian hoopoe"
+  },
+  {
+    "name": "Penguin, galapagos",
+    "color": "Maroon",
+    "age": 391.1,
+    "food": "Denham's bustard",
+    "predator": "Blackbuck"
+  },
+  {
+    "name": "Rhea, gray",
+    "color": "Violet",
+    "age": 870.5,
+    "food": "Common wallaroo",
+    "predator": "Mongoose, yellow"
+  },
+  {
+    "name": "Woodpecker, downy",
+    "color": "Aquamarine",
+    "age": 811.7,
+    "food": "Cat, miner's",
+    "predator": "Paradoxure"
+  },
+  {
+    "name": "Cobra",
+    "color": "Aquamarine",
+    "age": 972.1,
+    "food": "Robin, kalahari scrub",
+    "predator": "Tiger"
+  },
+  {
+    "name": "Mountain lion",
+    "color": "Orange",
+    "age": 8.8,
+    "food": "Porcupine, prehensile-tailed",
+    "predator": "Anteater, giant"
+  },
+  {
+    "name": "Thomson's gazelle",
+    "color": "Fuscia",
+    "age": 27.6,
+    "food": "Squirrel, malabar",
+    "predator": "Western bearded dragon"
+  },
+  {
+    "name": "African buffalo",
+    "color": "Crimson",
+    "age": 382.4,
+    "food": "Blue and yellow macaw",
+    "predator": "Two-toed sloth"
+  },
+  {
+    "name": "Red kangaroo",
+    "color": "Crimson",
+    "age": 202.1,
+    "food": "Malabar squirrel",
+    "predator": "Albatross, galapagos"
+  },
+  {
+    "name": "Cat, civet",
+    "color": "Fuscia",
+    "age": 735.1,
+    "food": "Savannah deer",
+    "predator": "Glider, sugar"
+  },
+  {
+    "name": "Woylie",
+    "color": "Crimson",
+    "age": 823.7,
+    "food": "Hanuman langur",
+    "predator": "Ibis, puna"
+  },
+  {
+    "name": "White-necked stork",
+    "color": "Red",
+    "age": 985.2,
+    "food": "South American sea lion",
+    "predator": "Yellow-brown sungazer"
+  },
+  {
+    "name": "Black spider monkey",
+    "color": "Pink",
+    "age": 799.7,
+    "food": "Canadian river otter",
+    "predator": "Northern phalarope"
+  },
+  {
+    "name": "Chickadee, black-capped",
+    "color": "Pink",
+    "age": 358.8,
+    "food": "Sheathbill, snowy",
+    "predator": "African black crake"
+  },
+  {
+    "name": "Guerza",
+    "color": "Red",
+    "age": 5.4,
+    "food": "Sandgrouse, yellow-throated",
+    "predator": "Crake, african black"
+  },
+  {
+    "name": "Argalis",
+    "color": "Mauv",
+    "age": 438.2,
+    "food": "American alligator",
+    "predator": "Glider, squirrel"
+  },
+  {
+    "name": "Amazon parrot",
+    "color": "Goldenrod",
+    "age": 457.2,
+    "food": "Pied avocet",
+    "predator": "American racer"
+  },
+  {
+    "name": "Ring dove",
+    "color": "Red",
+    "age": 961.7,
+    "food": "Goldeneye, common",
+    "predator": "Goldeneye, barrows"
+  },
+  {
+    "name": "Hawk, red-tailed",
+    "color": "Aquamarine",
+    "age": 164.9,
+    "food": "Marabou stork",
+    "predator": "Turkey, common"
+  },
+  {
+    "name": "Great white pelican",
+    "color": "Indigo",
+    "age": 546.4,
+    "food": "Pygmy possum",
+    "predator": "Goose, egyptian"
+  },
+  {
+    "name": "Genoveva",
+    "color": "Orange",
+    "age": 694.3,
+    "food": "Southern elephant seal",
+    "predator": "Chimpanzee"
+  },
+  {
+    "name": "Pelican, eastern white",
+    "color": "Yellow",
+    "age": 528.6,
+    "food": "Caribou",
+    "predator": "Seal, common"
+  },
+  {
+    "name": "Jackal, golden",
+    "color": "Teal",
+    "age": 210.6,
+    "food": "Kingfisher, pied",
+    "predator": "Bush dog"
+  },
+  {
+    "name": "Cormorant, javanese",
+    "color": "Fuscia",
+    "age": 404.2,
+    "food": "Shelduck, european",
+    "predator": "Feral rock pigeon"
+  },
+  {
+    "name": "Harbor seal",
+    "color": "Turquoise",
+    "age": 871.9,
+    "food": "Southern screamer",
+    "predator": "Bird, black-throated butcher"
+  },
+  {
+    "name": "Bird, black-throated butcher",
+    "color": "Fuscia",
+    "age": 976.7,
+    "food": "Gull, swallow-tail",
+    "predator": "Sheep, red"
+  },
+  {
+    "name": "Rattlesnake, horned",
+    "color": "Green",
+    "age": 890.1,
+    "food": "Seal, southern elephant",
+    "predator": "Crown of thorns starfish"
+  },
+  {
+    "name": "Bird, bare-faced go away",
+    "color": "Green",
+    "age": 453.6,
+    "food": "Leopard, indian",
+    "predator": "Mountain goat"
+  },
+  {
+    "name": "Burmese brown mountain tortoise",
+    "color": "Purple",
+    "age": 675.8,
+    "food": "Frilled lizard",
+    "predator": "Heron, striated"
+  },
+  {
+    "name": "Wildebeest, blue",
+    "color": "Pink",
+    "age": 736.7,
+    "food": "Saddle-billed stork",
+    "predator": "Bahama pintail"
+  },
+  {
+    "name": "Hartebeest, coke's",
+    "color": "Teal",
+    "age": 603.8,
+    "food": "Kingfisher, pied",
+    "predator": "Bustard, stanley"
+  },
+  {
+    "name": "Whale, southern right",
+    "color": "Goldenrod",
+    "age": 632.3,
+    "food": "Grouse, sage",
+    "predator": "Sloth, hoffman's"
+  },
+  {
+    "name": "Palm squirrel",
+    "color": "Teal",
+    "age": 86.8,
+    "food": "African skink",
+    "predator": "Deer, spotted"
+  },
+  {
+    "name": "Brazilian tapir",
+    "color": "Maroon",
+    "age": 875.3,
+    "food": "Asian water dragon",
+    "predator": "Kangaroo, eastern grey"
+  },
+  {
+    "name": "Tiger",
+    "color": "Fuscia",
+    "age": 607.7,
+    "food": "African darter",
+    "predator": "Grizzly bear"
+  },
+  {
+    "name": "Ringtail, common",
+    "color": "Goldenrod",
+    "age": 678.4,
+    "food": "Dove, white-winged",
+    "predator": "Pigeon, feral rock"
+  },
+  {
+    "name": "Toucan, red-billed",
+    "color": "Khaki",
+    "age": 84.2,
+    "food": "Frilled dragon",
+    "predator": "Heron, giant"
+  },
+  {
+    "name": "Common rhea",
+    "color": "Green",
+    "age": 551.5,
+    "food": "Chuckwalla",
+    "predator": "Skua, long-tailed"
+  },
+  {
+    "name": "Eagle owl",
+    "color": "Teal",
+    "age": 215.9,
+    "food": "Tern, white-winged",
+    "predator": "Nine-banded armadillo"
+  },
+  {
+    "name": "White-bellied sea eagle",
+    "color": "Indigo",
+    "age": 10.5,
+    "food": "Meerkat, red",
+    "predator": "Tern, arctic"
+  },
+  {
+    "name": "Francolin, swainson's",
+    "color": "Teal",
+    "age": 732.3,
+    "food": "Coatimundi, ring-tailed",
+    "predator": "Tawny frogmouth"
+  },
+  {
+    "name": "Magpie, black-backed",
+    "color": "Mauv",
+    "age": 747.9,
+    "food": "Puma, south american",
+    "predator": "African bush squirrel"
+  },
+  {
+    "name": "Lion, asian",
+    "color": "Turquoise",
+    "age": 692.0,
+    "food": "Golden eagle",
+    "predator": "Common long-nosed armadillo"
+  },
+  {
+    "name": "Red-necked wallaby",
+    "color": "Violet",
+    "age": 537.1,
+    "food": "Squirrel, richardson's ground",
+    "predator": "Mongoose, small indian"
+  },
+  {
+    "name": "Feral rock pigeon",
+    "color": "Yellow",
+    "age": 802.0,
+    "food": "Marmot, hoary",
+    "predator": "Roe deer"
+  },
+  {
+    "name": "Black-crowned night heron",
+    "color": "Violet",
+    "age": 795.7,
+    "food": "Pocket gopher",
+    "predator": "Mongoose, yellow"
+  },
+  {
+    "name": "Cape fox",
+    "color": "Violet",
+    "age": 852.6,
+    "food": "Red-headed woodpecker",
+    "predator": "Argalis"
+  },
+  {
+    "name": "Southern elephant seal",
+    "color": "Red",
+    "age": 627.4,
+    "food": "Hare, arctic",
+    "predator": "Silver-backed fox"
+  },
+  {
+    "name": "Sulfur-crested cockatoo",
+    "color": "Fuscia",
+    "age": 87.7,
+    "food": "Chital",
+    "predator": "Common boubou shrike"
+  },
+  {
+    "name": "Gerbil",
+    "color": "Fuscia",
+    "age": 159.6,
+    "food": "Southern sea lion",
+    "predator": "Mudskipper"
+  },
+  {
+    "name": "Hartebeest, coke's",
+    "color": "Red",
+    "age": 899.8,
+    "food": "Eastern quoll",
+    "predator": "Phalarope, grey"
+  },
+  {
+    "name": "Savanna baboon",
+    "color": "Mauv",
+    "age": 29.0,
+    "food": "Campo flicker",
+    "predator": "Bee-eater, nubian"
+  },
+  {
+    "name": "Cat, african wild",
+    "color": "Khaki",
+    "age": 853.8,
+    "food": "Chimpanzee",
+    "predator": "Legaan, Monitor"
+  },
+  {
+    "name": "Tortoise, desert",
+    "color": "Teal",
+    "age": 208.4,
+    "food": "Brown antechinus",
+    "predator": "Kingfisher, pied"
+  },
+  {
+    "name": "Ring-tailed possum",
+    "color": "Crimson",
+    "age": 257.9,
+    "food": "Hornbill, yellow-billed",
+    "predator": "Porcupine, north american"
+  },
+  {
+    "name": "Swamp deer",
+    "color": "Pink",
+    "age": 64.3,
+    "food": "Frilled lizard",
+    "predator": "Gull, silver"
+  },
+  {
+    "name": "Monkey, black spider",
+    "color": "Teal",
+    "age": 250.1,
+    "food": "Elephant, asian",
+    "predator": "Gnu, brindled"
+  },
+  {
+    "name": "Waved albatross",
+    "color": "Indigo",
+    "age": 930.9,
+    "food": "Mallard",
+    "predator": "Honey badger"
+  },
+  {
+    "name": "Herring gull",
+    "color": "Green",
+    "age": 884.8,
+    "food": "Agouti",
+    "predator": "Brindled gnu"
+  },
+  {
+    "name": "Chacma baboon",
+    "color": "Puce",
+    "age": 334.6,
+    "food": "Goldeneye, barrows",
+    "predator": "Colobus, white-mantled"
+  },
+  {
+    "name": "Short-nosed bandicoot",
+    "color": "Blue",
+    "age": 542.9,
+    "food": "Woodrat",
+    "predator": "Hare, arctic"
+  },
+  {
+    "name": "Grouse, sage",
+    "color": "Fuscia",
+    "age": 650.7,
+    "food": "Porcupine, african",
+    "predator": "Pheasant, ring-necked"
+  },
+  {
+    "name": "Grey mouse lemur",
+    "color": "Purple",
+    "age": 354.2,
+    "food": "Shrew, mandras tree",
+    "predator": "Ibis, sacred"
+  },
+  {
+    "name": "Bustard, kori",
+    "color": "Turquoise",
+    "age": 680.4,
+    "food": "Goose, canada",
+    "predator": "Seal, northern elephant"
+  },
+  {
+    "name": "Beisa oryx",
+    "color": "Indigo",
+    "age": 399.6,
+    "food": "American marten",
+    "predator": "Black-faced kangaroo"
+  },
+  {
+    "name": "Sambar",
+    "color": "Violet",
+    "age": 647.3,
+    "food": "Red squirrel",
+    "predator": "Currasow"
+  },
+  {
+    "name": "Turtle",
+    "color": "Purple",
+    "age": 673.2,
+    "food": "Rufous-collared sparrow",
+    "predator": "Owl, madagascar hawk"
+  },
+  {
+    "name": "Red-winged hawk",
+    "color": "Maroon",
+    "age": 361.4,
+    "food": "Sambar",
+    "predator": "Common palm civet"
+  },
+  {
+    "name": "Long-crested hawk eagle",
+    "color": "Teal",
+    "age": 84.4,
+    "food": "Squirrel, antelope ground",
+    "predator": "Roseate cockatoo"
+  },
+  {
+    "name": "Kalahari scrub robin",
+    "color": "Orange",
+    "age": 663.8,
+    "food": "Knob-nosed goose",
+    "predator": "Common wolf"
+  },
+  {
+    "name": "Common rhea",
+    "color": "Indigo",
+    "age": 903.0,
+    "food": "Common green iguana",
+    "predator": "Ring-tailed gecko"
+  },
+  {
+    "name": "Sidewinder",
+    "color": "Turquoise",
+    "age": 988.7,
+    "food": "Azara's zorro",
+    "predator": "Moccasin, water"
+  },
+  {
+    "name": "Rhea, greater",
+    "color": "Goldenrod",
+    "age": 842.6,
+    "food": "Carpet snake",
+    "predator": "Falcon, peregrine"
+  },
+  {
+    "name": "Marabou stork",
+    "color": "Orange",
+    "age": 178.1,
+    "food": "Tortoise, indian star",
+    "predator": "Red-tailed phascogale"
+  },
+  {
+    "name": "Southern screamer",
+    "color": "Yellow",
+    "age": 28.7,
+    "food": "Lynx, african",
+    "predator": "Palm squirrel"
+  },
+  {
+    "name": "Booby, blue-footed",
+    "color": "Green",
+    "age": 272.9,
+    "food": "Coyote",
+    "predator": "Armadillo, common long-nosed"
+  },
+  {
+    "name": "Vulture, oriental white-backed",
+    "color": "Yellow",
+    "age": 65.2,
+    "food": "Crane, sarus",
+    "predator": "Black-cheeked waxbill"
+  },
+  {
+    "name": "Darter, african",
+    "color": "Teal",
+    "age": 952.9,
+    "food": "Rat, desert kangaroo",
+    "predator": "Bohor reedbuck"
+  },
+  {
+    "name": "Bonnet macaque",
+    "color": "Yellow",
+    "age": 315.5,
+    "food": "Common langur",
+    "predator": "Sable antelope"
+  },
+  {
+    "name": "Fox, savanna",
+    "color": "Aquamarine",
+    "age": 396.6,
+    "food": "Wallaby, bennett's",
+    "predator": "Ostrich"
+  },
+  {
+    "name": "Chestnut weaver",
+    "color": "Indigo",
+    "age": 129.6,
+    "food": "Stork, white",
+    "predator": "Blue shark"
+  },
+  {
+    "name": "Barasingha deer",
+    "color": "Violet",
+    "age": 909.9,
+    "food": "House sparrow",
+    "predator": "Crowned hawk-eagle"
+  },
+  {
+    "name": "Grey fox",
+    "color": "Orange",
+    "age": 259.6,
+    "food": "Lorikeet, scaly-breasted",
+    "predator": "Cape wild cat"
+  },
+  {
+    "name": "Sloth bear",
+    "color": "Pink",
+    "age": 483.9,
+    "food": "Lourie, grey",
+    "predator": "Water moccasin"
+  },
+  {
+    "name": "Dog, black-tailed prairie",
+    "color": "Maroon",
+    "age": 543.5,
+    "food": "Manatee",
+    "predator": "Polecat, african"
+  },
+  {
+    "name": "Pigeon, feral rock",
+    "color": "Yellow",
+    "age": 323.6,
+    "food": "Prehensile-tailed porcupine",
+    "predator": "Starling, greater blue-eared"
+  },
+  {
+    "name": "Asiatic jackal",
+    "color": "Puce",
+    "age": 337.1,
+    "food": "Yellow-rumped siskin",
+    "predator": "Common genet"
+  },
+  {
+    "name": "Malleefowl",
+    "color": "Turquoise",
+    "age": 118.2,
+    "food": "Verreaux's sifaka",
+    "predator": "Fat-tailed dunnart"
+  },
+  {
+    "name": "Yak",
+    "color": "Teal",
+    "age": 981.3,
+    "food": "Antelope, four-horned",
+    "predator": "Genet, small-spotted"
+  },
+  {
+    "name": "Rat, desert kangaroo",
+    "color": "Khaki",
+    "age": 114.1,
+    "food": "Penguin, galapagos",
+    "predator": "Western patch-nosed snake"
+  },
+  {
+    "name": "Cormorant, great",
+    "color": "Aquamarine",
+    "age": 399.4,
+    "food": "Roadrunner, greater",
+    "predator": "Cow, scottish highland"
+  },
+  {
+    "name": "Green vine snake",
+    "color": "Fuscia",
+    "age": 8.9,
+    "food": "Owl, australian masked",
+    "predator": "Bushbaby, large-eared"
+  },
+  {
+    "name": "Stone sheep",
+    "color": "Aquamarine",
+    "age": 942.3,
+    "food": "Dingo",
+    "predator": "Crimson-breasted shrike"
+  },
+  {
+    "name": "Cape Barren goose",
+    "color": "Purple",
+    "age": 44.3,
+    "food": "Squirrel, antelope ground",
+    "predator": "White-browed owl"
+  },
+  {
+    "name": "Parakeet, rose-ringed",
+    "color": "Fuscia",
+    "age": 307.2,
+    "food": "Tyrant flycatcher",
+    "predator": "Magnificent frigate bird"
+  },
+  {
+    "name": "Giant girdled lizard",
+    "color": "Blue",
+    "age": 667.3,
+    "food": "Timber wolf",
+    "predator": "Cereopsis goose"
+  },
+  {
+    "name": "Common wombat",
+    "color": "Turquoise",
+    "age": 357.2,
+    "food": "Puffin, horned",
+    "predator": "Dragon, asian water"
+  },
+  {
+    "name": "Rattlesnake, eastern diamondback",
+    "color": "Khaki",
+    "age": 244.7,
+    "food": "Lizard, desert spiny",
+    "predator": "Ass, asiatic wild"
+  },
+  {
+    "name": "Golden jackal",
+    "color": "Puce",
+    "age": 672.9,
+    "food": "Cattle egret",
+    "predator": "Iguana, common green"
+  },
+  {
+    "name": "Eastern white pelican",
+    "color": "Green",
+    "age": 339.9,
+    "food": "Stanley crane",
+    "predator": "Wolf spider"
+  },
+  {
+    "name": "Starling, superb",
+    "color": "Mauv",
+    "age": 175.5,
+    "food": "Dog, bush",
+    "predator": "Sungazer, yellow-brown"
+  },
+  {
+    "name": "Monster, gila",
+    "color": "Puce",
+    "age": 183.4,
+    "food": "Squirrel, european red",
+    "predator": "Sidewinder"
+  },
+  {
+    "name": "Desert tortoise",
+    "color": "Orange",
+    "age": 786.1,
+    "food": "Lesser double-collared sunbird",
+    "predator": "Starling, superb"
+  },
+  {
+    "name": "Echidna, short-beaked",
+    "color": "Teal",
+    "age": 120.1,
+    "food": "Cockatoo, sulfur-crested",
+    "predator": "Jackal, silver-backed"
+  },
+  {
+    "name": "Jungle cat",
+    "color": "Khaki",
+    "age": 697.3,
+    "food": "Cormorant, pied",
+    "predator": "Trumpeter, green-winged"
+  },
+  {
+    "name": "Tern, royal",
+    "color": "Red",
+    "age": 482.9,
+    "food": "Sally lightfoot crab",
+    "predator": "Black-eyed bulbul"
+  },
+  {
+    "name": "Southern lapwing",
+    "color": "Pink",
+    "age": 812.4,
+    "food": "Tsessebe",
+    "predator": "Thomson's gazelle"
+  },
+  {
+    "name": "Caracara",
+    "color": "Pink",
+    "age": 356.7,
+    "food": "Owl, white-browed",
+    "predator": "Otter, oriental short-clawed"
+  },
+  {
+    "name": "Dove, laughing",
+    "color": "Puce",
+    "age": 301.3,
+    "food": "Onager",
+    "predator": "Civet, common palm"
+  },
+  {
+    "name": "Tarantula, salmon pink bird eater",
+    "color": "Fuscia",
+    "age": 836.4,
+    "food": "Paca",
+    "predator": "Bent-toed gecko"
+  },
+  {
+    "name": "Ringtail cat",
+    "color": "Purple",
+    "age": 603.7,
+    "food": "Wallaby, river",
+    "predator": "White-winged dove"
+  },
+  {
+    "name": "Roadrunner, greater",
+    "color": "Goldenrod",
+    "age": 39.8,
+    "food": "Bushbaby, large-eared",
+    "predator": "Stork, black-necked"
+  },
+  {
+    "name": "Bare-faced go away bird",
+    "color": "Teal",
+    "age": 216.3,
+    "food": "Rhinoceros, square-lipped",
+    "predator": "Egret, snowy"
+  },
+  {
+    "name": "Baboon, savanna",
+    "color": "Yellow",
+    "age": 972.8,
+    "food": "Giant girdled lizard",
+    "predator": "Barbet, levaillant's"
+  },
+  {
+    "name": "Squirrel glider",
+    "color": "Khaki",
+    "age": 87.7,
+    "food": "Snake, green vine",
+    "predator": "Squirrel, malabar"
+  },
+  {
+    "name": "Fairy penguin",
+    "color": "Teal",
+    "age": 323.3,
+    "food": "European badger",
+    "predator": "Vulture, griffon"
+  },
+  {
+    "name": "Feathertail glider",
+    "color": "Aquamarine",
+    "age": 752.5,
+    "food": "Duck, comb",
+    "predator": "Water moccasin"
+  },
+  {
+    "name": "Lizard, goanna",
+    "color": "Pink",
+    "age": 92.3,
+    "food": "Peregrine falcon",
+    "predator": "Cottonmouth"
+  },
+  {
+    "name": "Andean goose",
+    "color": "Orange",
+    "age": 213.1,
+    "food": "African jacana",
+    "predator": "Butterfly, canadian tiger swallowtail"
+  },
+  {
+    "name": "Duiker, common",
+    "color": "Fuscia",
+    "age": 399.0,
+    "food": "Turtle, eastern box",
+    "predator": "Porcupine, north american"
+  },
+  {
+    "name": "Greater kudu",
+    "color": "Blue",
+    "age": 455.8,
+    "food": "Hyrax",
+    "predator": "Canadian river otter"
+  },
+  {
+    "name": "Openbill stork",
+    "color": "Khaki",
+    "age": 952.0,
+    "food": "Giant girdled lizard",
+    "predator": "Striped dolphin"
+  },
+  {
+    "name": "Arctic tern",
+    "color": "Purple",
+    "age": 367.6,
+    "food": "Denham's bustard",
+    "predator": "Quail, gambel's"
+  },
+  {
+    "name": "Great skua",
+    "color": "Yellow",
+    "age": 39.7,
+    "food": "Eastern cottontail rabbit",
+    "predator": "Sheep, american bighorn"
+  },
+  {
+    "name": "Red-legged pademelon",
+    "color": "Purple",
+    "age": 538.9,
+    "food": "Monitor, water",
+    "predator": "Black-backed jackal"
+  },
+  {
+    "name": "Galapagos hawk",
+    "color": "Aquamarine",
+    "age": 554.2,
+    "food": "Bengal vulture",
+    "predator": "Kingfisher, malachite"
+  },
+  {
+    "name": "Red-knobbed coot",
+    "color": "Maroon",
+    "age": 845.6,
+    "food": "Greater rhea",
+    "predator": "Tinamou, elegant crested"
+  },
+  {
+    "name": "Shrike, crimson-breasted",
+    "color": "Violet",
+    "age": 396.7,
+    "food": "Spoonbill, white",
+    "predator": "Bandicoot, southern brown"
+  },
+  {
+    "name": "Palm squirrel",
+    "color": "Purple",
+    "age": 697.0,
+    "food": "Falcon, peregrine",
+    "predator": "Small-clawed otter"
+  },
+  {
+    "name": "Barasingha deer",
+    "color": "Puce",
+    "age": 471.6,
+    "food": "Siskin, yellow-rumped",
+    "predator": "Booby, blue-footed"
+  },
+  {
+    "name": "Mandras tree shrew",
+    "color": "Green",
+    "age": 699.8,
+    "food": "Rhesus monkey",
+    "predator": "Gnu, brindled"
+  },
+  {
+    "name": "Lizard, collared",
+    "color": "Purple",
+    "age": 25.8,
+    "food": "Leadbeateri's ground hornbill",
+    "predator": "Magpie, black-backed"
+  },
+  {
+    "name": "Wolf, common",
+    "color": "Khaki",
+    "age": 942.6,
+    "food": "Rhea, common",
+    "predator": "Common ringtail"
+  },
+  {
+    "name": "Common wallaroo",
+    "color": "Puce",
+    "age": 655.6,
+    "food": "Glider, squirrel",
+    "predator": "Southern lapwing"
+  },
+  {
+    "name": "Elephant, asian",
+    "color": "Khaki",
+    "age": 208.6,
+    "food": "Egyptian cobra",
+    "predator": "Comb duck"
+  },
+  {
+    "name": "Butterfly",
+    "color": "Teal",
+    "age": 774.8,
+    "food": "Galah",
+    "predator": "Gray rhea"
+  },
+  {
+    "name": "Downy woodpecker",
+    "color": "Maroon",
+    "age": 34.1,
+    "food": "Hoopoe, eurasian",
+    "predator": "Sifaka, verreaux's"
+  },
+  {
+    "name": "Boa, mexican",
+    "color": "Crimson",
+    "age": 136.4,
+    "food": "White-faced whistling duck",
+    "predator": "Indian giant squirrel"
+  },
+  {
+    "name": "Swainson's francolin",
+    "color": "Crimson",
+    "age": 984.8,
+    "food": "Red-tailed cockatoo",
+    "predator": "Turkey vulture"
+  },
+  {
+    "name": "Civet cat",
+    "color": "Fuscia",
+    "age": 497.1,
+    "food": "Canadian tiger swallowtail butterfly",
+    "predator": "Wild turkey"
+  },
+  {
+    "name": "Brolga crane",
+    "color": "Red",
+    "age": 331.4,
+    "food": "Marabou stork",
+    "predator": "Turkey, wild"
+  },
+  {
+    "name": "Nine-banded armadillo",
+    "color": "Yellow",
+    "age": 662.9,
+    "food": "Bee-eater, white-fronted",
+    "predator": "Brush-tailed bettong"
+  },
+  {
+    "name": "Vulture, turkey",
+    "color": "Fuscia",
+    "age": 319.4,
+    "food": "Siskin, pine",
+    "predator": "African clawless otter"
+  },
+  {
+    "name": "Snake, carpet",
+    "color": "Orange",
+    "age": 869.0,
+    "food": "Pied butcher bird",
+    "predator": "Otter, african clawless"
+  },
+  {
+    "name": "Wolf, timber",
+    "color": "Puce",
+    "age": 663.6,
+    "food": "Pampa gray fox",
+    "predator": "Shrew, mandras tree"
+  },
+  {
+    "name": "Arctic lemming",
+    "color": "Crimson",
+    "age": 341.5,
+    "food": "White rhinoceros",
+    "predator": "Grey lourie"
+  },
+  {
+    "name": "Meerkat, red",
+    "color": "Pink",
+    "age": 885.1,
+    "food": "Snake",
+    "predator": "Otter, cape clawless"
+  },
+  {
+    "name": "Baboon, olive",
+    "color": "Teal",
+    "age": 403.4,
+    "food": "Common goldeneye",
+    "predator": "Lizard, frilled"
+  },
+  {
+    "name": "Beaver, north american",
+    "color": "Purple",
+    "age": 325.0,
+    "food": "Shrike, southern white-crowned",
+    "predator": "Cape Barren goose"
+  },
+  {
+    "name": "Manatee",
+    "color": "Red",
+    "age": 925.9,
+    "food": "Feathertail glider",
+    "predator": "Reindeer"
+  },
+  {
+    "name": "Eastern cottontail rabbit",
+    "color": "Red",
+    "age": 783.1,
+    "food": "Red-breasted cockatoo",
+    "predator": "Long-finned pilot whale"
+  },
+  {
+    "name": "Cormorant, javanese",
+    "color": "Violet",
+    "age": 404.4,
+    "food": "Sloth, pale-throated three-toed",
+    "predator": "Bahama pintail"
+  },
+  {
+    "name": "Sheep, stone",
+    "color": "Violet",
+    "age": 1.6,
+    "food": "Northern elephant seal",
+    "predator": "Giant otter"
+  },
+  {
+    "name": "Stork, painted",
+    "color": "Khaki",
+    "age": 366.8,
+    "food": "Amazon parrot",
+    "predator": "Bulbul, black-fronted"
+  },
+  {
+    "name": "Dolphin, bottle-nose",
+    "color": "Maroon",
+    "age": 730.8,
+    "food": "Plover, three-banded",
+    "predator": "Gulls"
+  },
+  {
+    "name": "Galah",
+    "color": "Green",
+    "age": 108.2,
+    "food": "Monitor, two-banded",
+    "predator": "Kookaburra, laughing"
+  },
+  {
+    "name": "Black-tailed tree creeper",
+    "color": "Orange",
+    "age": 964.1,
+    "food": "Tern, royal",
+    "predator": "Tiger snake"
+  },
+  {
+    "name": "Waxbill, black-cheeked",
+    "color": "Yellow",
+    "age": 684.2,
+    "food": "Dik, kirk's dik",
+    "predator": "Spotted wood sandpiper"
+  },
+  {
+    "name": "Galapagos hawk",
+    "color": "Maroon",
+    "age": 945.7,
+    "food": "Penguin, fairy",
+    "predator": "Peacock, blue"
+  },
+  {
+    "name": "Rufous tree pie",
+    "color": "Crimson",
+    "age": 562.8,
+    "food": "Red-billed buffalo weaver",
+    "predator": "Genet, common"
+  },
+  {
+    "name": "Fox, savanna",
+    "color": "Purple",
+    "age": 160.9,
+    "food": "Snake-necked turtle",
+    "predator": "Dog, african wild"
+  },
+  {
+    "name": "White-browed owl",
+    "color": "Turquoise",
+    "age": 404.3,
+    "food": "Eastern box turtle",
+    "predator": "Trumpeter swan"
+  },
+  {
+    "name": "Screamer, crested",
+    "color": "Maroon",
+    "age": 686.0,
+    "food": "Cat, jungle",
+    "predator": "Numbat"
+  },
+  {
+    "name": "Netted rock dragon",
+    "color": "Orange",
+    "age": 128.2,
+    "food": "Racer snake",
+    "predator": "Golden jackal"
+  },
+  {
+    "name": "Quoll, spotted-tailed",
+    "color": "Turquoise",
+    "age": 231.0,
+    "food": "Eastern cottontail rabbit",
+    "predator": "Red-billed hornbill"
+  },
+  {
+    "name": "North American red fox",
+    "color": "Indigo",
+    "age": 138.5,
+    "food": "Common duiker",
+    "predator": "Ass, asiatic wild"
+  },
+  {
+    "name": "Great skua",
+    "color": "Maroon",
+    "age": 873.8,
+    "food": "Dog, raccoon",
+    "predator": "Gull, lava"
+  },
+  {
+    "name": "Baboon, gelada",
+    "color": "Mauv",
+    "age": 382.6,
+    "food": "Hornbill, southern ground",
+    "predator": "Shrike, crimson-breasted"
+  },
+  {
+    "name": "Rhesus monkey",
+    "color": "Goldenrod",
+    "age": 60.5,
+    "food": "Bear, sloth",
+    "predator": "Wombat, common"
+  },
+  {
+    "name": "Openbill, asian",
+    "color": "Orange",
+    "age": 281.3,
+    "food": "Roadrunner, greater",
+    "predator": "Giant heron"
+  },
+  {
+    "name": "Cat, tiger",
+    "color": "Teal",
+    "age": 891.5,
+    "food": "Lion, south american sea",
+    "predator": "Polar bear"
+  },
+  {
+    "name": "Roseat flamingo",
+    "color": "Teal",
+    "age": 911.1,
+    "food": "Spotted hyena",
+    "predator": "South American puma"
+  },
+  {
+    "name": "Flicker, campo",
+    "color": "Aquamarine",
+    "age": 670.0,
+    "food": "Bobcat",
+    "predator": "Red sheep"
+  },
+  {
+    "name": "Water moccasin",
+    "color": "Fuscia",
+    "age": 899.1,
+    "food": "Cormorant, great",
+    "predator": "Snake, buttermilk"
+  },
+  {
+    "name": "Long-nosed bandicoot",
+    "color": "Khaki",
+    "age": 363.7,
+    "food": "Wildebeest, blue",
+    "predator": "Godwit, hudsonian"
+  },
+  {
+    "name": "Roseate cockatoo",
+    "color": "Yellow",
+    "age": 80.4,
+    "food": "Antechinus, brown",
+    "predator": "Currasow"
+  },
+  {
+    "name": "Mountain duck",
+    "color": "Khaki",
+    "age": 907.6,
+    "food": "Collared lemming",
+    "predator": "Silver gull"
+  },
+  {
+    "name": "Sheep, american bighorn",
+    "color": "Puce",
+    "age": 141.4,
+    "food": "Brazilian otter",
+    "predator": "Cat, cape wild"
+  },
+  {
+    "name": "Mongoose, banded",
+    "color": "Crimson",
+    "age": 356.9,
+    "food": "Red-cheeked cordon bleu",
+    "predator": "Armadillo, common long-nosed"
+  },
+  {
+    "name": "White-rumped vulture",
+    "color": "Orange",
+    "age": 345.4,
+    "food": "African red-eyed bulbul",
+    "predator": "Cormorant"
+  },
+  {
+    "name": "Macaw, green-winged",
+    "color": "Pink",
+    "age": 445.5,
+    "food": "Stork, painted",
+    "predator": "Avocet, pied"
+  },
+  {
+    "name": "Turaco, violet-crested",
+    "color": "Purple",
+    "age": 434.0,
+    "food": "Skunk, striped",
+    "predator": "Shrew, mandras tree"
+  },
+  {
+    "name": "Cardinal, black-throated",
+    "color": "Yellow",
+    "age": 368.8,
+    "food": "Cat, miner's",
+    "predator": "Shrew, mandras tree"
+  },
+  {
+    "name": "Heron, striated",
+    "color": "Red",
+    "age": 268.4,
+    "food": "Dove, mourning collared",
+    "predator": "Mouse, four-striped grass"
+  },
+  {
+    "name": "White-throated toucan",
+    "color": "Puce",
+    "age": 636.7,
+    "food": "Brush-tailed phascogale",
+    "predator": "Mockingbird, galapagos"
+  },
+  {
+    "name": "Quoll, spotted-tailed",
+    "color": "Teal",
+    "age": 236.9,
+    "food": "Mocking cliffchat",
+    "predator": "Kangaroo, eastern grey"
+  },
+  {
+    "name": "Toddy cat",
+    "color": "Orange",
+    "age": 875.2,
+    "food": "Purple moorhen",
+    "predator": "Parakeet, rose-ringed"
+  },
+  {
+    "name": "Tarantula, salmon pink bird eater",
+    "color": "Turquoise",
+    "age": 740.0,
+    "food": "Carmine bee-eater",
+    "predator": "Dabchick"
+  },
+  {
+    "name": "Iguana, common green",
+    "color": "Indigo",
+    "age": 194.8,
+    "food": "Bush dog",
+    "predator": "Black-footed ferret"
+  },
+  {
+    "name": "Orca",
+    "color": "Puce",
+    "age": 861.6,
+    "food": "Mountain duck",
+    "predator": "Rhea, greater"
+  },
+  {
+    "name": "Red-shouldered glossy starling",
+    "color": "Indigo",
+    "age": 809.5,
+    "food": "Crane, blue",
+    "predator": "Red lava crab"
+  },
+  {
+    "name": "Grenadier, common",
+    "color": "Teal",
+    "age": 731.0,
+    "food": "Deer, swamp",
+    "predator": "Kinkajou"
+  },
+  {
+    "name": "Zorilla",
+    "color": "Violet",
+    "age": 774.4,
+    "food": "Hudsonian godwit",
+    "predator": "Bottle-nose dolphin"
+  },
+  {
+    "name": "Wattled crane",
+    "color": "Puce",
+    "age": 129.3,
+    "food": "Yellow-headed caracara",
+    "predator": "Mountain goat"
+  },
+  {
+    "name": "Squirrel, palm",
+    "color": "Blue",
+    "age": 768.1,
+    "food": "Eagle, long-crested hawk",
+    "predator": "Squirrel, pine"
+  },
+  {
+    "name": "Nyala",
+    "color": "Turquoise",
+    "age": 896.6,
+    "food": "Grant's gazelle",
+    "predator": "Gecko, barking"
+  },
+  {
+    "name": "Colobus, white-mantled",
+    "color": "Goldenrod",
+    "age": 644.0,
+    "food": "Turkey, australian brush",
+    "predator": "Wild boar"
+  },
+  {
+    "name": "American marten",
+    "color": "Khaki",
+    "age": 911.9,
+    "food": "Leopard",
+    "predator": "Brown and yellow marshbird"
+  },
+  {
+    "name": "Blue waxbill",
+    "color": "Red",
+    "age": 594.8,
+    "food": "Smith's bush squirrel",
+    "predator": "Bustard, denham's"
+  },
+  {
+    "name": "Eastern indigo snake",
+    "color": "Khaki",
+    "age": 570.8,
+    "food": "Baboon, chacma",
+    "predator": "Long-necked turtle"
+  },
+  {
+    "name": "Spotted-tailed quoll",
+    "color": "Mauv",
+    "age": 337.8,
+    "food": "Weaver, chestnut",
+    "predator": "Bent-toed gecko"
+  },
+  {
+    "name": "Barbet, crested",
+    "color": "Aquamarine",
+    "age": 656.1,
+    "food": "Rock dove",
+    "predator": "Turaco, violet-crested"
+  },
+  {
+    "name": "Blue shark",
+    "color": "Crimson",
+    "age": 350.9,
+    "food": "Dolphin, striped",
+    "predator": "White rhinoceros"
+  },
+  {
+    "name": "Dove, laughing",
+    "color": "Blue",
+    "age": 578.1,
+    "food": "Hippopotamus",
+    "predator": "Greater kudu"
+  },
+  {
+    "name": "Goldeneye, barrows",
+    "color": "Yellow",
+    "age": 603.4,
+    "food": "Bateleur eagle",
+    "predator": "Indian leopard"
+  },
+  {
+    "name": "Arctic ground squirrel",
+    "color": "Khaki",
+    "age": 656.7,
+    "food": "African elephant",
+    "predator": "Swan, black"
+  },
+  {
+    "name": "Grenadier, purple",
+    "color": "Red",
+    "age": 746.6,
+    "food": "Malleefowl",
+    "predator": "Cape wild cat"
+  },
+  {
+    "name": "Scottish highland cow",
+    "color": "Crimson",
+    "age": 879.6,
+    "food": "Cat, tiger",
+    "predator": "Magpie, australian"
+  },
+  {
+    "name": "Flamingo, chilean",
+    "color": "Green",
+    "age": 818.9,
+    "food": "Hornbill, yellow-billed",
+    "predator": "Caracara, yellow-headed"
+  },
+  {
+    "name": "Skimmer, four-spotted",
+    "color": "Crimson",
+    "age": 750.3,
+    "food": "Zorro, common",
+    "predator": "Iguana, marine"
+  },
+  {
+    "name": "Parrot, hawk-headed",
+    "color": "Crimson",
+    "age": 826.1,
+    "food": "White spoonbill",
+    "predator": "Ovenbird"
+  },
+  {
+    "name": "Sea birds",
+    "color": "Goldenrod",
+    "age": 557.8,
+    "food": "Dik, kirk's dik",
+    "predator": "Puku"
+  },
+  {
+    "name": "Squirrel glider",
+    "color": "Yellow",
+    "age": 920.6,
+    "food": "Constrictor, eastern boa",
+    "predator": "Macaw, blue and yellow"
+  },
+  {
+    "name": "Leadbeateri's ground hornbill",
+    "color": "Red",
+    "age": 522.1,
+    "food": "Asian red fox",
+    "predator": "African fish eagle"
+  },
+  {
+    "name": "Kudu, greater",
+    "color": "Mauv",
+    "age": 438.3,
+    "food": "Eastern diamondback rattlesnake",
+    "predator": "Galah"
+  },
+  {
+    "name": "Seal, northern fur",
+    "color": "Aquamarine",
+    "age": 93.7,
+    "food": "Long-finned pilot whale",
+    "predator": "Tayra"
+  },
+  {
+    "name": "Python",
+    "color": "Aquamarine",
+    "age": 351.4,
+    "food": "Pied butcher bird",
+    "predator": "African snake"
+  },
+  {
+    "name": "Rat, arboral spiny",
+    "color": "Blue",
+    "age": 624.2,
+    "food": "Caracara, yellow-headed",
+    "predator": "African buffalo"
+  },
+  {
+    "name": "Porcupine, tree",
+    "color": "Orange",
+    "age": 520.9,
+    "food": "Avocet, pied",
+    "predator": "Indian peacock"
+  },
+  {
+    "name": "Australian brush turkey",
+    "color": "Puce",
+    "age": 900.2,
+    "food": "Turtle, snake-necked",
+    "predator": "Hawk-eagle, crowned"
+  },
+  {
+    "name": "Ibis, puna",
+    "color": "Crimson",
+    "age": 728.7,
+    "food": "Wolf spider",
+    "predator": "Nighthawk, common"
+  },
+  {
+    "name": "Brush-tailed phascogale",
+    "color": "Aquamarine",
+    "age": 996.9,
+    "food": "Stork, european",
+    "predator": "Lemur, grey mouse"
+  },
+  {
+    "name": "Great skua",
+    "color": "Turquoise",
+    "age": 456.0,
+    "food": "Curlew, black",
+    "predator": "Crane, sarus"
+  },
+  {
+    "name": "Four-striped grass mouse",
+    "color": "Puce",
+    "age": 456.5,
+    "food": "Wild water buffalo",
+    "predator": "Bat, asian false vampire"
+  },
+  {
+    "name": "Yellow-necked spurfowl",
+    "color": "Maroon",
+    "age": 642.2,
+    "food": "Wild water buffalo",
+    "predator": "Dove, ring"
+  },
+  {
+    "name": "Parakeet, rose-ringed",
+    "color": "Violet",
+    "age": 555.5,
+    "food": "American crow",
+    "predator": "Spotted hyena"
+  },
+  {
+    "name": "Monster, gila",
+    "color": "Goldenrod",
+    "age": 869.6,
+    "food": "Brown hyena",
+    "predator": "Squirrel, arctic ground"
+  },
+  {
+    "name": "Bald eagle",
+    "color": "Mauv",
+    "age": 21.9,
+    "food": "Worm snake",
+    "predator": "Gull, dusky"
+  },
+  {
+    "name": "Salmon, sockeye",
+    "color": "Maroon",
+    "age": 154.3,
+    "food": "Mocking cliffchat",
+    "predator": "Serval"
+  },
+  {
+    "name": "Ringtail",
+    "color": "Yellow",
+    "age": 285.5,
+    "food": "Common zorro",
+    "predator": "Lemming, arctic"
+  },
+  {
+    "name": "Legaan, Monitor",
+    "color": "Orange",
+    "age": 975.4,
+    "food": "Dragon, asian water",
+    "predator": "Jackal, asiatic"
+  },
+  {
+    "name": "Giant armadillo",
+    "color": "Pink",
+    "age": 578.6,
+    "food": "Cobra, cape",
+    "predator": "Seal, northern fur"
+  },
+  {
+    "name": "Possum, golden brush-tailed",
+    "color": "Khaki",
+    "age": 451.6,
+    "food": "Oriental short-clawed otter",
+    "predator": "African polecat"
+  },
+  {
+    "name": "Flamingo, roseat",
+    "color": "Violet",
+    "age": 395.6,
+    "food": "Mountain duck",
+    "predator": "Creeper, black-tailed tree"
+  },
+  {
+    "name": "Australian sea lion",
+    "color": "Blue",
+    "age": 239.2,
+    "food": "Otter, oriental short-clawed",
+    "predator": "Colobus, white-mantled"
+  },
+  {
+    "name": "Lemur, sportive",
+    "color": "Puce",
+    "age": 287.6,
+    "food": "Polar bear",
+    "predator": "Flycatcher, tyrant"
+  },
+  {
+    "name": "Campo flicker",
+    "color": "Violet",
+    "age": 773.2,
+    "food": "Wallaby, dama",
+    "predator": "Greater roadrunner"
+  },
+  {
+    "name": "Koala",
+    "color": "Blue",
+    "age": 311.2,
+    "food": "Common palm civet",
+    "predator": "Wallaby, bennett's"
+  },
+  {
+    "name": "Red-billed buffalo weaver",
+    "color": "Red",
+    "age": 205.7,
+    "food": "Wombat, common",
+    "predator": "Caracal"
+  },
+  {
+    "name": "Madagascar hawk owl",
+    "color": "Pink",
+    "age": 555.9,
+    "food": "Yellow-billed stork",
+    "predator": "Black-capped capuchin"
+  },
+  {
+    "name": "European badger",
+    "color": "Teal",
+    "age": 557.6,
+    "food": "Eurasian beaver",
+    "predator": "Masked booby"
+  },
+  {
+    "name": "Little heron",
+    "color": "Purple",
+    "age": 177.2,
+    "food": "Two-toed tree sloth",
+    "predator": "Porcupine, tree"
+  },
+  {
+    "name": "Red kangaroo",
+    "color": "Blue",
+    "age": 31.0,
+    "food": "Black spider monkey",
+    "predator": "Western palm tanager"
+  },
+  {
+    "name": "Flycatcher, tyrant",
+    "color": "Purple",
+    "age": 932.4,
+    "food": "Paca",
+    "predator": "Carmine bee-eater"
+  },
+  {
+    "name": "Kangaroo, jungle",
+    "color": "Purple",
+    "age": 26.4,
+    "food": "White-cheeked pintail",
+    "predator": "Yellow-brown sungazer"
+  },
+  {
+    "name": "Pelican, australian",
+    "color": "Orange",
+    "age": 975.3,
+    "food": "Greater blue-eared starling",
+    "predator": "Legaan, water"
+  },
+  {
+    "name": "Prairie falcon",
+    "color": "Teal",
+    "age": 143.6,
+    "food": "Rattlesnake, dusky",
+    "predator": "Elegant crested tinamou"
+  },
+  {
+    "name": "Southern screamer",
+    "color": "Green",
+    "age": 753.0,
+    "food": "Antelope, four-horned",
+    "predator": "Hawk, red-tailed"
+  },
+  {
+    "name": "Dolphin, striped",
+    "color": "Aquamarine",
+    "age": 403.7,
+    "food": "Glider, sugar",
+    "predator": "Helmeted guinea fowl"
+  },
+  {
+    "name": "African snake",
+    "color": "Aquamarine",
+    "age": 83.1,
+    "food": "Large cormorant",
+    "predator": "Seal, northern elephant"
+  },
+  {
+    "name": "Monitor, white-throated",
+    "color": "Indigo",
+    "age": 755.8,
+    "food": "Dragon, western bearded",
+    "predator": "Butterfly, tropical buckeye"
+  },
+  {
+    "name": "Stork, woolly-necked",
+    "color": "Teal",
+    "age": 421.9,
+    "food": "Pigeon, wood",
+    "predator": "Eastern dwarf mongoose"
+  },
+  {
+    "name": "Vicuna",
+    "color": "Goldenrod",
+    "age": 894.3,
+    "food": "Capybara",
+    "predator": "Mandras tree shrew"
+  },
+  {
+    "name": "Knob-nosed goose",
+    "color": "Purple",
+    "age": 759.5,
+    "food": "White-mantled colobus",
+    "predator": "Striated heron"
+  },
+  {
+    "name": "Cardinal, black-throated",
+    "color": "Puce",
+    "age": 71.1,
+    "food": "Bunting, crested",
+    "predator": "Rat, white-faced tree"
+  },
+  {
+    "name": "Crowned eagle",
+    "color": "Blue",
+    "age": 248.1,
+    "food": "Marabou stork",
+    "predator": "Anaconda"
+  },
+  {
+    "name": "Antechinus, brown",
+    "color": "Khaki",
+    "age": 82.1,
+    "food": "House crow",
+    "predator": "Brazilian otter"
+  },
+  {
+    "name": "White-headed vulture",
+    "color": "Goldenrod",
+    "age": 387.9,
+    "food": "Fox, blue",
+    "predator": "Pine siskin"
+  },
+  {
+    "name": "Turkey, australian brush",
+    "color": "Turquoise",
+    "age": 624.6,
+    "food": "Cliffchat, mocking",
+    "predator": "Timber wolf"
+  },
+  {
+    "name": "Grizzly bear",
+    "color": "Mauv",
+    "age": 236.4,
+    "food": "Snake, carpet",
+    "predator": "Blue fox"
+  },
+  {
+    "name": "Flamingo, chilean",
+    "color": "Puce",
+    "age": 907.0,
+    "food": "Owl, australian masked",
+    "predator": "Fowl, helmeted guinea"
+  },
+  {
+    "name": "Oryx, fringe-eared",
+    "color": "Violet",
+    "age": 213.8,
+    "food": "Stork, greater adjutant",
+    "predator": "Dog, raccoon"
+  },
+  {
+    "name": "Goose, cereopsis",
+    "color": "Khaki",
+    "age": 421.8,
+    "food": "Southern tamandua",
+    "predator": "Bat-eared fox"
+  },
+  {
+    "name": "Emerald-spotted wood dove",
+    "color": "Blue",
+    "age": 364.6,
+    "food": "Gemsbok",
+    "predator": "Lemming, collared"
+  },
+  {
+    "name": "Mynah, indian",
+    "color": "Red",
+    "age": 964.2,
+    "food": "Vulture, oriental white-backed",
+    "predator": "Sea birds"
+  },
+  {
+    "name": "Fox, grey",
+    "color": "Goldenrod",
+    "age": 377.9,
+    "food": "Meerkat, red",
+    "predator": "White stork"
+  },
+  {
+    "name": "Burchell's gonolek",
+    "color": "Mauv",
+    "age": 911.6,
+    "food": "Lemming, arctic",
+    "predator": "Wood pigeon"
+  },
+  {
+    "name": "Nubian bee-eater",
+    "color": "Yellow",
+    "age": 186.6,
+    "food": "Otter, oriental short-clawed",
+    "predator": "Netted rock dragon"
+  },
+  {
+    "name": "Madagascar hawk owl",
+    "color": "Puce",
+    "age": 462.6,
+    "food": "Sloth, two-toed tree",
+    "predator": "Southern sea lion"
+  },
+  {
+    "name": "Ibis, glossy",
+    "color": "Blue",
+    "age": 63.8,
+    "food": "Swan, black",
+    "predator": "Gecko, ring-tailed"
+  },
+  {
+    "name": "Jungle cat",
+    "color": "Blue",
+    "age": 634.9,
+    "food": "Elk, Wapiti",
+    "predator": "Bear, black"
+  },
+  {
+    "name": "Waxbill, violet-eared",
+    "color": "Orange",
+    "age": 197.9,
+    "food": "Savanna baboon",
+    "predator": "North American beaver"
+  },
+  {
+    "name": "Seal, harbor",
+    "color": "Mauv",
+    "age": 584.1,
+    "food": "Robin, kalahari scrub",
+    "predator": "Wallaby, agile"
+  },
+  {
+    "name": "South American meadowlark",
+    "color": "Aquamarine",
+    "age": 629.3,
+    "food": "North American river otter",
+    "predator": "White-bellied sea eagle"
+  },
+  {
+    "name": "Dassie",
+    "color": "Fuscia",
+    "age": 260.3,
+    "food": "Woodcock, american",
+    "predator": "Cheetah"
+  },
+  {
+    "name": "Indian mynah",
+    "color": "Fuscia",
+    "age": 26.0,
+    "food": "Bulbul, african red-eyed",
+    "predator": "Blue waxbill"
+  },
+  {
+    "name": "Buffalo, american",
+    "color": "Crimson",
+    "age": 243.2,
+    "food": "Black curlew",
+    "predator": "Plover, three-banded"
+  },
+  {
+    "name": "Pheasant, common",
+    "color": "Aquamarine",
+    "age": 594.5,
+    "food": "Common waterbuck",
+    "predator": "Roan antelope"
+  },
+  {
+    "name": "Mexican wolf",
+    "color": "Crimson",
+    "age": 742.4,
+    "food": "Armadillo, giant",
+    "predator": "Slender loris"
+  },
+  {
+    "name": "Coot, red-knobbed",
+    "color": "Blue",
+    "age": 207.1,
+    "food": "Lesser double-collared sunbird",
+    "predator": "Pied avocet"
+  },
+  {
+    "name": "Brocket, brown",
+    "color": "Crimson",
+    "age": 200.0,
+    "food": "Squirrel, pine",
+    "predator": "Springbok"
+  },
+  {
+    "name": "Western patch-nosed snake",
+    "color": "Pink",
+    "age": 796.4,
+    "food": "Colobus, black and white",
+    "predator": "Golden-mantled ground squirrel"
+  },
+  {
+    "name": "Common seal",
+    "color": "Puce",
+    "age": 929.7,
+    "food": "Crested porcupine",
+    "predator": "California sea lion"
+  },
+  {
+    "name": "Mexican wolf",
+    "color": "Indigo",
+    "age": 345.5,
+    "food": "Deer, barasingha",
+    "predator": "American beaver"
+  },
+  {
+    "name": "Dik, kirk's dik",
+    "color": "Violet",
+    "age": 377.3,
+    "food": "Dromedary camel",
+    "predator": "Capuchin, weeper"
+  },
+  {
+    "name": "Field flicker",
+    "color": "Turquoise",
+    "age": 544.9,
+    "food": "Red-billed buffalo weaver",
+    "predator": "Cormorant, great"
+  },
+  {
+    "name": "Chestnut weaver",
+    "color": "Crimson",
+    "age": 938.9,
+    "food": "Duck, mountain",
+    "predator": "Fox, savanna"
+  },
+  {
+    "name": "Siskin, yellow-rumped",
+    "color": "Orange",
+    "age": 931.0,
+    "food": "Siskin, yellow-rumped",
+    "predator": "Marten, american"
+  },
+  {
+    "name": "Wallaby, dama",
+    "color": "Aquamarine",
+    "age": 524.5,
+    "food": "Common seal",
+    "predator": "Penguin, galapagos"
+  },
+  {
+    "name": "Blue crane",
+    "color": "Yellow",
+    "age": 533.0,
+    "food": "Small-spotted genet",
+    "predator": "Hanuman langur"
+  },
+  {
+    "name": "Hoary marmot",
+    "color": "Goldenrod",
+    "age": 330.2,
+    "food": "Black-necked stork",
+    "predator": "Lion, southern sea"
+  },
+  {
+    "name": "Red-tailed wambenger",
+    "color": "Orange",
+    "age": 776.9,
+    "food": "Pale-throated three-toed sloth",
+    "predator": "Porcupine, prehensile-tailed"
+  },
+  {
+    "name": "Brush-tailed rat kangaroo",
+    "color": "Teal",
+    "age": 681.9,
+    "food": "Brush-tailed phascogale",
+    "predator": "Stork, marabou"
+  },
+  {
+    "name": "Spotted wood sandpiper",
+    "color": "Maroon",
+    "age": 663.1,
+    "food": "Long-tailed jaeger",
+    "predator": "Warthog"
+  },
+  {
+    "name": "Pine snake",
+    "color": "Turquoise",
+    "age": 114.7,
+    "food": "Indian leopard",
+    "predator": "Lion, asian"
+  },
+  {
+    "name": "Bird, bare-faced go away",
+    "color": "Violet",
+    "age": 190.2,
+    "food": "Fork-tailed drongo",
+    "predator": "Dog, african wild"
+  },
+  {
+    "name": "Red-winged hawk",
+    "color": "Crimson",
+    "age": 157.3,
+    "food": "Flamingo, roseat",
+    "predator": "Darter, african"
+  },
+  {
+    "name": "Bat, little brown",
+    "color": "Turquoise",
+    "age": 739.2,
+    "food": "Common raccoon",
+    "predator": "Chital"
+  },
+  {
+    "name": "North American red fox",
+    "color": "Aquamarine",
+    "age": 36.0,
+    "food": "Falcon, peregrine",
+    "predator": "Weaver, red-billed buffalo"
+  },
+  {
+    "name": "Barasingha deer",
+    "color": "Goldenrod",
+    "age": 853.8,
+    "food": "Vulture, egyptian",
+    "predator": "Ibis, glossy"
+  },
+  {
+    "name": "Fisher",
+    "color": "Blue",
+    "age": 295.7,
+    "food": "Raven, white-necked",
+    "predator": "Horned puffin"
+  },
+  {
+    "name": "Macaque, rhesus",
+    "color": "Puce",
+    "age": 429.2,
+    "food": "Cockatoo, slender-billed",
+    "predator": "Opossum, american virginia"
+  },
+  {
+    "name": "Trumpeter swan",
+    "color": "Pink",
+    "age": 959.2,
+    "food": "Snake-necked turtle",
+    "predator": "Numbat"
+  },
+  {
+    "name": "Frogmouth, tawny",
+    "color": "Yellow",
+    "age": 744.9,
+    "food": "Seven-banded armadillo",
+    "predator": "Ibis, glossy"
+  },
+  {
+    "name": "Porcupine, prehensile-tailed",
+    "color": "Yellow",
+    "age": 989.4,
+    "food": "Mudskipper",
+    "predator": "White-throated monitor"
+  },
+  {
+    "name": "Indian peacock",
+    "color": "Indigo",
+    "age": 539.4,
+    "food": "Common seal",
+    "predator": "Weaver, sociable"
+  },
+  {
+    "name": "Beaver, american",
+    "color": "Mauv",
+    "age": 859.8,
+    "food": "Rat, white-faced tree",
+    "predator": "Snowy egret"
+  },
+  {
+    "name": "American Virginia opossum",
+    "color": "Green",
+    "age": 311.5,
+    "food": "Ibis, glossy",
+    "predator": "Sparrow, house"
+  },
+  {
+    "name": "Fisher",
+    "color": "Red",
+    "age": 654.2,
+    "food": "Indian jackal",
+    "predator": "Cuis"
+  },
+  {
+    "name": "Crane, sandhill",
+    "color": "Goldenrod",
+    "age": 643.7,
+    "food": "Black-cheeked waxbill",
+    "predator": "Screamer, crested"
+  },
+  {
+    "name": "Argalis",
+    "color": "Red",
+    "age": 972.0,
+    "food": "Red-billed tropic bird",
+    "predator": "Indian mynah"
+  },
+  {
+    "name": "White-rumped vulture",
+    "color": "Teal",
+    "age": 660.5,
+    "food": "Bleu, blue-breasted cordon",
+    "predator": "Dromedary camel"
+  },
+  {
+    "name": "African bush squirrel",
+    "color": "Violet",
+    "age": 969.1,
+    "food": "Groundhog",
+    "predator": "Goldeneye, common"
+  },
+  {
+    "name": "Elephant, african",
+    "color": "Orange",
+    "age": 155.1,
+    "food": "Vervet monkey",
+    "predator": "Deer, red"
+  },
+  {
+    "name": "White-eye, pale",
+    "color": "Turquoise",
+    "age": 292.3,
+    "food": "Bee-eater, nubian",
+    "predator": "Armadillo, giant"
+  },
+  {
+    "name": "Trumpeter swan",
+    "color": "Fuscia",
+    "age": 416.3,
+    "food": "Goldeneye, common",
+    "predator": "Western palm tanager"
+  },
+  {
+    "name": "Golden jackal",
+    "color": "Purple",
+    "age": 984.2,
+    "food": "Red-necked wallaby",
+    "predator": "Northern elephant seal"
+  },
+  {
+    "name": "Lechwe, kafue flats",
+    "color": "Blue",
+    "age": 2.4,
+    "food": "Phalarope, red",
+    "predator": "Wallaby, whip-tailed"
+  },
+  {
+    "name": "Emerald green tree boa",
+    "color": "Crimson",
+    "age": 236.6,
+    "food": "Owl, burrowing",
+    "predator": "Pied cormorant"
+  },
+  {
+    "name": "Ring-tailed gecko",
+    "color": "Turquoise",
+    "age": 69.9,
+    "food": "Waxbill, black-cheeked",
+    "predator": "Yellow-brown sungazer"
+  },
+  {
+    "name": "Red-winged blackbird",
+    "color": "Purple",
+    "age": 668.6,
+    "food": "Toddy cat",
+    "predator": "Heron, striated"
+  },
+  {
+    "name": "Water monitor",
+    "color": "Violet",
+    "age": 794.6,
+    "food": "Tiger cat",
+    "predator": "Chipmunk, least"
+  },
+  {
+    "name": "Hornbill, yellow-billed",
+    "color": "Teal",
+    "age": 365.9,
+    "food": "Whale, baleen",
+    "predator": "Iguana, marine"
+  },
+  {
+    "name": "Mongoose, small indian",
+    "color": "Turquoise",
+    "age": 917.0,
+    "food": "Crowned hawk-eagle",
+    "predator": "Possum, western pygmy"
+  },
+  {
+    "name": "Goat, mountain",
+    "color": "Blue",
+    "age": 212.2,
+    "food": "Water monitor",
+    "predator": "African polecat"
+  },
+  {
+    "name": "Red-breasted cockatoo",
+    "color": "Pink",
+    "age": 51.7,
+    "food": "Feral rock pigeon",
+    "predator": "Giant heron"
+  },
+  {
+    "name": "Kongoni",
+    "color": "Aquamarine",
+    "age": 675.0,
+    "food": "Wolf, common",
+    "predator": "Arctic fox"
+  },
+  {
+    "name": "Southern boubou",
+    "color": "Goldenrod",
+    "age": 399.1,
+    "food": "Lizard, desert spiny",
+    "predator": "Gull, lava"
+  },
+  {
+    "name": "Camel, dromedary",
+    "color": "Aquamarine",
+    "age": 347.0,
+    "food": "Flying fox",
+    "predator": "Fox, arctic"
+  },
+  {
+    "name": "American bison",
+    "color": "Aquamarine",
+    "age": 800.2,
+    "food": "Fox, savanna",
+    "predator": "Wapiti, elk,"
+  },
+  {
+    "name": "Dove, laughing",
+    "color": "Goldenrod",
+    "age": 233.6,
+    "food": "Canadian tiger swallowtail butterfly",
+    "predator": "Fox, arctic"
+  },
+  {
+    "name": "Squirrel, thirteen-lined",
+    "color": "Fuscia",
+    "age": 770.4,
+    "food": "White-eye, pale",
+    "predator": "Lion, california sea"
+  },
+  {
+    "name": "Python, carpet",
+    "color": "Blue",
+    "age": 541.5,
+    "food": "Cliffchat, mocking",
+    "predator": "Lilac-breasted roller"
+  },
+  {
+    "name": "Golden brush-tailed possum",
+    "color": "Crimson",
+    "age": 217.8,
+    "food": "Lourie, grey",
+    "predator": "Snowy egret"
+  },
+  {
+    "name": "Goanna lizard",
+    "color": "Khaki",
+    "age": 986.1,
+    "food": "Flamingo, chilean",
+    "predator": "Ground legaan"
+  },
+  {
+    "name": "Tree porcupine",
+    "color": "Violet",
+    "age": 387.6,
+    "food": "Vulture, turkey",
+    "predator": "Bandicoot, short-nosed"
+  },
+  {
+    "name": "Tarantula",
+    "color": "Red",
+    "age": 399.7,
+    "food": "Hyrax",
+    "predator": "Ibis, puna"
+  },
+  {
+    "name": "Bushbuck",
+    "color": "Blue",
+    "age": 734.2,
+    "food": "Asian water dragon",
+    "predator": "Fat-tailed dunnart"
+  },
+  {
+    "name": "Black spider monkey",
+    "color": "Blue",
+    "age": 255.3,
+    "food": "Nubian bee-eater",
+    "predator": "Vulture, griffon"
+  },
+  {
+    "name": "Lechwe, kafue flats",
+    "color": "Yellow",
+    "age": 209.3,
+    "food": "Stork, saddle-billed",
+    "predator": "Lorikeet, scaly-breasted"
+  },
+  {
+    "name": "Gorilla, western lowland",
+    "color": "Aquamarine",
+    "age": 533.4,
+    "food": "Shelduck, european",
+    "predator": "Yellow-necked spurfowl"
+  },
+  {
+    "name": "Hyrax",
+    "color": "Mauv",
+    "age": 286.8,
+    "food": "Dragon, netted rock",
+    "predator": "Sparrow, house"
+  },
+  {
+    "name": "Coyote",
+    "color": "Blue",
+    "age": 280.2,
+    "food": "Sidewinder",
+    "predator": "Goldeneye, barrows"
+  },
+  {
+    "name": "King cormorant",
+    "color": "Aquamarine",
+    "age": 266.7,
+    "food": "Onager",
+    "predator": "Bison, american"
+  },
+  {
+    "name": "Macaque, rhesus",
+    "color": "Pink",
+    "age": 961.0,
+    "food": "Chameleon",
+    "predator": "Dunnart, fat-tailed"
+  },
+  {
+    "name": "Mouflon",
+    "color": "Red",
+    "age": 421.8,
+    "food": "Fowl, helmeted guinea",
+    "predator": "Black spider monkey"
+  },
+  {
+    "name": "Kookaburra, laughing",
+    "color": "Khaki",
+    "age": 908.6,
+    "food": "Possum, golden brush-tailed",
+    "predator": "Dove, emerald-spotted wood"
+  },
+  {
+    "name": "Common waterbuck",
+    "color": "Khaki",
+    "age": 694.0,
+    "food": "Sociable weaver",
+    "predator": "Sandpiper, spotted wood"
+  },
+  {
+    "name": "Flamingo, roseat",
+    "color": "Teal",
+    "age": 327.0,
+    "food": "African darter",
+    "predator": "Leopard"
+  },
+  {
+    "name": "African wild dog",
+    "color": "Aquamarine",
+    "age": 142.6,
+    "food": "Lark, horned",
+    "predator": "Swamp deer"
+  },
+  {
+    "name": "Tyrant flycatcher",
+    "color": "Red",
+    "age": 604.7,
+    "food": "Lark, horned",
+    "predator": "Brown pelican"
+  },
+  {
+    "name": "Black-cheeked waxbill",
+    "color": "Green",
+    "age": 691.5,
+    "food": "Insect, stick",
+    "predator": "Bison, american"
+  },
+  {
+    "name": "Lion, steller sea",
+    "color": "Red",
+    "age": 947.2,
+    "food": "Little brown dove",
+    "predator": "Caracara, yellow-headed"
+  },
+  {
+    "name": "Ground monitor",
+    "color": "Green",
+    "age": 232.7,
+    "food": "Long-tailed skua",
+    "predator": "Stork, white-necked"
+  },
+  {
+    "name": "Black-fronted bulbul",
+    "color": "Aquamarine",
+    "age": 415.1,
+    "food": "Stork, painted",
+    "predator": "Brush-tailed rat kangaroo"
+  },
+  {
+    "name": "Dassie",
+    "color": "Orange",
+    "age": 808.1,
+    "food": "Buttermilk snake",
+    "predator": "Wagtail, african pied"
+  },
+  {
+    "name": "Egret, snowy",
+    "color": "Aquamarine",
+    "age": 88.4,
+    "food": "Red-billed tropic bird",
+    "predator": "Woodpecker, downy"
+  },
+  {
+    "name": "Greater roadrunner",
+    "color": "Violet",
+    "age": 26.7,
+    "food": "Barasingha deer",
+    "predator": "Cat, long-tailed spotted"
+  },
+  {
+    "name": "Zorro, azara's",
+    "color": "Khaki",
+    "age": 22.6,
+    "food": "Southern tamandua",
+    "predator": "Rufous-collared sparrow"
+  },
+  {
+    "name": "Stork, european",
+    "color": "Goldenrod",
+    "age": 270.7,
+    "food": "Deer, black-tailed",
+    "predator": "Nutcracker, clark's"
+  },
+  {
+    "name": "Gray duiker",
+    "color": "Orange",
+    "age": 479.8,
+    "food": "Goose, knob-nosed",
+    "predator": "Duck, blue"
+  },
+  {
+    "name": "Grey-footed squirrel",
+    "color": "Yellow",
+    "age": 339.7,
+    "food": "Stanley crane",
+    "predator": "Long-tailed spotted cat"
+  },
+  {
+    "name": "Rat, desert kangaroo",
+    "color": "Crimson",
+    "age": 41.0,
+    "food": "Black-backed magpie",
+    "predator": "Flamingo, lesser"
+  },
+  {
+    "name": "Baboon, olive",
+    "color": "Red",
+    "age": 139.2,
+    "food": "Spotted hyena",
+    "predator": "Pygmy possum"
+  },
+  {
+    "name": "Prairie falcon",
+    "color": "Green",
+    "age": 183.6,
+    "food": "African skink",
+    "predator": "Common green iguana"
+  },
+  {
+    "name": "Jabiru stork",
+    "color": "Yellow",
+    "age": 472.6,
+    "food": "Indian star tortoise",
+    "predator": "Grey-footed squirrel"
+  },
+  {
+    "name": "Red-billed toucan",
+    "color": "Blue",
+    "age": 377.0,
+    "food": "Red-billed toucan",
+    "predator": "Skua, great"
+  },
+  {
+    "name": "Macaw, blue and yellow",
+    "color": "Indigo",
+    "age": 124.1,
+    "food": "Weaver, sociable",
+    "predator": "Oribi"
+  },
+  {
+    "name": "Swallow-tail gull",
+    "color": "Green",
+    "age": 641.2,
+    "food": "Giraffe",
+    "predator": "White-browed sparrow weaver"
+  },
+  {
+    "name": "Tarantula",
+    "color": "Goldenrod",
+    "age": 599.4,
+    "food": "Blue and yellow macaw",
+    "predator": "Bird, magnificent frigate"
+  },
+  {
+    "name": "Cat, tiger",
+    "color": "Khaki",
+    "age": 329.7,
+    "food": "Sage grouse",
+    "predator": "Red howler monkey"
+  },
+  {
+    "name": "White-necked stork",
+    "color": "Goldenrod",
+    "age": 699.7,
+    "food": "Cormorant, little",
+    "predator": "Flycatcher, tyrant"
+  },
+  {
+    "name": "Crimson-breasted shrike",
+    "color": "Puce",
+    "age": 729.2,
+    "food": "Porcupine, african",
+    "predator": "Snake"
+  },
+  {
+    "name": "Javanese cormorant",
+    "color": "Maroon",
+    "age": 227.7,
+    "food": "Collared lemming",
+    "predator": "Pacific gull"
+  },
+  {
+    "name": "Kinkajou",
+    "color": "Green",
+    "age": 767.1,
+    "food": "Macaque, pig-tailed",
+    "predator": "Flamingo, chilean"
+  },
+  {
+    "name": "White-throated kingfisher",
+    "color": "Goldenrod",
+    "age": 618.5,
+    "food": "Bandicoot, short-nosed",
+    "predator": "Four-striped grass mouse"
+  },
+  {
+    "name": "Squirrel, malabar",
+    "color": "Puce",
+    "age": 987.8,
+    "food": "Marmot, yellow-bellied",
+    "predator": "Goliath heron"
+  },
+  {
+    "name": "Crab",
+    "color": "Mauv",
+    "age": 356.7,
+    "food": "African black crake",
+    "predator": "Richardson's ground squirrel"
+  },
+  {
+    "name": "Blesbok",
+    "color": "Goldenrod",
+    "age": 910.1,
+    "food": "Great cormorant",
+    "predator": "Snake, tiger"
+  },
+  {
+    "name": "Grouse, sage",
+    "color": "Turquoise",
+    "age": 549.7,
+    "food": "Grey-footed squirrel",
+    "predator": "Javanese cormorant"
+  },
+  {
+    "name": "Darter, african",
+    "color": "Puce",
+    "age": 310.5,
+    "food": "Arctic fox",
+    "predator": "Stone sheep"
+  },
+  {
+    "name": "American woodcock",
+    "color": "Goldenrod",
+    "age": 326.4,
+    "food": "Vervet monkey",
+    "predator": "Bontebok"
+  },
+  {
+    "name": "Superb starling",
+    "color": "Teal",
+    "age": 257.9,
+    "food": "Seal, northern fur",
+    "predator": "Pied kingfisher"
+  },
+  {
+    "name": "Grenadier, common",
+    "color": "Violet",
+    "age": 404.0,
+    "food": "Harbor seal",
+    "predator": "Goose, greylag"
+  },
+  {
+    "name": "Yellow-billed hornbill",
+    "color": "Goldenrod",
+    "age": 22.5,
+    "food": "Shrike, crimson-breasted",
+    "predator": "Dove, rock"
+  },
+  {
+    "name": "Red-billed hornbill",
+    "color": "Turquoise",
+    "age": 887.7,
+    "food": "Thomson's gazelle",
+    "predator": "Black-tailed tree creeper"
+  },
+  {
+    "name": "Gull, pacific",
+    "color": "Green",
+    "age": 871.5,
+    "food": "Snake, eastern indigo",
+    "predator": "Egret, snowy"
+  },
+  {
+    "name": "Crimson-breasted shrike",
+    "color": "Puce",
+    "age": 3.9,
+    "food": "Civet cat",
+    "predator": "Roseat flamingo"
+  },
+  {
+    "name": "Creeper, black-tailed tree",
+    "color": "Mauv",
+    "age": 739.3,
+    "food": "Coatimundi, white-nosed",
+    "predator": "Anteater, australian spiny"
+  },
+  {
+    "name": "Black spider monkey",
+    "color": "Turquoise",
+    "age": 814.8,
+    "food": "Sally lightfoot crab",
+    "predator": "Lemur, ring-tailed"
+  },
+  {
+    "name": "Barbet, black-collared",
+    "color": "Orange",
+    "age": 477.3,
+    "food": "Heron, black-crowned night",
+    "predator": "Hornbill, red-billed"
+  },
+  {
+    "name": "Starling, red-shouldered glossy",
+    "color": "Crimson",
+    "age": 6.5,
+    "food": "Turaco, violet-crested",
+    "predator": "Pied avocet"
+  },
+  {
+    "name": "Great horned owl",
+    "color": "Indigo",
+    "age": 935.8,
+    "food": "Heron, yellow-crowned night",
+    "predator": "Mongoose, eastern dwarf"
+  },
+  {
+    "name": "Dark-winged trumpeter",
+    "color": "Yellow",
+    "age": 569.0,
+    "food": "Zebra, common",
+    "predator": "Blue racer"
+  },
+  {
+    "name": "Deer, savannah",
+    "color": "Crimson",
+    "age": 746.8,
+    "food": "Barbet, levaillant's",
+    "predator": "Pie, rufous tree"
+  },
+  {
+    "name": "Rhinoceros, square-lipped",
+    "color": "Violet",
+    "age": 944.6,
+    "food": "Creeper, black-tailed tree",
+    "predator": "Porcupine, indian"
+  },
+  {
+    "name": "Lion, australian sea",
+    "color": "Teal",
+    "age": 151.5,
+    "food": "Lion, steller sea",
+    "predator": "Crested barbet"
+  },
+  {
+    "name": "Arctic hare",
+    "color": "Fuscia",
+    "age": 617.3,
+    "food": "Cormorant, neotropic",
+    "predator": "Iguana, common green"
+  },
+  {
+    "name": "Brown antechinus",
+    "color": "Red",
+    "age": 703.1,
+    "food": "Langur, gray",
+    "predator": "White spoonbill"
+  },
+  {
+    "name": "Green-winged macaw",
+    "color": "Yellow",
+    "age": 821.9,
+    "food": "Ocelot",
+    "predator": "Yellow mongoose"
+  },
+  {
+    "name": "Badger, honey",
+    "color": "Teal",
+    "age": 45.1,
+    "food": "Springhare",
+    "predator": "Penguin, little blue"
+  },
+  {
+    "name": "Lesser masked weaver",
+    "color": "Crimson",
+    "age": 854.0,
+    "food": "Snake",
+    "predator": "Helmeted guinea fowl"
+  },
+  {
+    "name": "Kangaroo, jungle",
+    "color": "Pink",
+    "age": 147.0,
+    "food": "Currasow",
+    "predator": "Grizzly bear"
+  },
+  {
+    "name": "Marshbird, brown and yellow",
+    "color": "Fuscia",
+    "age": 970.3,
+    "food": "Tern, arctic",
+    "predator": "Australian sea lion"
+  },
+  {
+    "name": "Cobra, cape",
+    "color": "Orange",
+    "age": 391.6,
+    "food": "Phascogale, brush-tailed",
+    "predator": "Fox, pampa gray"
+  },
+  {
+    "name": "Gemsbok",
+    "color": "Purple",
+    "age": 953.3,
+    "food": "Ring-tailed possum",
+    "predator": "Gelada baboon"
+  },
+  {
+    "name": "Bent-toed gecko",
+    "color": "Teal",
+    "age": 570.9,
+    "food": "Four-spotted skimmer",
+    "predator": "Waxbill, black-cheeked"
+  },
+  {
+    "name": "Lemming, collared",
+    "color": "Blue",
+    "age": 257.7,
+    "food": "Goat, mountain",
+    "predator": "Skua, great"
+  },
+  {
+    "name": "Iguana, common green",
+    "color": "Red",
+    "age": 131.0,
+    "food": "Boar, wild",
+    "predator": "Skunk, western spotted"
+  },
+  {
+    "name": "Darwin ground finch",
+    "color": "Purple",
+    "age": 806.4,
+    "food": "Gray langur",
+    "predator": "Marshbird, brown and yellow"
+  },
+  {
+    "name": "Nelson ground squirrel",
+    "color": "Fuscia",
+    "age": 136.2,
+    "food": "Rhinoceros, black",
+    "predator": "Brazilian tapir"
+  },
+  {
+    "name": "Starfish, crown of thorns",
+    "color": "Purple",
+    "age": 870.3,
+    "food": "Cape clawless otter",
+    "predator": "African lion"
+  },
+  {
+    "name": "Stanley crane",
+    "color": "Fuscia",
+    "age": 362.3,
+    "food": "Chacma baboon",
+    "predator": "Dragon, frilled"
+  },
+  {
+    "name": "Arboral spiny rat",
+    "color": "Fuscia",
+    "age": 27.4,
+    "food": "Rhinoceros, square-lipped",
+    "predator": "Lion, steller's sea"
+  },
+  {
+    "name": "Crab, red lava",
+    "color": "Teal",
+    "age": 493.4,
+    "food": "Carmine bee-eater",
+    "predator": "Mocking cliffchat"
+  },
+  {
+    "name": "Whale, southern right",
+    "color": "Goldenrod",
+    "age": 530.4,
+    "food": "White-eye, pale",
+    "predator": "Nutcracker, clark's"
+  },
+  {
+    "name": "Bleeding heart monkey",
+    "color": "Maroon",
+    "age": 114.7,
+    "food": "Moccasin, water",
+    "predator": "Dunnart, fat-tailed"
+  },
+  {
+    "name": "Squirrel, eastern fox",
+    "color": "Pink",
+    "age": 158.8,
+    "food": "Red-cheeked cordon bleu",
+    "predator": "Northern fur seal"
+  },
+  {
+    "name": "Savanna fox",
+    "color": "Pink",
+    "age": 481.1,
+    "food": "Sociable weaver",
+    "predator": "Weeper capuchin"
+  },
+  {
+    "name": "Cape Barren goose",
+    "color": "Khaki",
+    "age": 72.6,
+    "food": "Turtle, long-necked",
+    "predator": "Otter, african clawless"
+  },
+  {
+    "name": "Otter, oriental short-clawed",
+    "color": "Puce",
+    "age": 816.6,
+    "food": "Leopard, indian",
+    "predator": "Opossum, american virginia"
+  },
+  {
+    "name": "Western grey kangaroo",
+    "color": "Pink",
+    "age": 947.7,
+    "food": "Gull, swallow-tail",
+    "predator": "Colobus, white-mantled"
+  },
+  {
+    "name": "African ground squirrel",
+    "color": "Yellow",
+    "age": 510.2,
+    "food": "Tiger snake",
+    "predator": "European badger"
+  },
+  {
+    "name": "Eurasian beaver",
+    "color": "Violet",
+    "age": 971.2,
+    "food": "White-winged black tern",
+    "predator": "Eland, common"
+  },
+  {
+    "name": "Pine snake",
+    "color": "Purple",
+    "age": 518.8,
+    "food": "Golden-mantled ground squirrel",
+    "predator": "Goldeneye, common"
+  },
+  {
+    "name": "Cat, toddy",
+    "color": "Khaki",
+    "age": 899.8,
+    "food": "Salmon, sockeye",
+    "predator": "White-winged black tern"
+  },
+  {
+    "name": "Green-winged trumpeter",
+    "color": "Crimson",
+    "age": 12.7,
+    "food": "Red-billed toucan",
+    "predator": "Praying mantis"
+  },
+  {
+    "name": "White-fronted bee-eater",
+    "color": "Aquamarine",
+    "age": 230.6,
+    "food": "Kudu, greater",
+    "predator": "Indian red admiral"
+  },
+  {
+    "name": "Barking gecko",
+    "color": "Khaki",
+    "age": 216.0,
+    "food": "Common ringtail",
+    "predator": "Cormorant, pied"
+  },
+  {
+    "name": "Bontebok",
+    "color": "Turquoise",
+    "age": 967.6,
+    "food": "Golden eagle",
+    "predator": "Jackal, asiatic"
+  },
+  {
+    "name": "Emerald green tree boa",
+    "color": "Purple",
+    "age": 580.1,
+    "food": "Gaur",
+    "predator": "Orca"
+  },
+  {
+    "name": "Lynx, african",
+    "color": "Turquoise",
+    "age": 329.3,
+    "food": "Radiated tortoise",
+    "predator": "European shelduck"
+  },
+  {
+    "name": "Crow, american",
+    "color": "Maroon",
+    "age": 867.3,
+    "food": "Cardinal, red-capped",
+    "predator": "Sloth, two-toed"
+  },
+  {
+    "name": "Kangaroo, eastern grey",
+    "color": "Turquoise",
+    "age": 670.6,
+    "food": "Burmese brown mountain tortoise",
+    "predator": "Monkey, vervet"
+  },
+  {
+    "name": "Ring-tailed coatimundi",
+    "color": "Khaki",
+    "age": 656.1,
+    "food": "Potoroo",
+    "predator": "Waxbill, violet-eared"
+  },
+  {
+    "name": "Red-legged pademelon",
+    "color": "Teal",
+    "age": 161.8,
+    "food": "Woodchuck",
+    "predator": "Screamer, southern"
+  },
+  {
+    "name": "Squirrel, antelope ground",
+    "color": "Mauv",
+    "age": 323.5,
+    "food": "Southern lapwing",
+    "predator": "Starling, superb"
+  },
+  {
+    "name": "Arboral spiny rat",
+    "color": "Green",
+    "age": 516.7,
+    "food": "Jaeger, long-tailed",
+    "predator": "Northern phalarope"
+  },
+  {
+    "name": "Porcupine, north american",
+    "color": "Puce",
+    "age": 108.9,
+    "food": "Starfish, crown of thorns",
+    "predator": "Tawny frogmouth"
+  },
+  {
+    "name": "Southern right whale",
+    "color": "Red",
+    "age": 437.7,
+    "food": "Bushbaby, large-eared",
+    "predator": "Ring-necked pheasant"
+  },
+  {
+    "name": "Pale-throated three-toed sloth",
+    "color": "Blue",
+    "age": 57.5,
+    "food": "Eastern box turtle",
+    "predator": "Asian red fox"
+  },
+  {
+    "name": "Skunk, striped",
+    "color": "Purple",
+    "age": 851.2,
+    "food": "Lizard, collared",
+    "predator": "Crested barbet"
+  },
+  {
+    "name": "Dove, ring",
+    "color": "Red",
+    "age": 358.7,
+    "food": "Macaw, blue and yellow",
+    "predator": "Brown and yellow marshbird"
+  },
+  {
+    "name": "Cat, african wild",
+    "color": "Violet",
+    "age": 511.9,
+    "food": "Western pygmy possum",
+    "predator": "Small-clawed otter"
+  },
+  {
+    "name": "Coqui francolin",
+    "color": "Green",
+    "age": 295.3,
+    "food": "Grison",
+    "predator": "Monkey, vervet"
+  },
+  {
+    "name": "Dama wallaby",
+    "color": "Red",
+    "age": 711.1,
+    "food": "Grenadier, purple",
+    "predator": "Flycatcher, tyrant"
+  },
+  {
+    "name": "Wombat, common",
+    "color": "Teal",
+    "age": 781.8,
+    "food": "Racer, american",
+    "predator": "Indian peacock"
+  },
+  {
+    "name": "Gecko, bent-toed",
+    "color": "Violet",
+    "age": 771.2,
+    "food": "Topi",
+    "predator": "Penguin, little blue"
+  },
+  {
+    "name": "Dunnart, fat-tailed",
+    "color": "Red",
+    "age": 287.1,
+    "food": "Stick insect",
+    "predator": "Sidewinder"
+  },
+  {
+    "name": "Pronghorn",
+    "color": "Fuscia",
+    "age": 828.1,
+    "food": "Barbet, levaillant's",
+    "predator": "Brush-tailed bettong"
+  },
+  {
+    "name": "Southern white-crowned shrike",
+    "color": "Fuscia",
+    "age": 626.6,
+    "food": "Hawk-headed parrot",
+    "predator": "Crane, wattled"
+  },
+  {
+    "name": "Yellow-billed hornbill",
+    "color": "Pink",
+    "age": 72.8,
+    "food": "Asian water buffalo",
+    "predator": "Glider, sugar"
+  },
+  {
+    "name": "Mongoose, javan gold-spotted",
+    "color": "Yellow",
+    "age": 574.6,
+    "food": "Blacksmith plover",
+    "predator": "Stone sheep"
+  },
+  {
+    "name": "Shrew, mandras tree",
+    "color": "Turquoise",
+    "age": 523.9,
+    "food": "Weaver, lesser masked",
+    "predator": "Dassie"
+  },
+  {
+    "name": "Harbor seal",
+    "color": "Maroon",
+    "age": 684.7,
+    "food": "Red-winged hawk",
+    "predator": "Ringtail"
+  },
+  {
+    "name": "Wambenger, red-tailed",
+    "color": "Khaki",
+    "age": 771.4,
+    "food": "Australian masked owl",
+    "predator": "Pied crow"
+  },
+  {
+    "name": "Crake, african black",
+    "color": "Khaki",
+    "age": 110.8,
+    "food": "American racer",
+    "predator": "Bison, american"
+  },
+  {
+    "name": "Agouti",
+    "color": "Crimson",
+    "age": 845.7,
+    "food": "Comb duck",
+    "predator": "Hornbill, red-billed"
+  },
+  {
+    "name": "Booby, masked",
+    "color": "Crimson",
+    "age": 533.0,
+    "food": "Indian jackal",
+    "predator": "Galapagos hawk"
+  },
+  {
+    "name": "Red-billed tropic bird",
+    "color": "Goldenrod",
+    "age": 462.7,
+    "food": "Teal, hottentot",
+    "predator": "Jungle cat"
+  },
+  {
+    "name": "South American puma",
+    "color": "Pink",
+    "age": 568.4,
+    "food": "Swallow-tail gull",
+    "predator": "Macaw, blue and gold"
+  },
+  {
+    "name": "Ringtail",
+    "color": "Indigo",
+    "age": 258.6,
+    "food": "Owl, white-browed",
+    "predator": "Civet, common palm"
+  },
+  {
+    "name": "Bird, magnificent frigate",
+    "color": "Turquoise",
+    "age": 688.8,
+    "food": "Red-capped cardinal",
+    "predator": "Tern, royal"
+  },
+  {
+    "name": "Ibis, sacred",
+    "color": "Khaki",
+    "age": 32.1,
+    "food": "Peregrine falcon",
+    "predator": "Praying mantis"
+  },
+  {
+    "name": "Blue-tongued skink",
+    "color": "Violet",
+    "age": 4.9,
+    "food": "Lemur, brown",
+    "predator": "Eastern dwarf mongoose"
+  },
+  {
+    "name": "Porcupine, crested",
+    "color": "Khaki",
+    "age": 111.6,
+    "food": "Darwin ground finch",
+    "predator": "Red-billed tropic bird"
+  },
+  {
+    "name": "Flamingo, chilean",
+    "color": "Yellow",
+    "age": 859.3,
+    "food": "Macaw, scarlet",
+    "predator": "Cormorant, pied"
+  },
+  {
+    "name": "Huron",
+    "color": "Green",
+    "age": 636.2,
+    "food": "Guanaco",
+    "predator": "Hornbill, southern ground"
+  },
+  {
+    "name": "Glider, feathertail",
+    "color": "Maroon",
+    "age": 383.6,
+    "food": "Mynah, indian",
+    "predator": "Native cat"
+  },
+  {
+    "name": "Sloth, pale-throated three-toed",
+    "color": "Purple",
+    "age": 337.9,
+    "food": "Starling, cape",
+    "predator": "Blue shark"
+  },
+  {
+    "name": "Weaver, lesser masked",
+    "color": "Indigo",
+    "age": 357.4,
+    "food": "Urial",
+    "predator": "Siskin, pine"
+  },
+  {
+    "name": "Four-spotted skimmer",
+    "color": "Violet",
+    "age": 551.6,
+    "food": "Snake, western patch-nosed",
+    "predator": "Oriental short-clawed otter"
+  },
+  {
+    "name": "Iguana, land",
+    "color": "Red",
+    "age": 507.4,
+    "food": "Greater adjutant stork",
+    "predator": "Ring dove"
+  },
+  {
+    "name": "Hoffman's sloth",
+    "color": "Violet",
+    "age": 511.3,
+    "food": "Wallaby, euro",
+    "predator": "Hyena, striped"
+  },
+  {
+    "name": "Four-striped grass mouse",
+    "color": "Red",
+    "age": 3.8,
+    "food": "Smith's bush squirrel",
+    "predator": "Spotted-tailed quoll"
+  },
+  {
+    "name": "Grenadier, purple",
+    "color": "Turquoise",
+    "age": 784.3,
+    "food": "Elk, Wapiti",
+    "predator": "Ring-tailed coatimundi"
+  },
+  {
+    "name": "Heron, yellow-crowned night",
+    "color": "Mauv",
+    "age": 588.6,
+    "food": "Swan, trumpeter",
+    "predator": "Hyena, brown"
+  },
+  {
+    "name": "White stork",
+    "color": "Goldenrod",
+    "age": 623.7,
+    "food": "Red phalarope",
+    "predator": "Grenadier, common"
+  },
+  {
+    "name": "Bettong, brush-tailed",
+    "color": "Green",
+    "age": 535.4,
+    "food": "Blesbok",
+    "predator": "Lappet-faced vulture"
+  },
+  {
+    "name": "Coot, red-knobbed",
+    "color": "Violet",
+    "age": 935.2,
+    "food": "Tenrec, tailless",
+    "predator": "Lion, south american sea"
+  },
+  {
+    "name": "Greylag goose",
+    "color": "Fuscia",
+    "age": 213.1,
+    "food": "Emerald green tree boa",
+    "predator": "Capybara"
+  },
+  {
+    "name": "Hyena, spotted",
+    "color": "Yellow",
+    "age": 658.4,
+    "food": "Reindeer",
+    "predator": "Iguana, common green"
+  },
+  {
+    "name": "Squirrel, antelope ground",
+    "color": "Blue",
+    "age": 96.8,
+    "food": "Weaver, lesser masked",
+    "predator": "Badger, american"
+  },
+  {
+    "name": "Crocodile, nile",
+    "color": "Indigo",
+    "age": 152.1,
+    "food": "Lion, asian",
+    "predator": "Glider, sugar"
+  },
+  {
+    "name": "Grey phalarope",
+    "color": "Maroon",
+    "age": 207.5,
+    "food": "Agama lizard",
+    "predator": "Deer, red"
+  },
+  {
+    "name": "Black kite",
+    "color": "Mauv",
+    "age": 34.9,
+    "food": "Chimpanzee",
+    "predator": "Wallaby, euro"
+  },
+  {
+    "name": "Cottonmouth",
+    "color": "Mauv",
+    "age": 144.7,
+    "food": "Heron, goliath",
+    "predator": "Short-nosed bandicoot"
+  },
+  {
+    "name": "Boar, wild",
+    "color": "Teal",
+    "age": 193.8,
+    "food": "Ass, asiatic wild",
+    "predator": "Cape wild cat"
+  },
+  {
+    "name": "American beaver",
+    "color": "Turquoise",
+    "age": 81.0,
+    "food": "Gull, silver",
+    "predator": "Common ringtail"
+  },
+  {
+    "name": "Seal, common",
+    "color": "Pink",
+    "age": 404.1,
+    "food": "Marmot, hoary",
+    "predator": "Bird, pied butcher"
+  },
+  {
+    "name": "Frilled dragon",
+    "color": "Maroon",
+    "age": 555.3,
+    "food": "Rhea, gray",
+    "predator": "Smith's bush squirrel"
+  },
+  {
+    "name": "American buffalo",
+    "color": "Pink",
+    "age": 320.2,
+    "food": "Black and white colobus",
+    "predator": "Eagle owl"
+  },
+  {
+    "name": "Great white pelican",
+    "color": "Mauv",
+    "age": 903.4,
+    "food": "Macaque, pig-tailed",
+    "predator": "Oryx, fringe-eared"
+  },
+  {
+    "name": "Crown of thorns starfish",
+    "color": "Turquoise",
+    "age": 881.4,
+    "food": "Greater sage grouse",
+    "predator": "Silver-backed jackal"
+  },
+  {
+    "name": "Boa, malagasy ground",
+    "color": "Goldenrod",
+    "age": 523.5,
+    "food": "Striped dolphin",
+    "predator": "Zorilla"
+  },
+  {
+    "name": "Golden brush-tailed possum",
+    "color": "Aquamarine",
+    "age": 584.0,
+    "food": "Crab-eating fox",
+    "predator": "Smith's bush squirrel"
+  },
+  {
+    "name": "Bear, polar",
+    "color": "Maroon",
+    "age": 708.9,
+    "food": "Pigeon, feral rock",
+    "predator": "Savannah deer"
+  },
+  {
+    "name": "Pelican, brown",
+    "color": "Goldenrod",
+    "age": 788.6,
+    "food": "American crow",
+    "predator": "Golden eagle"
+  },
+  {
+    "name": "Dusky rattlesnake",
+    "color": "Pink",
+    "age": 937.6,
+    "food": "Bee-eater, white-fronted",
+    "predator": "Shelduck, common"
+  },
+  {
+    "name": "Flicker, campo",
+    "color": "Puce",
+    "age": 896.7,
+    "food": "Langur, gray",
+    "predator": "Common genet"
+  },
+  {
+    "name": "Killer whale",
+    "color": "Khaki",
+    "age": 424.3,
+    "food": "Cougar",
+    "predator": "Boa, columbian rainbow"
+  },
+  {
+    "name": "White-browed sparrow weaver",
+    "color": "Khaki",
+    "age": 839.4,
+    "food": "Rhinoceros, square-lipped",
+    "predator": "Blackbuck"
+  },
+  {
+    "name": "Eurasian red squirrel",
+    "color": "Maroon",
+    "age": 895.7,
+    "food": "Ox, musk",
+    "predator": "Raccoon, crab-eating"
+  },
+  {
+    "name": "Crested bunting",
+    "color": "Green",
+    "age": 441.7,
+    "food": "Tern, arctic",
+    "predator": "Wolf, timber"
+  },
+  {
+    "name": "Turkey, common",
+    "color": "Orange",
+    "age": 86.6,
+    "food": "Fox, savanna",
+    "predator": "Snowy sheathbill"
+  },
+  {
+    "name": "Rhinoceros, square-lipped",
+    "color": "Maroon",
+    "age": 48.9,
+    "food": "Mongoose, small indian",
+    "predator": "Ibis, glossy"
+  },
+  {
+    "name": "Wild boar",
+    "color": "Violet",
+    "age": 401.9,
+    "food": "White-eye, cape",
+    "predator": "Huron"
+  },
+  {
+    "name": "Seven-banded armadillo",
+    "color": "Teal",
+    "age": 449.5,
+    "food": "Beaver, american",
+    "predator": "Frogmouth, tawny"
+  },
+  {
+    "name": "Eagle owl",
+    "color": "Orange",
+    "age": 504.1,
+    "food": "Galapagos tortoise",
+    "predator": "Water legaan"
+  },
+  {
+    "name": "Guerza",
+    "color": "Blue",
+    "age": 156.3,
+    "food": "Dove, emerald-spotted wood",
+    "predator": "Eastern boa constrictor"
+  },
+  {
+    "name": "Marmot, hoary",
+    "color": "Yellow",
+    "age": 8.8,
+    "food": "Frilled dragon",
+    "predator": "Bonnet macaque"
+  },
+  {
+    "name": "Sloth bear",
+    "color": "Turquoise",
+    "age": 533.8,
+    "food": "Springhare",
+    "predator": "Coatimundi, white-nosed"
+  },
+  {
+    "name": "Porcupine, north american",
+    "color": "Mauv",
+    "age": 914.6,
+    "food": "Dove, rock",
+    "predator": "Western bearded dragon"
+  },
+  {
+    "name": "Koala",
+    "color": "Turquoise",
+    "age": 976.6,
+    "food": "Seal, northern fur",
+    "predator": "Squirrel, indian giant"
+  },
+  {
+    "name": "Nutcracker, clark's",
+    "color": "Turquoise",
+    "age": 191.0,
+    "food": "African lynx",
+    "predator": "Squirrel, richardson's ground"
+  },
+  {
+    "name": "Greater rhea",
+    "color": "Maroon",
+    "age": 258.4,
+    "food": "Llama",
+    "predator": "Heron, little"
+  },
+  {
+    "name": "Grebe, little",
+    "color": "Aquamarine",
+    "age": 45.0,
+    "food": "Kafue flats lechwe",
+    "predator": "Common green iguana"
+  },
+  {
+    "name": "Steenbuck",
+    "color": "Turquoise",
+    "age": 188.4,
+    "food": "Barbet, levaillant's",
+    "predator": "Wallaby, bennett's"
+  },
+  {
+    "name": "Deer, barasingha",
+    "color": "Turquoise",
+    "age": 942.2,
+    "food": "Ring-tailed gecko",
+    "predator": "Cat, miner's"
+  },
+  {
+    "name": "Timber wolf",
+    "color": "Crimson",
+    "age": 117.1,
+    "food": "Phalarope, red",
+    "predator": "Goose, spur-winged"
+  },
+  {
+    "name": "Barrows goldeneye",
+    "color": "Orange",
+    "age": 621.6,
+    "food": "Jaguar",
+    "predator": "Common duiker"
+  },
+  {
+    "name": "Insect, stick",
+    "color": "Teal",
+    "age": 961.4,
+    "food": "Sparrow, rufous-collared",
+    "predator": "Thirteen-lined squirrel"
+  },
+  {
+    "name": "European beaver",
+    "color": "Puce",
+    "age": 258.1,
+    "food": "Fox, north american red",
+    "predator": "Antelope, roan"
+  },
+  {
+    "name": "Lapwing, southern",
+    "color": "Aquamarine",
+    "age": 432.4,
+    "food": "African clawless otter",
+    "predator": "Adouri"
+  },
+  {
+    "name": "Magpie, australian",
+    "color": "Yellow",
+    "age": 50.9,
+    "food": "Deer, spotted",
+    "predator": "Peccary, white-lipped"
+  },
+  {
+    "name": "European wild cat",
+    "color": "Green",
+    "age": 912.5,
+    "food": "Possum, golden brush-tailed",
+    "predator": "Squirrel, malabar"
+  },
+  {
+    "name": "Skua, great",
+    "color": "Blue",
+    "age": 1.6,
+    "food": "Sifaka, verreaux's",
+    "predator": "Giant otter"
+  },
+  {
+    "name": "Frog",
+    "color": "Mauv",
+    "age": 566.6,
+    "food": "Superb starling",
+    "predator": "Iguana, common green"
+  },
+  {
+    "name": "Squirrel, nelson ground",
+    "color": "Violet",
+    "age": 227.9,
+    "food": "Armadillo, seven-banded",
+    "predator": "Arctic lemming"
+  },
+  {
+    "name": "Rat, desert kangaroo",
+    "color": "Turquoise",
+    "age": 678.0,
+    "food": "Waxbill, black-cheeked",
+    "predator": "Greater flamingo"
+  },
+  {
+    "name": "Tayra",
+    "color": "Khaki",
+    "age": 535.8,
+    "food": "Stork, marabou",
+    "predator": "Knob-nosed goose"
+  },
+  {
+    "name": "Andean goose",
+    "color": "Turquoise",
+    "age": 194.3,
+    "food": "Stick insect",
+    "predator": "Egret, great"
+  },
+  {
+    "name": "Sandpiper, spotted wood",
+    "color": "Goldenrod",
+    "age": 590.8,
+    "food": "Tree porcupine",
+    "predator": "Woodrat"
+  },
+  {
+    "name": "Jungle kangaroo",
+    "color": "Green",
+    "age": 173.6,
+    "food": "Palm squirrel",
+    "predator": "Genet, small-spotted"
+  },
+  {
+    "name": "Pigeon, feral rock",
+    "color": "Violet",
+    "age": 548.2,
+    "food": "Hartebeest, red",
+    "predator": "Bateleur eagle"
+  },
+  {
+    "name": "Marten, american",
+    "color": "Maroon",
+    "age": 178.3,
+    "food": "Fox, bat-eared",
+    "predator": "Lizard"
+  },
+  {
+    "name": "Yak",
+    "color": "Crimson",
+    "age": 584.5,
+    "food": "Burmese brown mountain tortoise",
+    "predator": "Slender-billed cockatoo"
+  },
+  {
+    "name": "Coke's hartebeest",
+    "color": "Red",
+    "age": 221.1,
+    "food": "Pronghorn",
+    "predator": "Three-banded plover"
+  },
+  {
+    "name": "Owl, white-browed",
+    "color": "Turquoise",
+    "age": 556.1,
+    "food": "Miner's cat",
+    "predator": "Sage grouse"
+  },
+  {
+    "name": "American black bear",
+    "color": "Puce",
+    "age": 159.7,
+    "food": "Nuthatch, red-breasted",
+    "predator": "Tamandua, southern"
+  },
+  {
+    "name": "American Virginia opossum",
+    "color": "Violet",
+    "age": 564.9,
+    "food": "Malabar squirrel",
+    "predator": "Bird, magnificent frigate"
+  },
+  {
+    "name": "Squirrel, arctic ground",
+    "color": "Pink",
+    "age": 596.8,
+    "food": "Albatross, galapagos",
+    "predator": "Sloth, two-toed tree"
+  },
+  {
+    "name": "Chestnut weaver",
+    "color": "Goldenrod",
+    "age": 590.5,
+    "food": "Macaque, japanese",
+    "predator": "Scottish highland cow"
+  },
+  {
+    "name": "Zorro, common",
+    "color": "Orange",
+    "age": 8.9,
+    "food": "Otter, african clawless",
+    "predator": "Phalarope, grey"
+  },
+  {
+    "name": "Avocet, pied",
+    "color": "Mauv",
+    "age": 949.5,
+    "food": "Grouse, greater sage",
+    "predator": "Hawk-eagle, crowned"
+  },
+  {
+    "name": "Coqui partridge",
+    "color": "Fuscia",
+    "age": 66.4,
+    "food": "Gila monster",
+    "predator": "Ring-necked pheasant"
+  },
+  {
+    "name": "Malay squirrel",
+    "color": "Maroon",
+    "age": 296.3,
+    "food": "Monkey, bleeding heart",
+    "predator": "Marshbird, brown and yellow"
+  },
+  {
+    "name": "Shrew, mandras tree",
+    "color": "Pink",
+    "age": 79.5,
+    "food": "Otter, oriental short-clawed",
+    "predator": "Common duiker"
+  },
+  {
+    "name": "Yellow-brown sungazer",
+    "color": "Indigo",
+    "age": 417.9,
+    "food": "Painted stork",
+    "predator": "Burchell's gonolek"
+  },
+  {
+    "name": "Black-cheeked waxbill",
+    "color": "Purple",
+    "age": 760.0,
+    "food": "Crane, sandhill",
+    "predator": "Buffalo, wild water"
+  },
+  {
+    "name": "Stork, painted",
+    "color": "Purple",
+    "age": 564.9,
+    "food": "Bird, magnificent frigate",
+    "predator": "Crown of thorns starfish"
+  },
+  {
+    "name": "Chuckwalla",
+    "color": "Puce",
+    "age": 651.0,
+    "food": "Savanna fox",
+    "predator": "Vulture, bengal"
+  },
+  {
+    "name": "Eagle, pallas's fish",
+    "color": "Yellow",
+    "age": 921.2,
+    "food": "Eagle, tawny",
+    "predator": "Duck, comb"
+  },
+  {
+    "name": "Mule deer",
+    "color": "Violet",
+    "age": 865.5,
+    "food": "Marshbird, brown and yellow",
+    "predator": "Black-tailed prairie dog"
+  },
+  {
+    "name": "Duiker, common",
+    "color": "Mauv",
+    "age": 733.0,
+    "food": "Cook's tree boa",
+    "predator": "Eurasian hoopoe"
+  },
+  {
+    "name": "Brazilian otter",
+    "color": "Goldenrod",
+    "age": 153.8,
+    "food": "Malachite kingfisher",
+    "predator": "Canadian river otter"
+  },
+  {
+    "name": "Ringtail, common",
+    "color": "Pink",
+    "age": 555.8,
+    "food": "Brush-tailed phascogale",
+    "predator": "Western patch-nosed snake"
+  },
+  {
+    "name": "Pronghorn",
+    "color": "Maroon",
+    "age": 736.8,
+    "food": "Kangaroo, western grey",
+    "predator": "Zebra, common"
+  },
+  {
+    "name": "Stork, black-necked",
+    "color": "Turquoise",
+    "age": 796.7,
+    "food": "Lemur, grey mouse",
+    "predator": "White-throated robin"
+  },
+  {
+    "name": "Red and blue macaw",
+    "color": "Aquamarine",
+    "age": 208.0,
+    "food": "Kirk's dik dik",
+    "predator": "Skunk, striped"
+  },
+  {
+    "name": "Stork, marabou",
+    "color": "Yellow",
+    "age": 17.6,
+    "food": "African bush squirrel",
+    "predator": "Common long-nosed armadillo"
+  },
+  {
+    "name": "Badger, european",
+    "color": "Indigo",
+    "age": 994.2,
+    "food": "Brown brocket",
+    "predator": "Roe deer"
+  },
+  {
+    "name": "Goose, egyptian",
+    "color": "Red",
+    "age": 678.6,
+    "food": "Nutcracker, clark's",
+    "predator": "Blue duck"
+  },
+  {
+    "name": "Eastern cottontail rabbit",
+    "color": "Yellow",
+    "age": 416.7,
+    "food": "Nilgai",
+    "predator": "Yellow-billed hornbill"
+  },
+  {
+    "name": "Sloth, two-toed tree",
+    "color": "Khaki",
+    "age": 652.0,
+    "food": "Ox, musk",
+    "predator": "Meerkat"
+  },
+  {
+    "name": "Stork, woolly-necked",
+    "color": "Mauv",
+    "age": 287.2,
+    "food": "Toucan, white-throated",
+    "predator": "Snake, green vine"
+  },
+  {
+    "name": "Hoopoe, eurasian",
+    "color": "Mauv",
+    "age": 897.1,
+    "food": "Snake, western patch-nosed",
+    "predator": "Common nighthawk"
+  },
+  {
+    "name": "African polecat",
+    "color": "Indigo",
+    "age": 179.2,
+    "food": "Black-crowned night heron",
+    "predator": "Crab-eating raccoon"
+  },
+  {
+    "name": "Striped dolphin",
+    "color": "Puce",
+    "age": 804.2,
+    "food": "Cat, civet",
+    "predator": "Egyptian vulture"
+  },
+  {
+    "name": "Red deer",
+    "color": "Fuscia",
+    "age": 547.2,
+    "food": "Hornbill, yellow-billed",
+    "predator": "Small-clawed otter"
+  },
+  {
+    "name": "Guerza",
+    "color": "Violet",
+    "age": 746.8,
+    "food": "Sheep, american bighorn",
+    "predator": "Swan, trumpeter"
+  },
+  {
+    "name": "Lizard, desert spiny",
+    "color": "Puce",
+    "age": 889.6,
+    "food": "Common shelduck",
+    "predator": "Kiskadee, great"
+  },
+  {
+    "name": "Wild turkey",
+    "color": "Mauv",
+    "age": 380.0,
+    "food": "Pine siskin",
+    "predator": "Greater roadrunner"
+  },
+  {
+    "name": "Shrew, mandras tree",
+    "color": "Maroon",
+    "age": 33.8,
+    "food": "American beaver",
+    "predator": "Sun gazer"
+  },
+  {
+    "name": "Common raccoon",
+    "color": "Yellow",
+    "age": 334.6,
+    "food": "Brocket, red",
+    "predator": "Lion, steller's sea"
+  },
+  {
+    "name": "Sportive lemur",
+    "color": "Aquamarine",
+    "age": 128.3,
+    "food": "Arctic lemming",
+    "predator": "Argalis"
+  },
+  {
+    "name": "Chestnut weaver",
+    "color": "Teal",
+    "age": 947.0,
+    "food": "Roan antelope",
+    "predator": "Macaque, bonnet"
+  },
+  {
+    "name": "Spotted wood sandpiper",
+    "color": "Teal",
+    "age": 868.3,
+    "food": "Leadbeateri's ground hornbill",
+    "predator": "Two-banded monitor"
+  },
+  {
+    "name": "Woodrat",
+    "color": "Fuscia",
+    "age": 932.7,
+    "food": "Kori bustard",
+    "predator": "Squirrel, european red"
+  },
+  {
+    "name": "Bear, polar",
+    "color": "Yellow",
+    "age": 927.8,
+    "food": "Caiman, spectacled",
+    "predator": "Cat, long-tailed spotted"
+  },
+  {
+    "name": "Possum, western pygmy",
+    "color": "Puce",
+    "age": 349.8,
+    "food": "Pale-throated three-toed sloth",
+    "predator": "Stanley bustard"
+  },
+  {
+    "name": "Raven, white-necked",
+    "color": "Blue",
+    "age": 670.8,
+    "food": "Wild turkey",
+    "predator": "Cormorant"
+  },
+  {
+    "name": "Galapagos hawk",
+    "color": "Turquoise",
+    "age": 695.5,
+    "food": "Australian spiny anteater",
+    "predator": "Red sheep"
+  },
+  {
+    "name": "Arctic fox",
+    "color": "Green",
+    "age": 9.0,
+    "food": "Spurfowl, yellow-necked",
+    "predator": "Lion, asian"
+  },
+  {
+    "name": "Eastern indigo snake",
+    "color": "Green",
+    "age": 146.4,
+    "food": "Verreaux's sifaka",
+    "predator": "Great egret"
+  },
+  {
+    "name": "African wild dog",
+    "color": "Mauv",
+    "age": 472.9,
+    "food": "Coqui francolin",
+    "predator": "Mississippi alligator"
+  },
+  {
+    "name": "Sacred ibis",
+    "color": "Blue",
+    "age": 249.1,
+    "food": "Polar bear",
+    "predator": "Otter, canadian river"
+  },
+  {
+    "name": "Jungle kangaroo",
+    "color": "Orange",
+    "age": 638.8,
+    "food": "Duiker, common",
+    "predator": "Red-tailed phascogale"
+  },
+  {
+    "name": "Weaver, chestnut",
+    "color": "Teal",
+    "age": 602.8,
+    "food": "American alligator",
+    "predator": "Elephant, african"
+  },
+  {
+    "name": "Alligator, american",
+    "color": "Crimson",
+    "age": 831.3,
+    "food": "Old world fruit bat",
+    "predator": "Eland, common"
+  },
+  {
+    "name": "Tortoise, indian star",
+    "color": "Crimson",
+    "age": 238.4,
+    "food": "Dove, emerald-spotted wood",
+    "predator": "Blesbok"
+  },
+  {
+    "name": "Constrictor, eastern boa",
+    "color": "Khaki",
+    "age": 571.7,
+    "food": "Gecko, ring-tailed",
+    "predator": "Lizard, desert spiny"
+  },
+  {
+    "name": "Hawk, ferruginous",
+    "color": "Goldenrod",
+    "age": 408.2,
+    "food": "Cormorant, great",
+    "predator": "Collared lemming"
+  },
+  {
+    "name": "Rattlesnake, eastern diamondback",
+    "color": "Violet",
+    "age": 433.6,
+    "food": "Eastern indigo snake",
+    "predator": "Marine iguana"
+  },
+  {
+    "name": "Lion, asian",
+    "color": "Blue",
+    "age": 685.3,
+    "food": "Wild water buffalo",
+    "predator": "Horned puffin"
+  },
+  {
+    "name": "Red lava crab",
+    "color": "Green",
+    "age": 695.0,
+    "food": "Quoll, spotted-tailed",
+    "predator": "Crane, sarus"
+  },
+  {
+    "name": "Stork, painted",
+    "color": "Green",
+    "age": 696.7,
+    "food": "Buttermilk snake",
+    "predator": "Common dolphin"
+  },
+  {
+    "name": "Squirrel, eastern fox",
+    "color": "Purple",
+    "age": 358.3,
+    "food": "Blesbok",
+    "predator": "Monkey, red howler"
+  },
+  {
+    "name": "Lilac-breasted roller",
+    "color": "Pink",
+    "age": 646.7,
+    "food": "Square-lipped rhinoceros",
+    "predator": "North American river otter"
+  },
+  {
+    "name": "Southern screamer",
+    "color": "Yellow",
+    "age": 171.7,
+    "food": "Square-lipped rhinoceros",
+    "predator": "Lark, horned"
+  },
+  {
+    "name": "Zebra, plains",
+    "color": "Mauv",
+    "age": 621.6,
+    "food": "Badger, american",
+    "predator": "Fox, blue"
+  },
+  {
+    "name": "Albatross, waved",
+    "color": "Teal",
+    "age": 139.8,
+    "food": "White-fronted capuchin",
+    "predator": "Guerza"
+  },
+  {
+    "name": "Arctic fox",
+    "color": "Yellow",
+    "age": 654.4,
+    "food": "Black bear",
+    "predator": "Suricate"
+  },
+  {
+    "name": "Dama wallaby",
+    "color": "Purple",
+    "age": 879.7,
+    "food": "Turkey vulture",
+    "predator": "White-throated robin"
+  },
+  {
+    "name": "California sea lion",
+    "color": "Crimson",
+    "age": 76.8,
+    "food": "Indian mynah",
+    "predator": "African skink"
+  },
+  {
+    "name": "Civet, common palm",
+    "color": "Maroon",
+    "age": 334.5,
+    "food": "Galapagos albatross",
+    "predator": "Canada goose"
+  },
+  {
+    "name": "Lemming, collared",
+    "color": "Turquoise",
+    "age": 541.7,
+    "food": "White-winged tern",
+    "predator": "Old world fruit bat"
+  },
+  {
+    "name": "Monkey, black spider",
+    "color": "Teal",
+    "age": 106.9,
+    "food": "Killer whale",
+    "predator": "Stanley bustard"
+  },
+  {
+    "name": "Sally lightfoot crab",
+    "color": "Indigo",
+    "age": 521.8,
+    "food": "Duck, white-faced whistling",
+    "predator": "Monkey, black spider"
+  },
+  {
+    "name": "Bear, grizzly",
+    "color": "Goldenrod",
+    "age": 270.8,
+    "food": "Otter, brazilian",
+    "predator": "Gecko, bent-toed"
+  },
+  {
+    "name": "Ovenbird",
+    "color": "Green",
+    "age": 349.6,
+    "food": "Gull, kelp",
+    "predator": "Red-billed tropic bird"
+  },
+  {
+    "name": "Eagle, golden",
+    "color": "Crimson",
+    "age": 479.5,
+    "food": "Vulture, griffon",
+    "predator": "Orca"
+  },
+  {
+    "name": "Water monitor",
+    "color": "Puce",
+    "age": 764.4,
+    "food": "Capuchin, weeper",
+    "predator": "Oystercatcher, blackish"
+  },
+  {
+    "name": "Shrike, southern white-crowned",
+    "color": "Indigo",
+    "age": 339.6,
+    "food": "Heron, black-crowned night",
+    "predator": "Sun gazer"
+  },
+  {
+    "name": "Squirrel, palm",
+    "color": "Green",
+    "age": 348.0,
+    "food": "Black-footed ferret",
+    "predator": "Moccasin, water"
+  },
+  {
+    "name": "Tasmanian devil",
+    "color": "Blue",
+    "age": 343.4,
+    "food": "Brush-tailed phascogale",
+    "predator": "Buttermilk snake"
+  },
+  {
+    "name": "Jackal, black-backed",
+    "color": "Mauv",
+    "age": 362.2,
+    "food": "Springbok",
+    "predator": "Woodpecker, red-headed"
+  },
+  {
+    "name": "Sandpiper, spotted wood",
+    "color": "Crimson",
+    "age": 825.1,
+    "food": "Duck, mountain",
+    "predator": "Hanuman langur"
+  },
+  {
+    "name": "Red-shouldered glossy starling",
+    "color": "Goldenrod",
+    "age": 689.0,
+    "food": "Mongoose, javan gold-spotted",
+    "predator": "White rhinoceros"
+  },
+  {
+    "name": "Blue catfish",
+    "color": "Aquamarine",
+    "age": 820.7,
+    "food": "Serval",
+    "predator": "Cockatoo, slender-billed"
+  },
+  {
+    "name": "Bushbaby, large-eared",
+    "color": "Purple",
+    "age": 434.1,
+    "food": "Three-banded plover",
+    "predator": "American marten"
+  },
+  {
+    "name": "European spoonbill",
+    "color": "Aquamarine",
+    "age": 57.9,
+    "food": "Goose, greylag",
+    "predator": "Tortoise, burmese black mountain"
+  },
+  {
+    "name": "Raccoon dog",
+    "color": "Crimson",
+    "age": 303.4,
+    "food": "Roadrunner, greater",
+    "predator": "Crab, red lava"
+  },
+  {
+    "name": "Rat, desert kangaroo",
+    "color": "Crimson",
+    "age": 18.8,
+    "food": "Tern, arctic",
+    "predator": "Burchell's gonolek"
+  },
+  {
+    "name": "White-rumped vulture",
+    "color": "Aquamarine",
+    "age": 746.3,
+    "food": "Rhinoceros, white",
+    "predator": "Netted rock dragon"
+  },
+  {
+    "name": "Water legaan",
+    "color": "Teal",
+    "age": 569.6,
+    "food": "Black-collared barbet",
+    "predator": "Lion, australian sea"
+  },
+  {
+    "name": "Iguana, marine",
+    "color": "Fuscia",
+    "age": 24.2,
+    "food": "Bottle-nose dolphin",
+    "predator": "Red squirrel"
+  },
+  {
+    "name": "Desert spiny lizard",
+    "color": "Yellow",
+    "age": 518.0,
+    "food": "Galapagos dove",
+    "predator": "Owl, madagascar hawk"
+  },
+  {
+    "name": "Alpaca",
+    "color": "Green",
+    "age": 88.0,
+    "food": "Urial",
+    "predator": "Deer, black-tailed"
+  },
+  {
+    "name": "Arctic fox",
+    "color": "Pink",
+    "age": 502.3,
+    "food": "Hawk-eagle, crowned",
+    "predator": "Small-toothed palm civet"
+  },
+  {
+    "name": "Common duiker",
+    "color": "Puce",
+    "age": 51.6,
+    "food": "Agama lizard",
+    "predator": "Spoonbill, white"
+  },
+  {
+    "name": "Southern white-crowned shrike",
+    "color": "Goldenrod",
+    "age": 713.2,
+    "food": "Blesbok",
+    "predator": "White-throated toucan"
+  },
+  {
+    "name": "Dove, rock",
+    "color": "Yellow",
+    "age": 543.3,
+    "food": "Baboon, yellow",
+    "predator": "Great horned owl"
+  },
+  {
+    "name": "Royal tern",
+    "color": "Red",
+    "age": 488.5,
+    "food": "Kirk's dik dik",
+    "predator": "Heron, little"
+  },
+  {
+    "name": "Gazer, sun",
+    "color": "Puce",
+    "age": 679.6,
+    "food": "Adouri",
+    "predator": "Gerbil"
+  },
+  {
+    "name": "American Virginia opossum",
+    "color": "Goldenrod",
+    "age": 228.6,
+    "food": "Mongoose, yellow",
+    "predator": "Bee-eater, nubian"
+  },
+  {
+    "name": "Squirrel, arctic ground",
+    "color": "Yellow",
+    "age": 731.2,
+    "food": "Flicker, campo",
+    "predator": "Owl, snowy"
+  },
+  {
+    "name": "Chameleon",
+    "color": "Indigo",
+    "age": 805.5,
+    "food": "Gray duiker",
+    "predator": "Wapiti, elk,"
+  },
+  {
+    "name": "Penguin, galapagos",
+    "color": "Purple",
+    "age": 270.4,
+    "food": "Mule deer",
+    "predator": "Goldeneye, barrows"
+  },
+  {
+    "name": "Otter, oriental short-clawed",
+    "color": "Orange",
+    "age": 3.9,
+    "food": "African ground squirrel",
+    "predator": "Caracara"
+  },
+  {
+    "name": "Wagtail, african pied",
+    "color": "Khaki",
+    "age": 782.7,
+    "food": "Asian water buffalo",
+    "predator": "Boubou, southern"
+  },
+  {
+    "name": "Miner's cat",
+    "color": "Fuscia",
+    "age": 117.8,
+    "food": "Sloth bear",
+    "predator": "Magistrate black colobus"
+  },
+  {
+    "name": "Thomson's gazelle",
+    "color": "Purple",
+    "age": 9.8,
+    "food": "Thirteen-lined squirrel",
+    "predator": "Southern elephant seal"
+  },
+  {
+    "name": "Monkey, rhesus",
+    "color": "Purple",
+    "age": 413.0,
+    "food": "Squirrel, african bush",
+    "predator": "Seal, northern elephant"
+  },
+  {
+    "name": "Dragon, western bearded",
+    "color": "Violet",
+    "age": 590.0,
+    "food": "Spoonbill, white",
+    "predator": "Tammar wallaby"
+  },
+  {
+    "name": "Cliffchat, mocking",
+    "color": "Red",
+    "age": 442.7,
+    "food": "Blue-tongued lizard",
+    "predator": "European shelduck"
+  },
+  {
+    "name": "Wood pigeon",
+    "color": "Red",
+    "age": 2.3,
+    "food": "Tortoise, burmese brown mountain",
+    "predator": "Sandgrouse, yellow-throated"
+  },
+  {
+    "name": "Roe deer",
+    "color": "Goldenrod",
+    "age": 645.2,
+    "food": "Bengal vulture",
+    "predator": "American marten"
+  },
+  {
+    "name": "Australian masked owl",
+    "color": "Crimson",
+    "age": 110.8,
+    "food": "Wolf, timber",
+    "predator": "Chestnut weaver"
+  },
+  {
+    "name": "Turtle, long-necked",
+    "color": "Violet",
+    "age": 134.3,
+    "food": "Red deer",
+    "predator": "Chital"
+  },
+  {
+    "name": "Sea birds",
+    "color": "Khaki",
+    "age": 391.0,
+    "food": "Sea birds",
+    "predator": "Caribou"
+  },
+  {
+    "name": "Carpet snake",
+    "color": "Violet",
+    "age": 520.6,
+    "food": "Seal, common",
+    "predator": "Canadian tiger swallowtail butterfly"
+  },
+  {
+    "name": "Possum, ring-tailed",
+    "color": "Pink",
+    "age": 351.9,
+    "food": "Greater rhea",
+    "predator": "Tiger snake"
+  },
+  {
+    "name": "Eagle, white-bellied sea",
+    "color": "Khaki",
+    "age": 81.0,
+    "food": "Asian false vampire bat",
+    "predator": "Ground monitor"
+  },
+  {
+    "name": "Australian magpie",
+    "color": "Violet",
+    "age": 36.0,
+    "food": "Hottentot teal",
+    "predator": "Cormorant, large"
+  },
+  {
+    "name": "White-winged black tern",
+    "color": "Khaki",
+    "age": 656.0,
+    "food": "Red-winged hawk",
+    "predator": "Lizard, giant girdled"
+  },
+  {
+    "name": "Mongoose, eastern dwarf",
+    "color": "Violet",
+    "age": 866.0,
+    "food": "Bushpig",
+    "predator": "Gecko, ring-tailed"
+  },
+  {
+    "name": "Penguin, galapagos",
+    "color": "Fuscia",
+    "age": 68.6,
+    "food": "Galapagos dove",
+    "predator": "American crow"
+  },
+  {
+    "name": "Cat, ringtail",
+    "color": "Goldenrod",
+    "age": 596.6,
+    "food": "Slender-billed cockatoo",
+    "predator": "Tawny frogmouth"
+  },
+  {
+    "name": "Beisa oryx",
+    "color": "Maroon",
+    "age": 502.9,
+    "food": "Shelduck, common",
+    "predator": "Avocet, pied"
+  },
+  {
+    "name": "Scottish highland cow",
+    "color": "Yellow",
+    "age": 467.0,
+    "food": "Spurfowl, yellow-necked",
+    "predator": "Galapagos dove"
+  },
+  {
+    "name": "Lion, steller sea",
+    "color": "Fuscia",
+    "age": 142.0,
+    "food": "Jaguarundi",
+    "predator": "Pigeon, wood"
+  },
+  {
+    "name": "Mudskipper",
+    "color": "Purple",
+    "age": 7.8,
+    "food": "Southern screamer",
+    "predator": "Sunbird, lesser double-collared"
+  },
+  {
+    "name": "Common genet",
+    "color": "Maroon",
+    "age": 368.7,
+    "food": "White-fronted capuchin",
+    "predator": "Long-billed corella"
+  },
+  {
+    "name": "Antelope ground squirrel",
+    "color": "Khaki",
+    "age": 234.8,
+    "food": "Arboral spiny rat",
+    "predator": "Richardson's ground squirrel"
+  },
+  {
+    "name": "Gecko",
+    "color": "Puce",
+    "age": 692.3,
+    "food": "Turaco, violet-crested",
+    "predator": "Toddy cat"
+  },
+  {
+    "name": "Frilled lizard",
+    "color": "Khaki",
+    "age": 732.6,
+    "food": "Lechwe, kafue flats",
+    "predator": "Porcupine, crested"
+  },
+  {
+    "name": "Crown of thorns starfish",
+    "color": "Green",
+    "age": 831.0,
+    "food": "Eurasian red squirrel",
+    "predator": "Crow, pied"
+  },
+  {
+    "name": "Frogmouth, tawny",
+    "color": "Goldenrod",
+    "age": 133.0,
+    "food": "Northern elephant seal",
+    "predator": "Australian masked owl"
+  },
+  {
+    "name": "Heron, gray",
+    "color": "Violet",
+    "age": 152.2,
+    "food": "Cat, miner's",
+    "predator": "Chuckwalla"
+  },
+  {
+    "name": "Carpet python",
+    "color": "Maroon",
+    "age": 570.4,
+    "food": "Collared lemming",
+    "predator": "Antelope, sable"
+  },
+  {
+    "name": "Andean goose",
+    "color": "Red",
+    "age": 653.7,
+    "food": "Penguin, galapagos",
+    "predator": "Heron, black-crowned night"
+  },
+  {
+    "name": "Waterbuck, common",
+    "color": "Indigo",
+    "age": 6.5,
+    "food": "South American meadowlark",
+    "predator": "Yellow mongoose"
+  },
+  {
+    "name": "Bulbul, black-fronted",
+    "color": "Maroon",
+    "age": 944.4,
+    "food": "Otter, cape clawless",
+    "predator": "Cougar"
+  },
+  {
+    "name": "Squirrel, eurasian red",
+    "color": "Indigo",
+    "age": 209.2,
+    "food": "Common long-nosed armadillo",
+    "predator": "White-throated monitor"
+  },
+  {
+    "name": "Lemur, brown",
+    "color": "Fuscia",
+    "age": 238.1,
+    "food": "Dingo",
+    "predator": "Little heron"
+  },
+  {
+    "name": "Beaver, european",
+    "color": "Red",
+    "age": 59.2,
+    "food": "Pale-throated three-toed sloth",
+    "predator": "Spurfowl, yellow-necked"
+  },
+  {
+    "name": "Pied avocet",
+    "color": "Fuscia",
+    "age": 972.1,
+    "food": "Rhesus monkey",
+    "predator": "Four-striped grass mouse"
+  },
+  {
+    "name": "Pale white-eye",
+    "color": "Green",
+    "age": 756.4,
+    "food": "African pied wagtail",
+    "predator": "Elegant crested tinamou"
+  },
+  {
+    "name": "Fringe-eared oryx",
+    "color": "Blue",
+    "age": 906.1,
+    "food": "Baboon, chacma",
+    "predator": "Gull, lava"
+  },
+  {
+    "name": "Flamingo, chilean",
+    "color": "Yellow",
+    "age": 555.7,
+    "food": "Mynah, common",
+    "predator": "Tern, royal"
+  },
+  {
+    "name": "Oribi",
+    "color": "Teal",
+    "age": 545.3,
+    "food": "Potoroo",
+    "predator": "Crow, pied"
+  },
+  {
+    "name": "Wild water buffalo",
+    "color": "Goldenrod",
+    "age": 903.7,
+    "food": "Purple moorhen",
+    "predator": "Hyena, striped"
+  },
+  {
+    "name": "Zorro, common",
+    "color": "Purple",
+    "age": 428.2,
+    "food": "Francolin, swainson's",
+    "predator": "Bat, madagascar fruit"
+  },
+  {
+    "name": "Stork, openbill",
+    "color": "Violet",
+    "age": 290.2,
+    "food": "African ground squirrel",
+    "predator": "Red-tailed cockatoo"
+  },
+  {
+    "name": "Wagtail, african pied",
+    "color": "Aquamarine",
+    "age": 453.8,
+    "food": "Squirrel, eastern fox",
+    "predator": "Orca"
+  },
+  {
+    "name": "Cat, cape wild",
+    "color": "Pink",
+    "age": 66.2,
+    "food": "Rhinoceros, square-lipped",
+    "predator": "White-bellied sea eagle"
+  },
+  {
+    "name": "Tamandua, southern",
+    "color": "Khaki",
+    "age": 173.3,
+    "food": "Wallaby, euro",
+    "predator": "Eagle, white-bellied sea"
+  },
+  {
+    "name": "Mongoose, yellow",
+    "color": "Maroon",
+    "age": 433.3,
+    "food": "Common wallaroo",
+    "predator": "Heron, green-backed"
+  },
+  {
+    "name": "Kelp gull",
+    "color": "Khaki",
+    "age": 432.6,
+    "food": "Legaan, water",
+    "predator": "Deer, roe"
+  },
+  {
+    "name": "Caracara",
+    "color": "Khaki",
+    "age": 984.0,
+    "food": "Eagle, pallas's fish",
+    "predator": "Guerza"
+  },
+  {
+    "name": "Red-tailed hawk",
+    "color": "Teal",
+    "age": 223.4,
+    "food": "Indian porcupine",
+    "predator": "Mouflon"
+  },
+  {
+    "name": "Paradoxure",
+    "color": "Violet",
+    "age": 171.7,
+    "food": "Antelope, sable",
+    "predator": "Galapagos dove"
+  },
+  {
+    "name": "Stanley bustard",
+    "color": "Red",
+    "age": 797.3,
+    "food": "Stanley crane",
+    "predator": "Weaver, red-billed buffalo"
+  },
+  {
+    "name": "Snake, buttermilk",
+    "color": "Maroon",
+    "age": 379.7,
+    "food": "Common nighthawk",
+    "predator": "Indian peacock"
+  },
+  {
+    "name": "Mongoose, eastern dwarf",
+    "color": "Indigo",
+    "age": 43.5,
+    "food": "Three-banded plover",
+    "predator": "Starfish, crown of thorns"
+  },
+  {
+    "name": "Cormorant, flightless",
+    "color": "Indigo",
+    "age": 261.7,
+    "food": "Gray langur",
+    "predator": "Boa, mexican"
+  },
+  {
+    "name": "Eagle, african fish",
+    "color": "Goldenrod",
+    "age": 463.0,
+    "food": "Lizard, collared",
+    "predator": "Monster, gila"
+  },
+  {
+    "name": "Malabar squirrel",
+    "color": "Goldenrod",
+    "age": 88.8,
+    "food": "Bird, bare-faced go away",
+    "predator": "Black vulture"
+  },
+  {
+    "name": "Bear, american black",
+    "color": "Pink",
+    "age": 120.7,
+    "food": "Bulbul, black-eyed",
+    "predator": "Wallaby, tammar"
+  },
+  {
+    "name": "Macaw, blue and yellow",
+    "color": "Turquoise",
+    "age": 156.6,
+    "food": "Shrike, crimson-breasted",
+    "predator": "Bald eagle"
+  },
+  {
+    "name": "Magellanic penguin",
+    "color": "Violet",
+    "age": 235.3,
+    "food": "Meerkat",
+    "predator": "Fat-tailed dunnart"
+  },
+  {
+    "name": "Asian lion",
+    "color": "Mauv",
+    "age": 872.2,
+    "food": "Otter, canadian river",
+    "predator": "South African hedgehog"
+  },
+  {
+    "name": "African skink",
+    "color": "Green",
+    "age": 375.7,
+    "food": "Steller's sea lion",
+    "predator": "Brown capuchin"
+  },
+  {
+    "name": "White-rumped vulture",
+    "color": "Pink",
+    "age": 352.6,
+    "food": "Musk ox",
+    "predator": "Lion, south american sea"
+  },
+  {
+    "name": "River wallaby",
+    "color": "Maroon",
+    "age": 543.2,
+    "food": "Rhesus monkey",
+    "predator": "Mountain goat"
+  },
+  {
+    "name": "Horned lark",
+    "color": "Fuscia",
+    "age": 29.4,
+    "food": "Chameleon",
+    "predator": "Gray rhea"
+  },
+  {
+    "name": "Pigeon, wood",
+    "color": "Maroon",
+    "age": 445.1,
+    "food": "Barbet, levaillant's",
+    "predator": "Albatross, waved"
+  },
+  {
+    "name": "Ground monitor",
+    "color": "Orange",
+    "age": 221.0,
+    "food": "Tsessebe",
+    "predator": "Grizzly bear"
+  },
+  {
+    "name": "Nyala",
+    "color": "Puce",
+    "age": 837.5,
+    "food": "Heron, green-backed",
+    "predator": "Javan gold-spotted mongoose"
+  },
+  {
+    "name": "Flamingo, greater",
+    "color": "Goldenrod",
+    "age": 738.2,
+    "food": "Siskin, pine",
+    "predator": "Collared lemming"
+  },
+  {
+    "name": "Chestnut weaver",
+    "color": "Purple",
+    "age": 319.4,
+    "food": "Euro wallaby",
+    "predator": "Goose, cereopsis"
+  },
+  {
+    "name": "Spotted wood sandpiper",
+    "color": "Pink",
+    "age": 402.5,
+    "food": "Cat, cape wild",
+    "predator": "House crow"
+  },
+  {
+    "name": "Cape cobra",
+    "color": "Fuscia",
+    "age": 686.8,
+    "food": "Weaver, red-billed buffalo",
+    "predator": "Raccoon, common"
+  },
+  {
+    "name": "Nilgai",
+    "color": "Crimson",
+    "age": 373.6,
+    "food": "Azara's zorro",
+    "predator": "Vine snake"
+  },
+  {
+    "name": "Raven, cape",
+    "color": "Pink",
+    "age": 297.0,
+    "food": "Chital",
+    "predator": "Pied butcher bird"
+  },
+  {
+    "name": "Flicker, field",
+    "color": "Green",
+    "age": 162.3,
+    "food": "Puffin, horned",
+    "predator": "Agouti"
+  },
+  {
+    "name": "Cat, long-tailed spotted",
+    "color": "Fuscia",
+    "age": 192.9,
+    "food": "Sparrow, house",
+    "predator": "Black rhinoceros"
+  },
+  {
+    "name": "Grenadier, common",
+    "color": "Yellow",
+    "age": 287.7,
+    "food": "Indian giant squirrel",
+    "predator": "Pied avocet"
+  },
+  {
+    "name": "Badger, european",
+    "color": "Green",
+    "age": 793.0,
+    "food": "Zorro, common",
+    "predator": "Porcupine, tree"
+  },
+  {
+    "name": "Sungazer, yellow-brown",
+    "color": "Fuscia",
+    "age": 306.5,
+    "food": "Vulture, egyptian",
+    "predator": "Nyala"
+  },
+  {
+    "name": "Sockeye salmon",
+    "color": "Maroon",
+    "age": 5.9,
+    "food": "Woodrat",
+    "predator": "Waxbill, black-cheeked"
+  },
+  {
+    "name": "Bushbaby, large-eared",
+    "color": "Pink",
+    "age": 801.6,
+    "food": "Shrike, common boubou",
+    "predator": "Pintail, bahama"
+  },
+  {
+    "name": "Steller's sea lion",
+    "color": "Purple",
+    "age": 411.6,
+    "food": "Common boubou shrike",
+    "predator": "Common turkey"
+  },
+  {
+    "name": "Beaver, eurasian",
+    "color": "Turquoise",
+    "age": 106.2,
+    "food": "South African hedgehog",
+    "predator": "Crane, stanley"
+  },
+  {
+    "name": "Otter, african clawless",
+    "color": "Purple",
+    "age": 140.0,
+    "food": "Seven-banded armadillo",
+    "predator": "Lemming, arctic"
+  },
+  {
+    "name": "Yellow-throated sandgrouse",
+    "color": "Fuscia",
+    "age": 216.9,
+    "food": "Red deer",
+    "predator": "Dragon, ornate rock"
+  },
+  {
+    "name": "Kiskadee, great",
+    "color": "Mauv",
+    "age": 178.7,
+    "food": "Blue-footed booby",
+    "predator": "Bent-toed gecko"
+  },
+  {
+    "name": "Phalarope, grey",
+    "color": "Orange",
+    "age": 771.2,
+    "food": "Southern black-backed gull",
+    "predator": "Mallard"
+  },
+  {
+    "name": "Marine iguana",
+    "color": "Yellow",
+    "age": 678.5,
+    "food": "Blue crane",
+    "predator": "Eastern fox squirrel"
+  },
+  {
+    "name": "Antelope, four-horned",
+    "color": "Goldenrod",
+    "age": 589.3,
+    "food": "Lion, california sea",
+    "predator": "Yellow-brown sungazer"
+  },
+  {
+    "name": "Loris, slender",
+    "color": "Maroon",
+    "age": 290.7,
+    "food": "Lizard, frilled",
+    "predator": "Oystercatcher, blackish"
+  },
+  {
+    "name": "Penguin, galapagos",
+    "color": "Aquamarine",
+    "age": 774.4,
+    "food": "Great kiskadee",
+    "predator": "Goose, cape barren"
+  },
+  {
+    "name": "Red and blue macaw",
+    "color": "Khaki",
+    "age": 725.4,
+    "food": "Silver gull",
+    "predator": "Opossum, american virginia"
+  },
+  {
+    "name": "Olive baboon",
+    "color": "Green",
+    "age": 593.0,
+    "food": "Macaw, green-winged",
+    "predator": "Glossy starling"
+  },
+  {
+    "name": "Pine squirrel",
+    "color": "Puce",
+    "age": 798.7,
+    "food": "Campo flicker",
+    "predator": "Green heron"
+  },
+  {
+    "name": "African jacana",
+    "color": "Puce",
+    "age": 660.6,
+    "food": "Kangaroo, red",
+    "predator": "Clark's nutcracker"
+  },
+  {
+    "name": "Blue duck",
+    "color": "Orange",
+    "age": 952.1,
+    "food": "Roadrunner, greater",
+    "predator": "Four-striped grass mouse"
+  },
+  {
+    "name": "Crane, stanley",
+    "color": "Orange",
+    "age": 117.3,
+    "food": "Turaco, violet-crested",
+    "predator": "Hawk, ferruginous"
+  },
+  {
+    "name": "Four-striped grass mouse",
+    "color": "Green",
+    "age": 619.7,
+    "food": "Crab-eating fox",
+    "predator": "Cape white-eye"
+  },
+  {
+    "name": "Indian giant squirrel",
+    "color": "Teal",
+    "age": 642.4,
+    "food": "African buffalo",
+    "predator": "Eagle, tawny"
+  },
+  {
+    "name": "Snake, buttermilk",
+    "color": "Crimson",
+    "age": 799.5,
+    "food": "Vulture, egyptian",
+    "predator": "African bush squirrel"
+  },
+  {
+    "name": "Snake, western patch-nosed",
+    "color": "Orange",
+    "age": 577.6,
+    "food": "Buttermilk snake",
+    "predator": "Crow, american"
+  },
+  {
+    "name": "Deer, savannah",
+    "color": "Turquoise",
+    "age": 333.2,
+    "food": "Weaver, white-browed sparrow",
+    "predator": "Monster, gila"
+  },
+  {
+    "name": "Tinamou, elegant crested",
+    "color": "Maroon",
+    "age": 766.3,
+    "food": "Eagle, golden",
+    "predator": "Red-shouldered glossy starling"
+  },
+  {
+    "name": "Magellanic penguin",
+    "color": "Green",
+    "age": 982.8,
+    "food": "Buttermilk snake",
+    "predator": "Bottle-nose dolphin"
+  },
+  {
+    "name": "Indian leopard",
+    "color": "Fuscia",
+    "age": 908.9,
+    "food": "Burchell's gonolek",
+    "predator": "Bohor reedbuck"
+  },
+  {
+    "name": "Nubian bee-eater",
+    "color": "Pink",
+    "age": 109.9,
+    "food": "Crested porcupine",
+    "predator": "Wallaby, bennett's"
+  },
+  {
+    "name": "Smith's bush squirrel",
+    "color": "Goldenrod",
+    "age": 57.9,
+    "food": "Barasingha deer",
+    "predator": "Dragon, komodo"
+  },
+  {
+    "name": "Common wombat",
+    "color": "Pink",
+    "age": 562.9,
+    "food": "Ring dove",
+    "predator": "Ibis, glossy"
+  },
+  {
+    "name": "Levaillant's barbet",
+    "color": "Aquamarine",
+    "age": 512.2,
+    "food": "Chilean flamingo",
+    "predator": "Hawk, ferruginous"
+  },
+  {
+    "name": "Knob-nosed goose",
+    "color": "Blue",
+    "age": 92.7,
+    "food": "Bat, asian false vampire",
+    "predator": "Steenbuck"
+  },
+  {
+    "name": "Galapagos penguin",
+    "color": "Puce",
+    "age": 826.9,
+    "food": "Egyptian goose",
+    "predator": "Springbuck"
+  },
+  {
+    "name": "Purple grenadier",
+    "color": "Goldenrod",
+    "age": 229.2,
+    "food": "Peacock, blue",
+    "predator": "Iguana, common green"
+  },
+  {
+    "name": "Bear, grizzly",
+    "color": "Blue",
+    "age": 561.9,
+    "food": "Griffon vulture",
+    "predator": "Eland, common"
+  },
+  {
+    "name": "White-cheeked pintail",
+    "color": "Orange",
+    "age": 223.0,
+    "food": "Bohor reedbuck",
+    "predator": "Collared peccary"
+  },
+  {
+    "name": "Mexican boa",
+    "color": "Red",
+    "age": 452.6,
+    "food": "Macaw, green-winged",
+    "predator": "Red and blue macaw"
+  },
+  {
+    "name": "White-faced whistling duck",
+    "color": "Fuscia",
+    "age": 555.9,
+    "food": "Goose, snow",
+    "predator": "Little heron"
+  },
+  {
+    "name": "Madagascar hawk owl",
+    "color": "Khaki",
+    "age": 654.0,
+    "food": "Weaver, sociable",
+    "predator": "Langur, common"
+  },
+  {
+    "name": "Crested barbet",
+    "color": "Green",
+    "age": 259.6,
+    "food": "Openbill, asian",
+    "predator": "Vulture, white-headed"
+  },
+  {
+    "name": "Common seal",
+    "color": "Pink",
+    "age": 283.9,
+    "food": "Tortoise, galapagos",
+    "predator": "Tsessebe"
+  },
+  {
+    "name": "Hoffman's sloth",
+    "color": "Puce",
+    "age": 9.3,
+    "food": "Clark's nutcracker",
+    "predator": "Red phalarope"
+  },
+  {
+    "name": "Phascogale, red-tailed",
+    "color": "Violet",
+    "age": 24.2,
+    "food": "Lion, mountain",
+    "predator": "Gaur"
+  },
+  {
+    "name": "Seal, northern elephant",
+    "color": "Yellow",
+    "age": 816.3,
+    "food": "Gambel's quail",
+    "predator": "Raven, white-necked"
+  },
+  {
+    "name": "Sun gazer",
+    "color": "Yellow",
+    "age": 463.0,
+    "food": "Violet-eared waxbill",
+    "predator": "Eagle, pallas's fish"
+  },
+  {
+    "name": "European badger",
+    "color": "Maroon",
+    "age": 652.7,
+    "food": "Galapagos dove",
+    "predator": "Boa, emerald green tree"
+  },
+  {
+    "name": "Penguin, magellanic",
+    "color": "Indigo",
+    "age": 858.3,
+    "food": "Porcupine, north american",
+    "predator": "Penguin, little blue"
+  },
+  {
+    "name": "Egret, great",
+    "color": "Maroon",
+    "age": 164.4,
+    "food": "Margay",
+    "predator": "Squirrel, african bush"
+  },
+  {
+    "name": "Common mynah",
+    "color": "Maroon",
+    "age": 126.1,
+    "food": "Comb duck",
+    "predator": "Water monitor"
+  },
+  {
+    "name": "White-mantled colobus",
+    "color": "Puce",
+    "age": 524.6,
+    "food": "Brown and yellow marshbird",
+    "predator": "Superb starling"
+  },
+  {
+    "name": "Cape fox",
+    "color": "Violet",
+    "age": 261.3,
+    "food": "Monkey, red howler",
+    "predator": "Galapagos tortoise"
+  },
+  {
+    "name": "Darwin ground finch",
+    "color": "Yellow",
+    "age": 965.1,
+    "food": "Penguin, magellanic",
+    "predator": "Baboon, olive"
+  },
+  {
+    "name": "Tarantula, salmon pink bird eater",
+    "color": "Aquamarine",
+    "age": 4.7,
+    "food": "Hyena, striped",
+    "predator": "Bird, secretary"
+  },
+  {
+    "name": "Heron, striated",
+    "color": "Crimson",
+    "age": 339.9,
+    "food": "Long-tailed skua",
+    "predator": "Black-throated butcher bird"
+  },
+  {
+    "name": "Squirrel, arctic ground",
+    "color": "Blue",
+    "age": 72.1,
+    "food": "Lion, steller sea",
+    "predator": "Rhinoceros, white"
+  },
+  {
+    "name": "Black-winged stilt",
+    "color": "Turquoise",
+    "age": 304.1,
+    "food": "Gecko",
+    "predator": "Beaver, eurasian"
+  },
+  {
+    "name": "Mongoose, small indian",
+    "color": "Red",
+    "age": 42.1,
+    "food": "Red squirrel",
+    "predator": "Eland, common"
+  },
+  {
+    "name": "Armadillo, seven-banded",
+    "color": "Orange",
+    "age": 778.1,
+    "food": "Hyena, brown",
+    "predator": "Monkey, black spider"
+  },
+  {
+    "name": "Cottonmouth",
+    "color": "Puce",
+    "age": 108.1,
+    "food": "Slender loris",
+    "predator": "Eastern dwarf mongoose"
+  },
+  {
+    "name": "Common waterbuck",
+    "color": "Teal",
+    "age": 710.7,
+    "food": "Civet, common palm",
+    "predator": "Antelope, roan"
+  },
+  {
+    "name": "Ring dove",
+    "color": "Khaki",
+    "age": 819.1,
+    "food": "Grouse, sage",
+    "predator": "Long-finned pilot whale"
+  },
+  {
+    "name": "White-rumped vulture",
+    "color": "Blue",
+    "age": 211.2,
+    "food": "Black kite",
+    "predator": "Currasow"
+  },
+  {
+    "name": "Eurasian badger",
+    "color": "Mauv",
+    "age": 634.4,
+    "food": "Lynx, african",
+    "predator": "Frilled lizard"
+  },
+  {
+    "name": "Common nighthawk",
+    "color": "Red",
+    "age": 314.9,
+    "food": "Canadian tiger swallowtail butterfly",
+    "predator": "Ornate rock dragon"
+  },
+  {
+    "name": "Fork-tailed drongo",
+    "color": "Pink",
+    "age": 547.1,
+    "food": "Marten, american",
+    "predator": "Butterfly, canadian tiger swallowtail"
+  },
+  {
+    "name": "Peacock, blue",
+    "color": "Fuscia",
+    "age": 418.6,
+    "food": "Tapir, brazilian",
+    "predator": "Blue crane"
+  },
+  {
+    "name": "Ring-tailed possum",
+    "color": "Crimson",
+    "age": 209.0,
+    "food": "Striped dolphin",
+    "predator": "Cape clawless otter"
+  },
+  {
+    "name": "Wallaby, agile",
+    "color": "Crimson",
+    "age": 873.5,
+    "food": "Stilt, black-winged",
+    "predator": "Antelope ground squirrel"
+  },
+  {
+    "name": "Canadian tiger swallowtail butterfly",
+    "color": "Green",
+    "age": 919.3,
+    "food": "Pheasant, common",
+    "predator": "Flamingo, greater"
+  },
+  {
+    "name": "Cormorant, neotropic",
+    "color": "Teal",
+    "age": 834.5,
+    "food": "Springhare",
+    "predator": "Bustard, stanley"
+  },
+  {
+    "name": "Darwin ground finch",
+    "color": "Orange",
+    "age": 545.6,
+    "food": "Sandgrouse, yellow-throated",
+    "predator": "Springhare"
+  },
+  {
+    "name": "Black-backed magpie",
+    "color": "Maroon",
+    "age": 455.3,
+    "food": "Oystercatcher, blackish",
+    "predator": "Greater adjutant stork"
+  },
+  {
+    "name": "Asiatic wild ass",
+    "color": "Khaki",
+    "age": 673.0,
+    "food": "Dove, little brown",
+    "predator": "Brazilian tapir"
+  },
+  {
+    "name": "Creeper, black-tailed tree",
+    "color": "Orange",
+    "age": 860.8,
+    "food": "Red-breasted cockatoo",
+    "predator": "Western grey kangaroo"
+  },
+  {
+    "name": "Black-fronted bulbul",
+    "color": "Aquamarine",
+    "age": 708.7,
+    "food": "Bee-eater, carmine",
+    "predator": "Macaque, pig-tailed"
+  },
+  {
+    "name": "Trumpeter swan",
+    "color": "Fuscia",
+    "age": 904.2,
+    "food": "Stick insect",
+    "predator": "Dassie"
+  },
+  {
+    "name": "Beisa oryx",
+    "color": "Aquamarine",
+    "age": 975.1,
+    "food": "Japanese macaque",
+    "predator": "Crane, sandhill"
+  },
+  {
+    "name": "Red-billed tropic bird",
+    "color": "Indigo",
+    "age": 307.4,
+    "food": "Curve-billed thrasher",
+    "predator": "Australian masked owl"
+  },
+  {
+    "name": "Southern black-backed gull",
+    "color": "Green",
+    "age": 95.2,
+    "food": "Sloth bear",
+    "predator": "Otter, canadian river"
+  },
+  {
+    "name": "Snowy owl",
+    "color": "Purple",
+    "age": 185.6,
+    "food": "Eagle, bateleur",
+    "predator": "Dunnart, fat-tailed"
+  },
+  {
+    "name": "Knob-nosed goose",
+    "color": "Mauv",
+    "age": 668.5,
+    "food": "Vulture, oriental white-backed",
+    "predator": "Wild boar"
+  },
+  {
+    "name": "Rhinoceros, white",
+    "color": "Maroon",
+    "age": 726.9,
+    "food": "Australian sea lion",
+    "predator": "Waterbuck, common"
+  },
+  {
+    "name": "Kongoni",
+    "color": "Turquoise",
+    "age": 648.5,
+    "food": "Asian openbill",
+    "predator": "Hoopoe, eurasian"
+  },
+  {
+    "name": "African wild dog",
+    "color": "Mauv",
+    "age": 298.9,
+    "food": "Hudsonian godwit",
+    "predator": "Eastern cottontail rabbit"
+  },
+  {
+    "name": "Black-capped chickadee",
+    "color": "Green",
+    "age": 697.6,
+    "food": "Turkey, common",
+    "predator": "Long-tailed jaeger"
+  },
+  {
+    "name": "American beaver",
+    "color": "Blue",
+    "age": 495.4,
+    "food": "Crimson-breasted shrike",
+    "predator": "Rhinoceros, black"
+  },
+  {
+    "name": "Genet, common",
+    "color": "Goldenrod",
+    "age": 903.9,
+    "food": "Common brushtail possum",
+    "predator": "Golden jackal"
+  },
+  {
+    "name": "Sloth, two-toed tree",
+    "color": "Puce",
+    "age": 828.3,
+    "food": "Common rhea",
+    "predator": "Vicuna"
+  },
+  {
+    "name": "Lizard",
+    "color": "Mauv",
+    "age": 540.7,
+    "food": "Oystercatcher, blackish",
+    "predator": "Fox, bat-eared"
+  },
+  {
+    "name": "Jackrabbit, white-tailed",
+    "color": "Mauv",
+    "age": 833.2,
+    "food": "Goose, egyptian",
+    "predator": "Cape Barren goose"
+  },
+  {
+    "name": "Ringtail, common",
+    "color": "Violet",
+    "age": 892.6,
+    "food": "Blackbuck",
+    "predator": "Hedgehog, south african"
+  },
+  {
+    "name": "Silver gull",
+    "color": "Mauv",
+    "age": 97.4,
+    "food": "Sloth, two-toed",
+    "predator": "Yellow-brown sungazer"
+  },
+  {
+    "name": "Dusky rattlesnake",
+    "color": "Yellow",
+    "age": 721.4,
+    "food": "Common long-nosed armadillo",
+    "predator": "Brindled gnu"
+  },
+  {
+    "name": "Parrot, hawk-headed",
+    "color": "Crimson",
+    "age": 357.0,
+    "food": "Huron",
+    "predator": "Andean goose"
+  },
+  {
+    "name": "Black-faced kangaroo",
+    "color": "Crimson",
+    "age": 445.5,
+    "food": "Devil, tasmanian",
+    "predator": "Gray duiker"
+  },
+  {
+    "name": "Raccoon, common",
+    "color": "Blue",
+    "age": 567.1,
+    "food": "Small-clawed otter",
+    "predator": "Zorro, common"
+  },
+  {
+    "name": "Hawk-eagle, crowned",
+    "color": "Orange",
+    "age": 343.2,
+    "food": "Tern, white-winged black",
+    "predator": "Wapiti, elk,"
+  },
+  {
+    "name": "Blue-tongued lizard",
+    "color": "Fuscia",
+    "age": 647.6,
+    "food": "Elephant, african",
+    "predator": "Brown lemur"
+  },
+  {
+    "name": "Eurasian beaver",
+    "color": "Crimson",
+    "age": 9.0,
+    "food": "House sparrow",
+    "predator": "Squirrel, palm"
+  },
+  {
+    "name": "King vulture",
+    "color": "Red",
+    "age": 485.0,
+    "food": "Tree porcupine",
+    "predator": "Quail, gambel's"
+  },
+  {
+    "name": "Galapagos mockingbird",
+    "color": "Goldenrod",
+    "age": 989.3,
+    "food": "White-headed vulture",
+    "predator": "Hawk, red-tailed"
+  },
+  {
+    "name": "Gerenuk",
+    "color": "Violet",
+    "age": 144.6,
+    "food": "Curlew, black",
+    "predator": "Pintail, bahama"
+  },
+  {
+    "name": "Mallard",
+    "color": "Orange",
+    "age": 551.0,
+    "food": "Hyena, striped",
+    "predator": "Lilac-breasted roller"
+  },
+  {
+    "name": "Mallard",
+    "color": "Yellow",
+    "age": 157.6,
+    "food": "Heron, black-crowned night",
+    "predator": "Phalarope, northern"
+  },
+  {
+    "name": "Mudskipper",
+    "color": "Pink",
+    "age": 365.2,
+    "food": "Monkey, rhesus",
+    "predator": "Ground monitor"
+  },
+  {
+    "name": "Zorilla",
+    "color": "Fuscia",
+    "age": 759.0,
+    "food": "White-faced whistling duck",
+    "predator": "Coatimundi, ring-tailed"
+  },
+  {
+    "name": "Anaconda",
+    "color": "Blue",
+    "age": 812.9,
+    "food": "Sloth, two-toed tree",
+    "predator": "Tawny frogmouth"
+  },
+  {
+    "name": "Cobra, egyptian",
+    "color": "Pink",
+    "age": 839.1,
+    "food": "Eastern boa constrictor",
+    "predator": "Sheep, red"
+  },
+  {
+    "name": "African wild cat",
+    "color": "Orange",
+    "age": 192.5,
+    "food": "Cockatoo, long-billed",
+    "predator": "Cattle egret"
+  },
+  {
+    "name": "Squirrel, grey-footed",
+    "color": "Maroon",
+    "age": 324.7,
+    "food": "Gull, swallow-tail",
+    "predator": "Bat, madagascar fruit"
+  },
+  {
+    "name": "Langur, common",
+    "color": "Violet",
+    "age": 385.2,
+    "food": "Stork, greater adjutant",
+    "predator": "Kafue flats lechwe"
+  },
+  {
+    "name": "White-throated robin",
+    "color": "Khaki",
+    "age": 158.0,
+    "food": "Eagle, bald",
+    "predator": "Coot, red-knobbed"
+  },
+  {
+    "name": "Deer, red",
+    "color": "Orange",
+    "age": 532.1,
+    "food": "Fairy penguin",
+    "predator": "Starling, superb"
+  },
+  {
+    "name": "Turkey vulture",
+    "color": "Puce",
+    "age": 906.7,
+    "food": "Crow, american",
+    "predator": "Tarantula"
+  },
+  {
+    "name": "Wallaby, whip-tailed",
+    "color": "Orange",
+    "age": 307.2,
+    "food": "Common nighthawk",
+    "predator": "Butterfly"
+  },
+  {
+    "name": "Lion, steller's sea",
+    "color": "Fuscia",
+    "age": 783.9,
+    "food": "Manatee",
+    "predator": "Black-throated butcher bird"
+  },
+  {
+    "name": "Grenadier, purple",
+    "color": "Khaki",
+    "age": 245.8,
+    "food": "Python, carpet",
+    "predator": "Sloth, hoffman's"
+  },
+  {
+    "name": "Mouse, four-striped grass",
+    "color": "Green",
+    "age": 109.4,
+    "food": "Penguin, fairy",
+    "predator": "Small Indian mongoose"
+  },
+  {
+    "name": "Roadrunner, greater",
+    "color": "Indigo",
+    "age": 831.1,
+    "food": "Possum, pygmy",
+    "predator": "European wild cat"
+  },
+  {
+    "name": "Ferret, black-footed",
+    "color": "Indigo",
+    "age": 53.1,
+    "food": "Paradoxure",
+    "predator": "Tarantula"
+  },
+  {
+    "name": "Black-crowned crane",
+    "color": "Mauv",
+    "age": 337.2,
+    "food": "Thomson's gazelle",
+    "predator": "Sandpiper, spotted wood"
+  },
+  {
+    "name": "Great kiskadee",
+    "color": "Fuscia",
+    "age": 905.0,
+    "food": "White-throated robin",
+    "predator": "Marmot, hoary"
+  },
+  {
+    "name": "Monitor, water",
+    "color": "Blue",
+    "age": 378.4,
+    "food": "Skua, great",
+    "predator": "Square-lipped rhinoceros"
+  },
+  {
+    "name": "Dog, black-tailed prairie",
+    "color": "Aquamarine",
+    "age": 658.9,
+    "food": "Monitor, water",
+    "predator": "Rat, arboral spiny"
+  },
+  {
+    "name": "Goanna lizard",
+    "color": "Indigo",
+    "age": 205.0,
+    "food": "Moorhen, purple",
+    "predator": "Short-nosed bandicoot"
+  },
+  {
+    "name": "Savanna fox",
+    "color": "Fuscia",
+    "age": 579.3,
+    "food": "Saddle-billed stork",
+    "predator": "Pocket gopher"
+  },
+  {
+    "name": "Wolf, common",
+    "color": "Goldenrod",
+    "age": 417.6,
+    "food": "Turtle, eastern box",
+    "predator": "Red hartebeest"
+  },
+  {
+    "name": "Red-billed buffalo weaver",
+    "color": "Aquamarine",
+    "age": 612.3,
+    "food": "Common turkey",
+    "predator": "Galapagos tortoise"
+  },
+  {
+    "name": "Catfish, blue",
+    "color": "Mauv",
+    "age": 721.4,
+    "food": "Cape starling",
+    "predator": "Ground legaan"
+  },
+  {
+    "name": "Plains zebra",
+    "color": "Violet",
+    "age": 765.6,
+    "food": "Fox, grey",
+    "predator": "Gray langur"
+  },
+  {
+    "name": "Tenrec, tailless",
+    "color": "Red",
+    "age": 577.4,
+    "food": "White-fronted capuchin",
+    "predator": "Phascogale, red-tailed"
+  },
+  {
+    "name": "Boa, cook's tree",
+    "color": "Orange",
+    "age": 175.9,
+    "food": "Orca",
+    "predator": "Long-tailed spotted cat"
+  },
+  {
+    "name": "North American porcupine",
+    "color": "Indigo",
+    "age": 329.1,
+    "food": "Kelp gull",
+    "predator": "Gerbil"
+  },
+  {
+    "name": "Yellow-headed caracara",
+    "color": "Orange",
+    "age": 57.4,
+    "food": "Goanna lizard",
+    "predator": "Yak"
+  },
+  {
+    "name": "Striped hyena",
+    "color": "Fuscia",
+    "age": 946.7,
+    "food": "Common turkey",
+    "predator": "Fox, north american red"
+  },
+  {
+    "name": "Steller sea lion",
+    "color": "Violet",
+    "age": 715.7,
+    "food": "Grebe, little",
+    "predator": "Pie, rufous tree"
+  },
+  {
+    "name": "Common nighthawk",
+    "color": "Purple",
+    "age": 935.5,
+    "food": "Bat, asian false vampire",
+    "predator": "Magnificent frigate bird"
+  },
+  {
+    "name": "Hornbill, southern ground",
+    "color": "Khaki",
+    "age": 521.7,
+    "food": "Sambar",
+    "predator": "White-winged tern"
+  },
+  {
+    "name": "Royal tern",
+    "color": "Aquamarine",
+    "age": 260.3,
+    "food": "Catfish, blue",
+    "predator": "Sally lightfoot crab"
+  },
+  {
+    "name": "Raccoon, common",
+    "color": "Yellow",
+    "age": 447.1,
+    "food": "Cattle egret",
+    "predator": "Gecko, barking"
+  },
+  {
+    "name": "Hen, sage",
+    "color": "Crimson",
+    "age": 441.2,
+    "food": "Gull, kelp",
+    "predator": "Ground legaan"
+  },
+  {
+    "name": "Blue-breasted cordon bleu",
+    "color": "Violet",
+    "age": 373.2,
+    "food": "Blue wildebeest",
+    "predator": "Margay"
+  },
+  {
+    "name": "Ground legaan",
+    "color": "Purple",
+    "age": 48.0,
+    "food": "Comb duck",
+    "predator": "Mongoose, small indian"
+  },
+  {
+    "name": "Crowned eagle",
+    "color": "Aquamarine",
+    "age": 418.2,
+    "food": "Common waterbuck",
+    "predator": "Boa, emerald green tree"
+  },
+  {
+    "name": "Common shelduck",
+    "color": "Indigo",
+    "age": 234.1,
+    "food": "Roan antelope",
+    "predator": "Rhinoceros, black"
+  },
+  {
+    "name": "Frilled lizard",
+    "color": "Fuscia",
+    "age": 17.8,
+    "food": "Pied cormorant",
+    "predator": "Red meerkat"
+  },
+  {
+    "name": "Eastern quoll",
+    "color": "Fuscia",
+    "age": 511.3,
+    "food": "Squirrel, golden-mantled ground",
+    "predator": "Galapagos tortoise"
+  },
+  {
+    "name": "Meerkat, red",
+    "color": "Khaki",
+    "age": 269.6,
+    "food": "Laughing kookaburra",
+    "predator": "Vulture, black"
+  },
+  {
+    "name": "Arctic tern",
+    "color": "Indigo",
+    "age": 516.4,
+    "food": "Crested bunting",
+    "predator": "Galapagos albatross"
+  },
+  {
+    "name": "Scarlet macaw",
+    "color": "Fuscia",
+    "age": 570.7,
+    "food": "Black-tailed deer",
+    "predator": "Cat, civet"
+  },
+  {
+    "name": "Egyptian viper",
+    "color": "Red",
+    "age": 592.6,
+    "food": "Sambar",
+    "predator": "Spotted-tailed quoll"
+  },
+  {
+    "name": "Spur-winged goose",
+    "color": "Turquoise",
+    "age": 765.5,
+    "food": "Collared peccary",
+    "predator": "Common palm civet"
+  },
+  {
+    "name": "Ring dove",
+    "color": "Green",
+    "age": 296.7,
+    "food": "Whale, long-finned pilot",
+    "predator": "Spotted-tailed quoll"
+  },
+  {
+    "name": "Lemur, sportive",
+    "color": "Goldenrod",
+    "age": 445.1,
+    "food": "Crowned eagle",
+    "predator": "Heron, boat-billed"
+  },
+  {
+    "name": "Eagle, long-crested hawk",
+    "color": "Indigo",
+    "age": 426.7,
+    "food": "Great white pelican",
+    "predator": "Red-cheeked cordon bleu"
+  },
+  {
+    "name": "Chilean flamingo",
+    "color": "Fuscia",
+    "age": 450.0,
+    "food": "Tarantula",
+    "predator": "Sable antelope"
+  },
+  {
+    "name": "Black bear",
+    "color": "Blue",
+    "age": 17.3,
+    "food": "European badger",
+    "predator": "Coatimundi, white-nosed"
+  },
+  {
+    "name": "Badger, european",
+    "color": "Violet",
+    "age": 220.4,
+    "food": "Bohor reedbuck",
+    "predator": "Grant's gazelle"
+  },
+  {
+    "name": "Squirrel, pine",
+    "color": "Crimson",
+    "age": 685.9,
+    "food": "Arctic tern",
+    "predator": "Bird, black-throated butcher"
+  },
+  {
+    "name": "Blue waxbill",
+    "color": "Teal",
+    "age": 740.1,
+    "food": "Bustard, denham's",
+    "predator": "Cormorant, great"
+  },
+  {
+    "name": "Mynah, indian",
+    "color": "Violet",
+    "age": 578.2,
+    "food": "Spoonbill, white",
+    "predator": "Puku"
+  }
+]
