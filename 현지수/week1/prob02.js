@@ -3,3 +3,4 @@ const introduce = function (name, food) {
 };
 
 introduce("진용", "라면");
+introduce("지수", "떡볶이");
