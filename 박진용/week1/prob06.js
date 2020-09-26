@@ -6,4 +6,3 @@ for (data of datas) {
 }
 
 console.log(result);
-console.log("바보");
