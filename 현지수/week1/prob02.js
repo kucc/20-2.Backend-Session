@@ -1,6 +1,5 @@
 const introduce = function (name, food) {
-  console.log(`Hello my name is ${name}, and I really want to eat ${food}`);
+  console.log(`Hello my name is ${name}, and I really want to eat ${food}.`);
 };
 
-introduce("진용", "라면");
-introduce("지수", "떡볶이");
+introduce("현지수", "떡볶이");
