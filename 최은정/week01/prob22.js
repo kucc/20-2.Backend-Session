@@ -1,4 +1,3 @@
-//수정필요 ㅠㅜ
 const { parse } = require("path");
 const readline = require("readline");
 
@@ -7,25 +6,24 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-let tens, ones, addNum, addStr, cnt;
+let tens, ones, newOnes, result;
+let cnt = 0;
 rl.question("숫자 하나를 입력하시오.", (input) => {
-  function cycle(input) {
-    if (input === loop(input)) {
-      console.log(`사이클 길이: ${cnt}`);
-    } else {
-      cnt += 1;
-      loop(loop(input));
-    }
-  }
-
   function loop(num) {
     tens = parseInt(num / 10);
     ones = parseInt(num % 10);
-    addNum = parseInt((tens + ones) % 10);
-    addStr = ones.toString() + addNum.toString();
-    return parseInt(addStr);
-    cycle(input);
+    newOnes = parseInt((tens + ones) % 10);
+    result = Number(ones.toString() + newOnes.toString());
+    cnt += 1;
+    return result;
   }
+
+  loop(input);
+  while (result != input) {
+    loop(result);
+  }
+
+  console.log(cnt);
 
   rl.close();
 });
