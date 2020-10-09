@@ -1,10 +1,3 @@
-// const servePlate = (food) => {
-//   return new Promise((resolve, reject) => {
-//     if (food === "salad") reject("샐러드는 취급하지 않아요 ㅋ");
-//     resolve(`${food} 서빙 중...`);
-//   });
-// };
-
 const eater = (food) => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
