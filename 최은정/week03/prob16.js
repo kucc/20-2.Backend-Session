@@ -1,3 +1,6 @@
+/* 신문 시간차두고 읽는 settimeout 을 어떻게 readNews 에 넣을지 잘 모르겠음...
+시간차두고 가져오는건만 구현한 상태. */
+
 class NewsApp {
   constructor(name, time) {
     this.name = name;
