@@ -12,52 +12,61 @@ http
         menu[food] = price;
       })
       .on("end", () => {
-        if (method === "GET") {
-          res.writeHead(200, { "Content-Type": "application/json" });
-          if (url === "/") {
-            res.end(JSON.stringify(menu));
-          } else {
-            let reqMenu = decodeURIComponent(url.split("/")[1]);
-            if (menu[reqMenu]) {
-              res.end(JSON.stringify(menu[reqMenu]));
+        switch (method) {
+          case "GET":
+            res.writeHead(200, { "Content-Type": "application/json" });
+            if (url === "/") {
+              res.end(JSON.stringify(menu));
+            } else {
+              let reqMenu = decodeURIComponent(url.split("/")[1]);
+              if (menu[reqMenu]) {
+                res.end(JSON.stringify(menu[reqMenu]));
+              } else {
+                res.writeHead(404);
+                res.end("Page not found");
+              }
+            }
+            break;
+
+          case "POST":
+            res.writeHead(200);
+            if (url === "/") {
+              console.log(menu);
+              res.end("Your menu is added!");
             } else {
               res.writeHead(404);
               res.end("Page not found");
             }
-          }
-        } else if (method === "POST") {
-          res.writeHead(200);
-          if (url === "/") {
-            console.log(menu);
-            res.end("Your menu is added!");
-          } else {
+            break;
+
+          case "PUT":
+            res.writeHead(200);
+            if (url) {
+              console.log(menu);
+              res.end("The price is changed!");
+            } else {
+              res.writeHead(404);
+              res.end("Page not found");
+            }
+            break;
+
+          case "DELETE":
+            res.writeHead(200);
+            if (url) {
+              let deleteMenu = decodeURIComponent(url.split("/")[1]);
+              console.log(deleteMenu);
+              delete menu[deleteMenu];
+              console.log(menu);
+              res.end("The menu is deleted");
+            } else {
+              res.writeHead(404);
+              res.end("Page not found");
+            }
+            break;
+
+          default:
             res.writeHead(404);
             res.end("Page not found");
-          }
-        } else if (method === "PUT") {
-          res.writeHead(200);
-          if (url) {
-            console.log(menu);
-            res.end("The price is changed!");
-          } else {
-            res.writeHead(404);
-            res.end("Page not found");
-          }
-        } else if (method === "DELETE") {
-          res.writeHead(200);
-          if (url) {
-            let deleteMenu = decodeURIComponent(url.split("/")[1]);
-            console.log(deleteMenu);
-            delete menu[deleteMenu];
-            console.log(menu);
-            res.end("The menu is deleted");
-          } else {
-            res.writeHead(404);
-            res.end("Page not found");
-          }
-        } else {
-          res.writeHead(404);
-          res.end("Page not found");
         }
       })
       .on("error", (err) => {
