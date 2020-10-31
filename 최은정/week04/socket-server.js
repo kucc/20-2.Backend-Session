@@ -2,12 +2,19 @@ const net = require("net");
 let pool = [];
 
 const server = net.createServer((socket) => {
+  pool.push(socket);
   socket.on("data", (data) => {
-    console.log(data.toString());
-    pool.push(data.toString());
-    console.log(pool);
-    socket.write(data.toString());
-    //다른 모든 클라이언트들에게 뿌려주기. pool 에 있는.
+    let d = JSON.parse(data);
+    console.log(d);
+    if (!d.chat) {
+      for (let socket of pool) {
+        socket.write(`${d.name} has entered the room`);
+      }
+    } else {
+      for (let socket of pool) {
+        socket.write(`${d.chat}`);
+      }
+    }
   });
 });
 

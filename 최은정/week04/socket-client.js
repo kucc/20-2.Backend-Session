@@ -6,14 +6,23 @@ const rl = readline.createInterface({
 });
 const client = net.connect({ port: 5000, host: "localhost" });
 
-let readChat = () => {
-  rl.on("line", (chat) => client.write(JSON.stringify(chat)));
-  client.on("data", (data) => {
-    console.log(data.toString());
-  });
-  return readChat;
-};
 client.on("connect", () => {
   console.log("connected");
-  readChat();
+  rl.question("name: ", (name) => {
+    client.write(
+      JSON.stringify({
+        name: `${name}`,
+      })
+    );
+    rl.on("line", (chat) => {
+      client.write(
+        JSON.stringify({
+          chat: `${name} : ${chat}`,
+        })
+      );
+    });
+  });
+});
+client.on("data", (data) => {
+  console.log(data.toString());
 });
