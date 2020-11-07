@@ -1,34 +1,34 @@
+//지수님 코드
+
 const net = require("net");
 const readline = require("readline");
-const name = "아무무";
+
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
 
-const client = net.connect({ port: 5000, host: "localhost" });
-
-let inputLine = () => {
-  rl.on("line", function (line) {
-    let input = {
-      clientName: name,
-      contents: line,
-    };
-    client.write(JSON.stringify(input)); //JSON 객체로 바꿔줌.
-    console.log("writed");
+const sendMessage = (name) => {
+  rl.question("", (chat) => {
+    client.write(JSON.stringify({ userName: `${name}`, userChat: `${chat}` }));
+    sendMessage(name); // 재귀적으로 콘솔 입력 무한대로 받기.
   });
 };
 
+const client = net.connect({ port: 6000, host: "localhost" });
+
 client.on("connect", () => {
-  console.log("connected");
-  inputLine();
+  let name;
+  rl.question("당신의 이름을 입력하세요: ", (inputName) => {
+    name = inputName;
+    sendMessage(name);
+  });
 });
 
 client.on("data", (data) => {
-  let temp = JSON.parse(data);
-  temp[clientName];
+  console.log(data.toString());
 });
 
 client.on("close", () => {
-  console.log("채팅 종료");
+  console.log(" -- 채팅이 종료되었습니다 -- ");
 });

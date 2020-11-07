@@ -1,6 +1,6 @@
 let menus = require("./menuphan.json");
 const http = require("http");
-
+//fs 사용하면 readfileSync해야.
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
@@ -24,7 +24,7 @@ const server = http.createServer((req, res) => {
             res.write(JSON.stringify(menus[foodName]));
             //메뉴 이름에 대한 가격 반환
           } else {
-            res.write("없는 메뉴입니다!");
+            res.write("없는 메뉴입니다!"); // statuscode를 설정해야.
           }
           break;
         case "POST":
@@ -52,6 +52,7 @@ const server = http.createServer((req, res) => {
           }
       }
       res.end();
+      //fs.writeFileSync('./menuphan.json, JSON(stringfy(menu)) 비동기라 writefileSync해줘야!
     });
 });
 

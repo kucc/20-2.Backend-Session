@@ -1,5 +1,14 @@
-{
-  "chocolate": "4000",
-  "candy": "4500",
-  "pumpkin": "5000"
-}
+[
+  {
+    "menuName": "비빔밥",
+    "menuPrice": "5500"
+  },
+  {
+    "menuName": "제육덮밥",
+    "menuPrice": "6000"
+  },
+  {
+    "menuName": "카레덮밥",
+    "menuPrice": "5500"
+  }
+]

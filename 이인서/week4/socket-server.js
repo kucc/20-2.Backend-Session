@@ -1,28 +1,22 @@
+//지수님 코드
 const net = require("net");
-let pool = [];
+let pool = []; // pool 배열 선언
+
 const server = net.createServer((socket) => {
+  pool.push(socket);
   socket.on("data", (data) => {
-    let temp = JSON.parse(data);
-    pool.push(temp[clientName]);
-
-    socket.write(data); //data는 JSON. clientName: line으로 되어있음. pool에 clientName 저장.
-
-    // 클라이언트가 보낸 데이터를 pool에 저장된 모든 connectioni에 write.
+    chat = JSON.parse(data);
+    if (chat.userChat === "나가기") {
+      // "나가기" 를 입력하면 전체 채팅이 종료
+      socket.end(); //한 소켓이 끊어지면 다른 client도 사용 못함. 해결은?
+    } else {
+      for (member of pool) {
+        member.write(`${chat.userName} : ${chat.userChat}`);
+      }
+    }
   });
-
-  socket.on("end", () => {
-    console.log("채팅 접속 종료!");
-  });
 });
 
-server.on("listening", () => {
-  console.log("Server is listening");
-});
-
-server.on("close", () => {
-  console.log("Server closed");
-});
-
-server.listen(5000, () => {
-  console.log("5000번에서 대기중");
+server.listen(6000, () => {
+  console.log("-- 채팅이 시작되었습니다 --");
 });
