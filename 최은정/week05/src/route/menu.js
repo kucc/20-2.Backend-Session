@@ -1,60 +1,63 @@
+const fs = require("fs");
 const express = require("express");
 const menu = require("../data/menu.json");
 const menuRouter = express.Router();
-let menus = menu.menus;
 
 menuRouter.get("/", (req, res, next) => {
   res.json(menu);
 });
 
 menuRouter.get("/:id", (req, res, next) => {
-  for (let m of menus) {
-    if (m.id === Number(req.params.id)) {
+  const id = Number(req.params.id);
+  for (let m of menu) {
+    if (m.id === id) {
       res.send(`id: ${m.id}\nname: ${m.name}\nprice: ${m.price}`);
-    } else {
-      //없을때는 어케?
     }
   }
+  //없는 메뉴id 요청했을경우?
 });
 
 menuRouter.post("/", (req, res, next) => {
   const { name, price } = req.body;
   const newMenu = {
-    id: menus.length + 1,
+    id: menu.length + 1,
     name: name,
     price: price,
   };
-  menus.push(newMenu);
-  console.log(menus);
+  menu.push(newMenu);
+  fs.writeFile("./src/data/menu.json", JSON.stringify(menu), (err) => {
+    console.log("WriteFile didn't work");
+  });
+  console.log(menu);
   res.send("Your menu is successfully added👍");
 });
 
 menuRouter.put("/:id", (req, res, next) => {
   const { name, price } = req.body;
   const id = Number(req.params.id);
-  for (let m of menus) {
+  for (let m of menu) {
     if (m.id === id) {
       m.name = name;
       m.price = price;
-      console.log(menus);
+      console.log(menu);
+      //fs.writeFile
       res.send(m);
-    } else {
-      //없을때는 어케?
     }
   }
+  //없는 메뉴id 요청했을경우?
 });
 
 menuRouter.delete("/:id", (req, res, next) => {
   const id = Number(req.params.id);
-  for (let m of menus) {
+  for (let m of menu) {
     if (m.id === id) {
-      menus.splice(id - 1, 1);
-      console.log(menus);
+      menu.splice(id - 1, 1);
+      console.log(menu);
+      //fs.writeFile
       res.send("The menu is successfully deleted 👌");
-    } else {
-      //없을때는 어케?
     }
   }
+  //없는 메뉴id 요청했을경우?
 });
 
 module.exports = menuRouter;

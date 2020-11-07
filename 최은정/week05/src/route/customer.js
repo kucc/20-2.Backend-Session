@@ -1,15 +1,12 @@
-//let&const 차이 명확히 알 것.
-//if else 처리 명확히 할 것.
+//배열초기값설정?
 const express = require("express");
 const customerList = require("../data/customer.json");
 const customerRouter = express.Router();
 let customers = customerList.customers;
 
 customerRouter.get("/:year/:month/:date", (req, res, next) => {
-  const year = req.params.year;
-  const month = req.params.month;
-  const date = req.params.date;
-  const lastVisit = year + month + date;
+  const { year, month, date } = req.params;
+  const lastVisit = year + "-" + month + "-" + date;
   let customersOnthatDay = [];
 
   for (let c of customers) {
@@ -20,7 +17,6 @@ customerRouter.get("/:year/:month/:date", (req, res, next) => {
       };
       customersOnthatDay.push(customerOnThatDay);
     }
-    //else 처리?
   }
   res.json(customersOnthatDay);
 });
@@ -40,12 +36,17 @@ customerRouter.get("/", (req, res, next) => {
 
 customerRouter.get("/:id", (req, res, next) => {
   const id = Number(req.params.id);
+  let customersInfo = [];
   for (let c of customers) {
     if (c.id === id) {
-      res.send(`name: ${c.name}\nspending: ${c.spending}`);
+      let customerInfo = {
+        name: c.name,
+        spending: c.spending,
+      };
+      customersInfo.push(customerInfo);
     }
-    //else 처리!!!
   }
+  res.json(customersInfo);
 });
 
 customerRouter.post("/", (req, res, next) => {
@@ -54,7 +55,7 @@ customerRouter.post("/", (req, res, next) => {
   const year = myDate.getFullYear().toString();
   const month = (myDate.getMonth() + 1).toString();
   const date = myDate.getDate().toString();
-  const today = year + month + date;
+  const today = year + "-" + month + "-" + date;
 
   for (let c of customers) {
     if (c.name === name) {
@@ -62,6 +63,7 @@ customerRouter.post("/", (req, res, next) => {
       c.lastVisit = today;
     }
   }
+  //기존손님이 아니면?
   console.log(customers);
   res.send("Customer data is successfully updated 👍");
 });
