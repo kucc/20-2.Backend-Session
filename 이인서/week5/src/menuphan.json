@@ -1,0 +1,6 @@
+[
+  { "id": "1", "menuName": "비빔밥", "menuPrice": "5500" },
+  { "id": "2", "menuName": "제육덮밥", "menuPrice": "6000" },
+  { "id": "3", "menuName": "카레덮밥", "menuPrice": "5500" },
+  { "id": "4", "menuName": "감자탕", "menuPrice": "40000" }
+]
