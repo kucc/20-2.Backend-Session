@@ -1,1 +1,26 @@
-[{"id":"1","customerName":"아무무","customerSpending":"20000","visitDate":"2019-10-05T10:59:14.257Z"},{"id":"2","customerName":"야스오","customerSpending":"24000","visitDate":"2020-07-05T10:59:14.257Z"},{"id":"3","customerName":"케넨","customerSpending":"13000","visitDate":"2020-11-05T10:59:14.257Z"},{"id":"4","customerName":"티모","customerSpending":"16000","visitDate":"2020-11-07T07:55:28.377Z"}]
+[
+  {
+    "id": "1",
+    "customerName": "아무무",
+    "customerSpending": "20000",
+    "visitDate": "2019-10-05T10:59:14.257Z"
+  },
+  {
+    "id": "2",
+    "customerName": "야스오",
+    "customerSpending": "24000",
+    "visitDate": "2020-07-05T10:59:14.257Z"
+  },
+  {
+    "id": "3",
+    "customerName": "케넨",
+    "customerSpending": "13000",
+    "visitDate": "2020-11-05T10:59:14.257Z"
+  },
+  {
+    "id": "4",
+    "customerName": "티모",
+    "customerSpending": "16000",
+    "visitDate": "2020-11-07T07:55:28.377Z"
+  }
+]

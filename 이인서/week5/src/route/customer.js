@@ -9,7 +9,7 @@ customerRouter.get("/", (req, res, next) => {
 });
 
 customerRouter.get("/:year/:month/:day", (req, res, next) => {
-  res.send(customers);
+  res.send(customers); // 미완료..
 });
 
 customerRouter.get("/:id", (req, res, next) => {
@@ -38,5 +38,11 @@ customerRouter.post("/", (req, res, next) => {
   customers.push(customerItem);
   fs.writeFileSync("./src/customer.json", JSON.stringify(customers));
 });
+
+const getCustomer = function () {
+  customers.filter((item) => {
+    return item.id === req.params.id;
+  });
+};
 
 module.exports = customerRouter;
