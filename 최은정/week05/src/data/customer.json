@@ -1,34 +1,32 @@
-{
-  "customers": [
-    {
-      "id": 1,
-      "name": "최은정",
-      "spending": "7천원",
-      "lastVisit": "2020-11-1"
-    },
-    {
-      "id": 2,
-      "name": "박새로이",
-      "spending": "2백만원",
-      "lastVisit": "2020-11-2"
-    },
-    {
-      "id": 3,
-      "name": "조이서",
-      "spending": "5백만원",
-      "lastVisit": "2020-11-2"
-    },
-    {
-      "id": 4,
-      "name": "장근원",
-      "spending": "9백만원",
-      "lastVisit": "2020-11-3"
-    },
-    {
-      "id": 5,
-      "name": "오수아",
-      "spending": "3백만원",
-      "lastVisit": "2020-11-8"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "최은정",
+    "spending": "7천원",
+    "lastVisit": "2020-11-1"
+  },
+  {
+    "id": 2,
+    "name": "박새로이",
+    "spending": "9백원",
+    "lastVisit": "2020-11-9"
+  },
+  {
+    "id": 3,
+    "name": "조이서",
+    "spending": "5백만원",
+    "lastVisit": "2020-11-2"
+  },
+  {
+    "id": 4,
+    "name": "장근원",
+    "spending": "9백만원",
+    "lastVisit": "2020-11-3"
+  },
+  {
+    "id": 5,
+    "name": "오수아",
+    "spending": "3백만원",
+    "lastVisit": "2020-11-8"
+  }
+]

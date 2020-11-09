@@ -1,8 +1,7 @@
 const fs = require("fs");
 const express = require("express");
-const customerList = require("../data/customer.json");
+const customers = require("../data/customer.json");
 const customerRouter = express.Router();
-let customers = customerList.customers;
 
 customerRouter.get("/:year/:month/:date", (req, res, next) => {
   const { year, month, date } = req.params;
@@ -61,6 +60,7 @@ customerRouter.post("/", (req, res, next) => {
     return c.name === name;
   });
 
+  //기존손님이 아닌경우
   if (checkCustomers.length === 0) {
     customers.push({
       id: customers.length + 1,
@@ -68,17 +68,17 @@ customerRouter.post("/", (req, res, next) => {
       spending: spending,
       lastVisit: today,
     });
-    //file에 넣기
     fs.writeFile(
       "./src/data/customer.json",
       JSON.stringify(customers),
       (err) => {
         if (err) {
-          res.send("There was an error while updating the data.");
+          res.status(500).send("There was an error while updating the data.");
         }
-        console.log("WriteFile didn't work");
+        console.log("customer.json file is updated!");
       }
     );
+    //기존손님일 경우
   } else {
     for (let c of customers) {
       if (c.name === name) {
@@ -86,7 +86,16 @@ customerRouter.post("/", (req, res, next) => {
         c.lastVisit = today;
       }
     }
-    //file에 넣기
+    fs.writeFile(
+      "./src/data/customer.json",
+      JSON.stringify(customers),
+      (err) => {
+        if (err) {
+          res.status(500).send("There was an error while updating the data.");
+        }
+        console.log("customer.json file is updated!");
+      }
+    );
   }
 
   console.log(customers);
