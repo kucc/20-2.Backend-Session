@@ -9,12 +9,12 @@ menuRouter.get("/", (req, res, next) => {
 
 menuRouter.get("/:id", (req, res, next) => {
   const id = Number(req.params.id);
-  for (let m of menu) {
-    if (m.id === id) {
-      res.send(`id: ${m.id}\nname: ${m.name}\nprice: ${m.price}`);
-    }
+  const result = menu.filter((m) => m.id === id);
+  if (result.length !== 0) {
+    res.json(result);
+  } else {
+    res.status(404).send(`Check your id again!`);
   }
-  //없는 메뉴id 요청했을경우?
 });
 
 menuRouter.post("/", (req, res, next) => {
@@ -26,38 +26,47 @@ menuRouter.post("/", (req, res, next) => {
   };
   menu.push(newMenu);
   fs.writeFile("./src/data/menu.json", JSON.stringify(menu), (err) => {
-    console.log("WriteFile didn't work");
+    if (err) {
+      res.status(500).send("There was an error while updating the data.");
+    } else {
+      res.send("Your menu is successfully added👍");
+      console.log(menu);
+    }
   });
-  console.log(menu);
-  res.send("Your menu is successfully added👍");
 });
 
 menuRouter.put("/:id", (req, res, next) => {
   const { name, price } = req.body;
   const id = Number(req.params.id);
-  for (let m of menu) {
+  const modifiedMenu = menu.map((m) => {
     if (m.id === id) {
       m.name = name;
       m.price = price;
-      console.log(menu);
-      //fs.writeFile
-      res.send(m);
     }
-  }
-  //없는 메뉴id 요청했을경우?
+    return m;
+  });
+  fs.writeFile("./src/data/menu.json", JSON.stringify(modifiedMenu), (err) => {
+    if (err) {
+      res.status(500).send("There was an error while updating the data.");
+    } else {
+      res.send("Your menu is successfully updated👍");
+      console.log(modifiedMenu);
+    }
+  });
 });
 
 menuRouter.delete("/:id", (req, res, next) => {
   const id = Number(req.params.id);
-  for (let m of menu) {
-    if (m.id === id) {
-      menu.splice(id - 1, 1);
-      console.log(menu);
-      //fs.writeFile
-      res.send("The menu is successfully deleted 👌");
+  const newMenu = menu.filter((m) => m.id !== id);
+
+  fs.writeFile("./src/data/menu.json", JSON.stringify(newMenu), (err) => {
+    if (err) {
+      res.status(500).send("There was an error while updating the data.");
+    } else {
+      res.send("Your menu is successfully deleted👍");
+      console.log(newMenu);
     }
-  }
-  //없는 메뉴id 요청했을경우?
+  });
 });
 
 module.exports = menuRouter;
