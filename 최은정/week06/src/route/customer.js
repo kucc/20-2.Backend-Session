@@ -2,9 +2,9 @@ const express = require("express");
 const customerRouter = express.Router();
 const CustomerModel = require("../model/customerModel");
 
-customerRouter.get("/:date", async (req, res, next) => {
-  const dateObj = new Date(req.params.date);
-  const date = dateObj.toJSON().slice(0, 10);
+customerRouter.get("/date/:visitDate", async (req, res, next) => {
+  const visitDate = new Date(req.params.visitDate);
+  const date = visitDate.toJSON().slice(0, 10);
 
   const customer = await CustomerModel.getCustomerByDate(date);
   if (!customer || customer.length === 0) {
