@@ -5,7 +5,7 @@ const transactionModel = require("../model/transactionModel");
 transactionRouter.get("/", async (req, res, next) => {
   const transactions = await transactionModel.getTransactions();
   if (!transactions || transactions.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.json(transactions);
@@ -16,7 +16,7 @@ transactionRouter.get("/customer/:id", async (req, res, next) => {
   const transactions = await transactionModel.getTransactionById(id);
 
   if (!transactions || transactions.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.json(transactions);
@@ -27,7 +27,7 @@ transactionRouter.get("/menu/:id", async (req, res, next) => {
   const transactions = await transactionModel.getTransactionBymenuId(id);
 
   if (!transactions || transactions.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.json(transactions);

@@ -8,7 +8,7 @@ customerRouter.get("/date/:visitDate", async (req, res, next) => {
 
   const customer = await CustomerModel.getCustomerByDate(date);
   if (!customer || customer.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.json(customer);
@@ -18,7 +18,7 @@ customerRouter.get("/", async (req, res, next) => {
   const customer = await CustomerModel.getCustomers();
 
   if (!customer || customer.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.json(customer);
@@ -30,7 +30,7 @@ customerRouter.get("/:id", async (req, res, next) => {
   const customer = await CustomerModel.getCustomerById(id); //data를 받아온다.
 
   if (!customer || customer.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.json(customer);
@@ -44,7 +44,7 @@ customerRouter.post("/", async (req, res, next) => {
   const newCustomer = await CustomerModel.createCustomer(body);
 
   if (!newCustomer || newCustomer.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
 

@@ -6,7 +6,7 @@ menuRouter.get("/", async (req, res, next) => {
   const menus = await menuModel.getMenus();
 
   if (!menus || menus.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.json(menus);
@@ -18,7 +18,7 @@ menuRouter.get("/:id", async (req, res, next) => {
   const menus = await menuModel.getMenuById(id);
 
   if (!menus || menus.length === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.json(menus);
@@ -32,7 +32,7 @@ menuRouter.post("/", async (req, res, next) => {
   const newMenu = await menuModel.createMenu(body);
 
   if (newMenu.affectedRows === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
 
@@ -49,7 +49,7 @@ menuRouter.put("/:id", async (req, res, next) => {
   const updatedMenu = await menuModel.updateMenu(id, body);
 
   if (updatedMenu.changedRows === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.send("Menu is updated.");
@@ -60,7 +60,7 @@ menuRouter.delete("/:id", async (req, res, next) => {
   const menu = await menuModel.deleteMenu(id);
 
   if (menu.affectedRows === 0) {
-    res.status(400).json({ false: "Not Found" });
+    res.status(404).json({ false: "Not Found" });
     return;
   }
   res.send("Menu is deleted");

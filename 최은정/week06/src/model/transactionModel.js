@@ -6,8 +6,11 @@ class transactionModel {
 
     const [data] = await connection
       .query(
-        `select * from transaction join customer on customer.customerId = transaction.customerId
-        join menu on menu.menuId = transaction.menuId order by customer.date asc;`
+        `select transaction.date, customer.customerId, customer.name, customer.spending, menu.menuName, menu.price 
+        from transaction 
+        inner join customer on customer.customerId = transaction.customerId
+        inner join menu on menu.menuId = transaction.menuId 
+        order by transaction.date asc;`
       )
       .catch((err) => {
         console.log(err);
@@ -21,9 +24,12 @@ class transactionModel {
 
     const [data] = await connection
       .query(
-        `select * from transaction join customer on customer.customerId = transaction.customerId
-        join menu on menu.menuId = transaction.menuId
-      where customer.customerId = ? order by customer.date asc`,
+        `select customer.customerId, customer.name, customer.spending, menu.menuName, menu.price, transaction.date
+        from transaction 
+        inner join customer on customer.customerId = transaction.customerId
+        inner join menu on menu.menuId = transaction.menuId
+      where customer.customerId = ? 
+      order by transaction.date asc`,
         [id]
       )
       .catch((err) => {
@@ -39,25 +45,14 @@ class transactionModel {
 
     const [data] = await connection
       .query(
-        `select * from transaction join customer on customer.customerId = transaction.customerId
-      join menu on menu.menuId = transaction.menuId
-    where menu.menuId = ? order by customer.date asc`,
+        `select menu.menuId, menu.menuName, menu.price, customer.name, customer.spending, transaction.date
+        from transaction 
+        inner join customer on customer.customerId = transaction.customerId
+        inner join menu on menu.menuId = transaction.menuId
+      where menu.menuId = ? 
+      order by transaction.date asc`,
         [id]
       )
-      .catch((err) => {
-        console.log(err);
-        return;
-      });
-
-    connection.release();
-    return data;
-  }
-
-  static async getCustomers() {
-    const connection = await DBPool.getConnection();
-
-    const [data] = await connection
-      .query("select customerId, name from customer")
       .catch((err) => {
         console.log(err);
         return;
